@@ -1,0 +1,3104 @@
+"id","date","state_name","state_code","airport","freight"
+0,"2022-01-01","West Bengal","19","Kolkata",3088.0
+1,"2022-01-01","Tamil Nadu","33","Chennai",20054.0
+2,"2022-01-01","Goa","30","Goa",93.0
+3,"2022-01-01","Jammu and Kashmir","1","Srinagar",0.0
+4,"2022-01-01","Odisha","21","Bhubaneswar",0.0
+5,"2022-01-01","Uttar Pradesh","9","Varanasi",56.0
+6,"2022-01-01","Kerala","32","Calicut",779.0
+7,"2022-01-01","Punjab","3","Amritsar",62.0
+8,"2022-01-01","Tamil Nadu","33","Coimbatore",107.0
+9,"2022-01-01","Andhra Pradesh","28","Vijayawada",0.0
+10,"2022-01-01","Manipur","14","Imphal",0.0
+11,"2022-01-01","Andaman and Nicobar Islands","35","Portblair",0.0
+12,"2022-01-01","Tamil Nadu","33","Trichy",500.0
+13,"2022-01-01","Andhra Pradesh","28","Tirupati",0.0
+14,"2022-01-01","Uttar Pradesh","9","Kushinagar",0.0
+15,"2022-01-01","Gujarat","24","Ahmedabad",4061.0
+16,"2022-01-01","Uttar Pradesh","9","Lucknow",232.0
+17,"2022-01-01","Karnataka","29","Manglore",108.0
+18,"2022-01-01","Assam","18","Guwahati",0.0
+19,"2022-01-01","Rajasthan","8","Jaipur",14.0
+20,"2022-01-01","Kerala","32","Trivandrum",874.0
+21,"2022-01-01","Delhi","7","Delhi",48129.0
+22,"2022-01-01","Maharashtra","27","Mumbai",41803.0
+23,"2022-01-01","Karnataka","29","Bangalore",21710.0
+24,"2022-01-01","Telangana","36","Hyderabad",5711.0
+25,"2022-01-01","Kerala","32","Cochin",3386.0
+26,"2022-01-01","Maharashtra","27","Nagpur",4.0
+27,"2022-01-01","Kerala","32","Kannur",265.0
+28,"2022-01-01","Bihar","10","Patna",0.0
+29,"2022-01-01","Maharashtra","27","Pune",0.0
+30,"2022-01-01","West Bengal","19","Bagdora",0.0
+31,"2022-01-01","Chandigarh","4","Chandigarh",0.0
+32,"2022-01-01","Andhra Pradesh","28","Visakhapatnam",2.0
+33,"2022-01-01","Madhya Pradesh","23","Indore",10.0
+34,"2022-01-01","Tamil Nadu","33","Madurai",28.0
+35,"2022-01-01","Gujarat","24","Surat",0.0
+36,"2022-01-01","Maharashtra","27","Aurangabad",0.0
+37,"2022-01-01","Bihar","10","Gaya",0.0
+38,"2022-02-01","West Bengal","19","Kolkata",2870.0
+39,"2022-02-01","Tamil Nadu","33","Chennai",19209.0
+40,"2022-02-01","Goa","30","Goa",97.0
+41,"2022-02-01","Jammu and Kashmir","1","Srinagar",0.0
+42,"2022-02-01","Odisha","21","Bhubaneswar",0.0
+43,"2022-02-01","Uttar Pradesh","9","Varanasi",8.0
+44,"2022-02-01","Kerala","32","Calicut",671.0
+45,"2022-02-01","Punjab","3","Amritsar",77.0
+46,"2022-02-01","Tamil Nadu","33","Coimbatore",71.0
+47,"2022-02-01","Andhra Pradesh","28","Vijayawada",0.0
+48,"2022-02-01","Manipur","14","Imphal",0.0
+49,"2022-02-01","Andaman and Nicobar Islands","35","Portblair",0.0
+50,"2022-02-01","Tamil Nadu","33","Trichy",500.0
+51,"2022-02-01","Andhra Pradesh","28","Tirupati",0.0
+52,"2022-02-01","Uttar Pradesh","9","Kushinagar",0.0
+53,"2022-02-01","Gujarat","24","Ahmedabad",4192.0
+54,"2022-02-01","Uttar Pradesh","9","Lucknow",217.0
+55,"2022-02-01","Karnataka","29","Manglore",114.0
+56,"2022-02-01","Assam","18","Guwahati",0.0
+57,"2022-02-01","Rajasthan","8","Jaipur",16.0
+58,"2022-02-01","Kerala","32","Trivandrum",1124.0
+59,"2022-02-01","Delhi","7","Delhi",43246.0
+60,"2022-02-01","Maharashtra","27","Mumbai",41449.0
+61,"2022-02-01","Karnataka","29","Bangalore",20981.0
+62,"2022-02-01","Telangana","36","Hyderabad",6270.0
+63,"2022-02-01","Kerala","32","Cochin",3424.0
+64,"2022-02-01","Maharashtra","27","Nagpur",35.0
+65,"2022-02-01","Kerala","32","Kannur",409.0
+66,"2022-02-01","Bihar","10","Patna",0.0
+67,"2022-02-01","Maharashtra","27","Pune",0.0
+68,"2022-02-01","West Bengal","19","Bagdora",0.0
+69,"2022-02-01","Chandigarh","4","Chandigarh",0.0
+70,"2022-02-01","Andhra Pradesh","28","Visakhapatnam",6.0
+71,"2022-02-01","Madhya Pradesh","23","Indore",4.0
+72,"2022-02-01","Tamil Nadu","33","Madurai",51.0
+73,"2022-02-01","Gujarat","24","Surat",0.0
+74,"2022-02-01","Maharashtra","27","Aurangabad",0.0
+75,"2022-02-01","Bihar","10","Gaya",0.0
+76,"2022-03-01","West Bengal","19","Kolkata",4095.0
+77,"2022-03-01","Tamil Nadu","33","Chennai",24485.0
+78,"2022-03-01","Goa","30","Goa",111.0
+79,"2022-03-01","Jammu and Kashmir","1","Srinagar",0.0
+80,"2022-03-01","Odisha","21","Bhubaneswar",0.0
+81,"2022-03-01","Uttar Pradesh","9","Varanasi",2.0
+82,"2022-03-01","Kerala","32","Calicut",811.0
+83,"2022-03-01","Punjab","3","Amritsar",78.0
+84,"2022-03-01","Tamil Nadu","33","Coimbatore",85.0
+85,"2022-03-01","Andhra Pradesh","28","Vijayawada",0.0
+86,"2022-03-01","Manipur","14","Imphal",0.0
+87,"2022-03-01","Andaman and Nicobar Islands","35","Portblair",0.0
+88,"2022-03-01","Tamil Nadu","33","Trichy",555.0
+89,"2022-03-01","Andhra Pradesh","28","Tirupati",0.0
+90,"2022-03-01","Uttar Pradesh","9","Kushinagar",0.0
+91,"2022-03-01","Gujarat","24","Ahmedabad",4891.0
+92,"2022-03-01","Uttar Pradesh","9","Lucknow",256.0
+93,"2022-03-01","Karnataka","29","Manglore",135.0
+94,"2022-03-01","Assam","18","Guwahati",0.0
+95,"2022-03-01","Rajasthan","8","Jaipur",12.0
+96,"2022-03-01","Kerala","32","Trivandrum",1164.0
+97,"2022-03-01","Delhi","7","Delhi",52551.0
+98,"2022-03-01","Maharashtra","27","Mumbai",49468.0
+99,"2022-03-01","Karnataka","29","Bangalore",23843.0
+100,"2022-03-01","Telangana","36","Hyderabad",7148.0
+101,"2022-03-01","Kerala","32","Cochin",4284.0
+102,"2022-03-01","Maharashtra","27","Nagpur",3.0
+103,"2022-03-01","Kerala","32","Kannur",370.0
+104,"2022-03-01","Bihar","10","Patna",0.0
+105,"2022-03-01","Maharashtra","27","Pune",5.0
+106,"2022-03-01","West Bengal","19","Bagdora",0.0
+107,"2022-03-01","Chandigarh","4","Chandigarh",0.0
+108,"2022-03-01","Andhra Pradesh","28","Visakhapatnam",1.0
+109,"2022-03-01","Madhya Pradesh","23","Indore",8.0
+110,"2022-03-01","Tamil Nadu","33","Madurai",37.0
+111,"2022-03-01","Gujarat","24","Surat",0.0
+112,"2022-03-01","Maharashtra","27","Aurangabad",0.0
+113,"2022-03-01","Bihar","10","Gaya",0.0
+114,"2022-04-01","West Bengal","19","Kolkata",3570.0
+115,"2022-04-01","Tamil Nadu","33","Chennai",23249.0
+116,"2022-04-01","Goa","30","Goa",173.0
+117,"2022-04-01","Jammu and Kashmir","1","Srinagar",0.0
+118,"2022-04-01","Odisha","21","Bhubaneswar",0.0
+119,"2022-04-01","Uttar Pradesh","9","Varanasi",4.0
+120,"2022-04-01","Kerala","32","Calicut",863.0
+121,"2022-04-01","Punjab","3","Amritsar",142.0
+122,"2022-04-01","Tamil Nadu","33","Coimbatore",73.0
+123,"2022-04-01","Andhra Pradesh","28","Vijayawada",0.0
+124,"2022-04-01","Manipur","14","Imphal",0.0
+125,"2022-04-01","Andaman and Nicobar Islands","35","Portblair",0.0
+126,"2022-04-01","Tamil Nadu","33","Trichy",0.0
+127,"2022-04-01","Andhra Pradesh","28","Tirupati",517.0
+128,"2022-04-01","Uttar Pradesh","9","Kushinagar",0.0
+129,"2022-04-01","Gujarat","24","Ahmedabad",4184.0
+130,"2022-04-01","Uttar Pradesh","9","Lucknow",382.0
+131,"2022-04-01","Karnataka","29","Manglore",0.0
+132,"2022-04-01","Assam","18","Guwahati",16.0
+133,"2022-04-01","Rajasthan","8","Jaipur",1255.0
+134,"2022-04-01","Kerala","32","Trivandrum",195.0
+135,"2022-04-01","Delhi","7","Delhi",50844.0
+136,"2022-04-01","Maharashtra","27","Mumbai",46532.0
+137,"2022-04-01","Karnataka","29","Bangalore",20416.0
+138,"2022-04-01","Telangana","36","Hyderabad",6627.0
+139,"2022-04-01","Kerala","32","Cochin",5172.0
+140,"2022-04-01","Maharashtra","27","Nagpur",12.0
+141,"2022-04-01","Kerala","32","Kannur",299.0
+142,"2022-04-01","Bihar","10","Patna",5.0
+143,"2022-04-01","Maharashtra","27","Pune",0.0
+144,"2022-05-01","West Bengal","19","Bagdora",0.0
+145,"2022-05-01","Chandigarh","4","Chandigarh",0.0
+146,"2022-05-01","Andhra Pradesh","28","Visakhapatnam",9.0
+147,"2022-05-01","Madhya Pradesh","23","Indore",3.0
+148,"2022-05-01","Tamil Nadu","33","Madurai",0.0
+149,"2022-05-01","Gujarat","24","Surat",113.0
+150,"2022-05-01","Maharashtra","27","Aurangabad",0.0
+151,"2022-05-01","Bihar","10","Gaya",0.0
+152,"2022-05-01","West Bengal","19","Kolkata",2843.0
+153,"2022-05-01","Tamil Nadu","33","Chennai",22267.0
+154,"2022-05-01","Goa","30","Goa",205.0
+155,"2022-05-01","Jammu and Kashmir","1","Srinagar",0.0
+156,"2022-05-01","Odisha","21","Bhubaneswar",0.0
+157,"2022-05-01","Uttar Pradesh","9","Varanasi",3.0
+158,"2022-05-01","Kerala","32","Calicut",987.0
+159,"2022-05-01","Punjab","3","Amritsar",136.0
+160,"2022-05-01","Tamil Nadu","33","Coimbatore",68.0
+161,"2022-05-01","Andhra Pradesh","28","Vijayawada",0.0
+162,"2022-05-01","Manipur","14","Imphal",0.0
+163,"2022-05-01","Andaman and Nicobar Islands","35","Portblair",0.0
+164,"2022-05-01","Tamil Nadu","33","Trichy",0.0
+165,"2022-05-01","Andhra Pradesh","28","Tirupati",508.0
+166,"2022-05-01","Uttar Pradesh","9","Kushinagar",0.0
+167,"2022-05-01","Gujarat","24","Ahmedabad",4145.0
+168,"2022-05-01","Uttar Pradesh","9","Lucknow",252.0
+169,"2022-05-01","Karnataka","29","Manglore",0.0
+170,"2022-05-01","Assam","18","Guwahati",17.0
+171,"2022-05-01","Rajasthan","8","Jaipur",1094.0
+172,"2022-05-01","Kerala","32","Trivandrum",143.0
+173,"2022-05-01","Delhi","7","Delhi",46085.0
+174,"2022-05-01","Maharashtra","27","Mumbai",46032.0
+175,"2022-05-01","Karnataka","29","Bangalore",21492.0
+176,"2022-05-01","Telangana","36","Hyderabad",6135.0
+177,"2022-05-01","Kerala","32","Cochin",3768.0
+178,"2022-05-01","Maharashtra","27","Nagpur",4.0
+179,"2022-05-01","Kerala","32","Kannur",340.0
+180,"2022-05-01","Bihar","10","Patna",4.0
+181,"2022-05-01","Maharashtra","27","Pune",0.0
+182,"2022-05-01","Andhra Pradesh","28","Visakhapatnam",1.0
+183,"2022-05-01","Madhya Pradesh","23","Indore",1.0
+184,"2022-05-01","Gujarat","24","Surat",116.0
+185,"2021-01-01","West Bengal","19","Kolkata",3512.0
+186,"2021-01-01","Tamil Nadu","33","Chennai",21525.0
+187,"2021-01-01","Goa","30","Goa",9.0
+188,"2021-01-01","Jammu and Kashmir","1","Srinagar",0.0
+189,"2021-01-01","Odisha","21","Bhubaneswar",0.0
+190,"2021-01-01","Uttar Pradesh","9","Varanasi",3.0
+191,"2021-01-01","Kerala","32","Calicut",607.0
+192,"2021-01-01","Punjab","3","Amritsar",34.0
+193,"2021-01-01","Tamil Nadu","33","Coimbatore",43.0
+194,"2021-01-01","Andhra Pradesh","28","Vijayawada",0.0
+195,"2021-01-01","Manipur","14","Imphal",0.0
+196,"2021-01-01","Andaman and Nicobar Islands","35","Portblair",0.0
+197,"2021-01-01","Tamil Nadu","33","Trichy",276.0
+198,"2021-01-01","Andhra Pradesh","28","Tirupati",0.0
+199,"2021-01-01","Uttar Pradesh","9","Kushinagar",0.0
+200,"2021-01-01","Gujarat","24","Ahmedabad",3031.0
+201,"2021-01-01","Uttar Pradesh","9","Lucknow",61.0
+202,"2021-01-01","Karnataka","29","Manglore",28.0
+203,"2021-01-01","Assam","18","Guwahati",0.0
+204,"2021-01-01","Rajasthan","8","Jaipur",63.0
+205,"2021-01-01","Kerala","32","Trivandrum",992.0
+206,"2021-01-01","Delhi","7","Delhi",43810.0
+207,"2021-01-01","Maharashtra","27","Mumbai",41721.0
+208,"2021-01-01","Karnataka","29","Bangalore",19259.0
+209,"2021-01-01","Telangana","36","Hyderabad",5892.0
+210,"2021-01-01","Kerala","32","Cochin",2708.0
+211,"2021-01-01","Maharashtra","27","Nagpur",0.0
+212,"2021-01-01","Kerala","32","Kannur",0.0
+213,"2021-01-01","Bihar","10","Patna",0.0
+214,"2021-01-01","Maharashtra","27","Pune",0.0
+215,"2021-01-01","West Bengal","19","Bagdora",0.0
+216,"2021-01-01","Chandigarh","4","Chandigarh",0.0
+217,"2021-01-01","Andhra Pradesh","28","Visakhapatnam",1.0
+218,"2021-01-01","Madhya Pradesh","23","Indore",11.0
+219,"2021-01-01","Tamil Nadu","33","Madurai",33.0
+220,"2021-01-01","Gujarat","24","Surat",0.0
+221,"2021-01-01","Maharashtra","27","Aurangabad",0.0
+222,"2021-01-01","Bihar","10","Gaya",0.0
+223,"2021-02-01","West Bengal","19","Kolkata",2969.0
+224,"2021-02-01","Tamil Nadu","33","Chennai",21769.0
+225,"2021-02-01","Goa","30","Goa",5.0
+226,"2021-02-01","Jammu and Kashmir","1","Srinagar",0.0
+227,"2021-02-01","Odisha","21","Bhubaneswar",0.0
+228,"2021-02-01","Uttar Pradesh","9","Varanasi",1.0
+229,"2021-02-01","Kerala","32","Calicut",603.0
+230,"2021-02-01","Punjab","3","Amritsar",35.0
+231,"2021-02-01","Tamil Nadu","33","Coimbatore",43.0
+232,"2021-02-01","Andhra Pradesh","28","Vijayawada",0.0
+233,"2021-02-01","Manipur","14","Imphal",0.0
+234,"2021-02-01","Andaman and Nicobar Islands","35","Portblair",0.0
+235,"2021-02-01","Tamil Nadu","33","Trichy",307.0
+236,"2021-02-01","Andhra Pradesh","28","Tirupati",0.0
+237,"2021-02-01","Uttar Pradesh","9","Kushinagar",0.0
+238,"2021-02-01","Gujarat","24","Ahmedabad",3189.0
+239,"2021-02-01","Uttar Pradesh","9","Lucknow",130.0
+240,"2021-02-01","Karnataka","29","Manglore",18.0
+241,"2021-02-01","Assam","18","Guwahati",0.0
+242,"2021-02-01","Rajasthan","8","Jaipur",12.0
+243,"2021-02-01","Kerala","32","Trivandrum",902.0
+244,"2021-02-01","Delhi","7","Delhi",43318.0
+245,"2021-02-01","Maharashtra","27","Mumbai",44209.0
+246,"2021-02-01","Karnataka","29","Bangalore",19060.0
+247,"2021-02-01","Telangana","36","Hyderabad",6248.0
+248,"2021-02-01","Kerala","32","Cochin",2758.0
+249,"2021-02-01","Maharashtra","27","Nagpur",3.0
+250,"2021-02-01","Kerala","32","Kannur",0.0
+251,"2021-02-01","Bihar","10","Patna",0.0
+252,"2021-02-01","Maharashtra","27","Pune",0.0
+253,"2021-02-01","West Bengal","19","Bagdora",0.0
+254,"2021-02-01","Chandigarh","4","Chandigarh",0.0
+255,"2021-02-01","Andhra Pradesh","28","Visakhapatnam",0.0
+256,"2021-02-01","Madhya Pradesh","23","Indore",7.0
+257,"2021-02-01","Tamil Nadu","33","Madurai",28.0
+258,"2021-02-01","Gujarat","24","Surat",0.0
+259,"2021-02-01","Maharashtra","27","Aurangabad",0.0
+260,"2021-02-01","Bihar","10","Gaya",0.0
+261,"2021-03-01","West Bengal","19","Kolkata",4201.0
+262,"2021-03-01","Tamil Nadu","33","Chennai",26770.0
+263,"2021-03-01","Goa","30","Goa",4.0
+264,"2021-03-01","Jammu and Kashmir","1","Srinagar",0.0
+265,"2021-03-01","Odisha","21","Bhubaneswar",0.0
+266,"2021-03-01","Uttar Pradesh","9","Varanasi",0.0
+267,"2021-03-01","Kerala","32","Calicut",643.0
+268,"2021-03-01","Punjab","3","Amritsar",43.0
+269,"2021-03-01","Tamil Nadu","33","Coimbatore",68.0
+270,"2021-03-01","Andhra Pradesh","28","Vijayawada",0.0
+271,"2021-03-01","Manipur","14","Imphal",0.0
+272,"2021-03-01","Andaman and Nicobar Islands","35","Portblair",0.0
+273,"2021-03-01","Tamil Nadu","33","Trichy",414.0
+274,"2021-03-01","Andhra Pradesh","28","Tirupati",0.0
+275,"2021-03-01","Uttar Pradesh","9","Kushinagar",0.0
+276,"2021-03-01","Gujarat","24","Ahmedabad",3684.0
+277,"2021-03-01","Uttar Pradesh","9","Lucknow",90.0
+278,"2021-03-01","Karnataka","29","Manglore",58.0
+279,"2021-03-01","Assam","18","Guwahati",0.0
+280,"2021-03-01","Rajasthan","8","Jaipur",20.0
+281,"2021-03-01","Kerala","32","Trivandrum",1132.0
+282,"2021-03-01","Delhi","7","Delhi",51631.0
+283,"2021-03-01","Maharashtra","27","Mumbai",51579.0
+284,"2021-03-01","Karnataka","29","Bangalore",21966.0
+285,"2021-03-01","Telangana","36","Hyderabad",6796.0
+286,"2021-03-01","Kerala","32","Cochin",3324.0
+287,"2021-03-01","Maharashtra","27","Nagpur",0.0
+288,"2021-03-01","Kerala","32","Kannur",0.0
+289,"2021-03-01","Bihar","10","Patna",0.0
+290,"2021-03-01","Maharashtra","27","Pune",0.0
+291,"2021-03-01","West Bengal","19","Bagdora",0.0
+292,"2021-03-01","Chandigarh","4","Chandigarh",0.0
+293,"2021-03-01","Andhra Pradesh","28","Visakhapatnam",0.0
+294,"2021-03-01","Madhya Pradesh","23","Indore",10.0
+295,"2021-03-01","Tamil Nadu","33","Madurai",34.0
+296,"2021-03-01","Gujarat","24","Surat",0.0
+297,"2021-03-01","Maharashtra","27","Aurangabad",0.0
+298,"2021-03-01","Bihar","10","Gaya",0.0
+299,"2021-04-01","West Bengal","19","Kolkata",3446.0
+300,"2021-04-01","Tamil Nadu","33","Chennai",24447.0
+301,"2021-04-01","Goa","30","Goa",13.0
+302,"2021-04-01","Jammu and Kashmir","1","Srinagar",0.0
+303,"2021-04-01","Odisha","21","Bhubaneswar",0.0
+304,"2021-04-01","Uttar Pradesh","9","Varanasi",0.0
+305,"2021-04-01","Kerala","32","Calicut",753.0
+306,"2021-04-01","Punjab","3","Amritsar",51.0
+307,"2021-04-01","Tamil Nadu","33","Coimbatore",66.0
+308,"2021-04-01","Andhra Pradesh","28","Vijayawada",0.0
+309,"2021-04-01","Manipur","14","Imphal",0.0
+310,"2021-04-01","Andaman and Nicobar Islands","35","Portblair",0.0
+311,"2021-04-01","Tamil Nadu","33","Trichy",0.0
+312,"2021-04-01","Andhra Pradesh","28","Tirupati",337.0
+313,"2021-04-01","Uttar Pradesh","9","Kushinagar",0.0
+314,"2021-04-01","Gujarat","24","Ahmedabad",3950.0
+315,"2021-04-01","Uttar Pradesh","9","Lucknow",193.0
+316,"2021-04-01","Karnataka","29","Manglore",0.0
+317,"2021-04-01","Assam","18","Guwahati",14.0
+318,"2021-04-01","Rajasthan","8","Jaipur",1267.0
+319,"2021-04-01","Kerala","32","Trivandrum",86.0
+320,"2021-04-01","Delhi","7","Delhi",50752.0
+321,"2021-04-01","Maharashtra","27","Mumbai",49757.0
+322,"2021-04-01","Karnataka","29","Bangalore",21743.0
+323,"2021-04-01","Telangana","36","Hyderabad",5604.0
+324,"2021-04-01","Kerala","32","Cochin",3610.0
+325,"2021-04-01","Maharashtra","27","Nagpur",0.0
+326,"2021-04-01","Kerala","32","Kannur",0.0
+327,"2021-04-01","Bihar","10","Patna",0.0
+328,"2021-04-01","Maharashtra","27","Pune",0.0
+329,"2021-04-01","West Bengal","19","Bagdora",0.0
+330,"2021-04-01","Chandigarh","4","Chandigarh",0.0
+331,"2021-04-01","Andhra Pradesh","28","Visakhapatnam",7.0
+332,"2021-04-01","Madhya Pradesh","23","Indore",2.0
+333,"2021-04-01","Tamil Nadu","33","Madurai",0.0
+334,"2021-04-01","Gujarat","24","Surat",50.0
+335,"2021-04-01","Maharashtra","27","Aurangabad",0.0
+336,"2021-04-01","Bihar","10","Gaya",0.0
+337,"2021-05-01","West Bengal","19","Kolkata",2773.0
+338,"2021-05-01","Tamil Nadu","33","Chennai",22160.0
+339,"2021-05-01","Goa","30","Goa",1.0
+340,"2021-05-01","Jammu and Kashmir","1","Srinagar",0.0
+341,"2021-05-01","Odisha","21","Bhubaneswar",31.0
+342,"2021-05-01","Uttar Pradesh","9","Varanasi",0.0
+343,"2021-05-01","Kerala","32","Calicut",559.0
+344,"2021-05-01","Punjab","3","Amritsar",40.0
+345,"2021-05-01","Tamil Nadu","33","Coimbatore",57.0
+346,"2021-05-01","Andhra Pradesh","28","Vijayawada",0.0
+347,"2021-05-01","Manipur","14","Imphal",0.0
+348,"2021-05-01","Andaman and Nicobar Islands","35","Portblair",0.0
+349,"2021-05-01","Tamil Nadu","33","Trichy",0.0
+350,"2021-05-01","Andhra Pradesh","28","Tirupati",249.0
+351,"2021-05-01","Uttar Pradesh","9","Kushinagar",0.0
+352,"2021-05-01","Gujarat","24","Ahmedabad",3996.0
+353,"2021-05-01","Uttar Pradesh","9","Lucknow",145.0
+354,"2021-05-01","Karnataka","29","Manglore",0.0
+355,"2021-05-01","Assam","18","Guwahati",18.0
+356,"2021-05-01","Rajasthan","8","Jaipur",1300.0
+357,"2021-05-01","Kerala","32","Trivandrum",38.0
+358,"2021-05-01","Delhi","7","Delhi",53998.0
+359,"2021-05-01","Maharashtra","27","Mumbai",48664.0
+360,"2021-05-01","Karnataka","29","Bangalore",20926.0
+361,"2021-05-01","Telangana","36","Hyderabad",6192.0
+362,"2021-05-01","Kerala","32","Cochin",3058.0
+363,"2021-05-01","Maharashtra","27","Nagpur",0.0
+364,"2021-05-01","Kerala","32","Kannur",0.0
+365,"2021-05-01","Bihar","10","Patna",0.0
+366,"2021-05-01","Maharashtra","27","Pune",0.0
+367,"2021-05-01","West Bengal","19","Bagdora",0.0
+368,"2021-05-01","Chandigarh","4","Chandigarh",0.0
+369,"2021-05-01","Andhra Pradesh","28","Visakhapatnam",3.0
+370,"2021-05-01","Madhya Pradesh","23","Indore",7.0
+371,"2021-05-01","Tamil Nadu","33","Madurai",0.0
+372,"2021-05-01","Gujarat","24","Surat",27.0
+373,"2021-05-01","Maharashtra","27","Aurangabad",0.0
+374,"2021-05-01","Bihar","10","Gaya",0.0
+375,"2021-06-01","West Bengal","19","Kolkata",3281.0
+376,"2021-06-01","Tamil Nadu","33","Chennai",21786.0
+377,"2021-06-01","Goa","30","Goa",1.0
+378,"2021-06-01","Jammu and Kashmir","1","Srinagar",0.0
+379,"2021-06-01","Odisha","21","Bhubaneswar",0.0
+380,"2021-06-01","Uttar Pradesh","9","Varanasi",0.0
+381,"2021-06-01","Kerala","32","Calicut",477.0
+382,"2021-06-01","Punjab","3","Amritsar",39.0
+383,"2021-06-01","Tamil Nadu","33","Coimbatore",39.0
+384,"2021-06-01","Andhra Pradesh","28","Vijayawada",0.0
+385,"2021-06-01","Manipur","14","Imphal",0.0
+386,"2021-06-01","Andaman and Nicobar Islands","35","Portblair",0.0
+387,"2021-06-01","Tamil Nadu","33","Trichy",350.0
+388,"2021-06-01","Andhra Pradesh","28","Tirupati",0.0
+389,"2021-06-01","Uttar Pradesh","9","Kushinagar",0.0
+390,"2021-06-01","Gujarat","24","Ahmedabad",4031.0
+391,"2021-06-01","Uttar Pradesh","9","Lucknow",89.0
+392,"2021-06-01","Karnataka","29","Manglore",32.0
+393,"2021-06-01","Assam","18","Guwahati",5.0
+394,"2021-06-01","Rajasthan","8","Jaipur",17.0
+395,"2021-06-01","Kerala","32","Trivandrum",1227.0
+396,"2021-06-01","Delhi","7","Delhi",49720.0
+397,"2021-06-01","Maharashtra","27","Mumbai",46465.0
+398,"2021-06-01","Karnataka","29","Bangalore",20666.0
+399,"2021-06-01","Telangana","36","Hyderabad",6196.0
+400,"2021-06-01","Kerala","32","Cochin",2903.0
+401,"2021-06-01","Maharashtra","27","Nagpur",0.0
+402,"2021-06-01","Kerala","32","Kannur",0.0
+403,"2021-06-01","Bihar","10","Patna",0.0
+404,"2021-06-01","Maharashtra","27","Pune",0.0
+405,"2021-06-01","West Bengal","19","Bagdora",0.0
+406,"2021-06-01","Chandigarh","4","Chandigarh",0.0
+407,"2021-06-01","Andhra Pradesh","28","Visakhapatnam",0.0
+408,"2021-06-01","Madhya Pradesh","23","Indore",8.0
+409,"2021-06-01","Tamil Nadu","33","Madurai",0.0
+410,"2021-06-01","Gujarat","24","Surat",0.0
+411,"2021-06-01","Maharashtra","27","Aurangabad",0.0
+412,"2021-06-01","Bihar","10","Gaya",0.0
+413,"2021-07-01","West Bengal","19","Kolkata",3516.0
+414,"2021-07-01","Tamil Nadu","33","Chennai",24312.0
+415,"2021-07-01","Goa","30","Goa",2.0
+416,"2021-07-01","Jammu and Kashmir","1","Srinagar",0.0
+417,"2021-07-01","Odisha","21","Bhubaneswar",0.0
+418,"2021-07-01","Uttar Pradesh","9","Varanasi",0.0
+419,"2021-07-01","Kerala","32","Calicut",606.0
+420,"2021-07-01","Punjab","3","Amritsar",47.0
+421,"2021-07-01","Tamil Nadu","33","Coimbatore",76.0
+422,"2021-07-01","Andhra Pradesh","28","Vijayawada",0.0
+423,"2021-07-01","Manipur","14","Imphal",0.0
+424,"2021-07-01","Andaman and Nicobar Islands","35","Portblair",0.0
+425,"2021-07-01","Tamil Nadu","33","Trichy",351.0
+426,"2021-07-01","Andhra Pradesh","28","Tirupati",0.0
+427,"2021-07-01","Uttar Pradesh","9","Kushinagar",0.0
+428,"2021-07-01","Gujarat","24","Ahmedabad",3837.0
+429,"2021-07-01","Uttar Pradesh","9","Lucknow",73.0
+430,"2021-07-01","Karnataka","29","Manglore",65.0
+431,"2021-07-01","Assam","18","Guwahati",28.0
+432,"2021-07-01","Rajasthan","8","Jaipur",18.0
+433,"2021-07-01","Kerala","32","Trivandrum",1372.0
+434,"2021-07-01","Delhi","7","Delhi",48970.0
+435,"2021-07-01","Maharashtra","27","Mumbai",45560.0
+436,"2021-07-01","Karnataka","29","Bangalore",22758.0
+437,"2021-07-01","Telangana","36","Hyderabad",6429.0
+438,"2021-07-01","Kerala","32","Cochin",3821.0
+439,"2021-07-01","Maharashtra","27","Nagpur",56.0
+440,"2021-07-01","Kerala","32","Kannur",0.0
+441,"2021-07-01","Bihar","10","Patna",0.0
+442,"2021-07-01","Maharashtra","27","Pune",0.0
+443,"2021-07-01","West Bengal","19","Bagdora",0.0
+444,"2021-07-01","Chandigarh","4","Chandigarh",0.0
+445,"2021-07-01","Andhra Pradesh","28","Visakhapatnam",0.0
+446,"2021-07-01","Madhya Pradesh","23","Indore",0.0
+447,"2021-07-01","Tamil Nadu","33","Madurai",7.0
+448,"2021-07-01","Gujarat","24","Surat",0.0
+449,"2021-07-01","Maharashtra","27","Aurangabad",0.0
+450,"2021-07-01","Bihar","10","Gaya",0.0
+451,"2021-08-01","West Bengal","19","Kolkata",3096.0
+452,"2021-08-01","Tamil Nadu","33","Chennai",24083.0
+453,"2021-08-01","Goa","30","Goa",15.0
+454,"2021-08-01","Jammu and Kashmir","1","Srinagar",0.0
+455,"2021-08-01","Odisha","21","Bhubaneswar",0.0
+456,"2021-08-01","Uttar Pradesh","9","Varanasi",0.0
+457,"2021-08-01","Kerala","32","Calicut",881.0
+458,"2021-08-01","Punjab","3","Amritsar",84.0
+459,"2021-08-01","Tamil Nadu","33","Coimbatore",54.0
+460,"2021-08-01","Andhra Pradesh","28","Vijayawada",0.0
+461,"2021-08-01","Manipur","14","Imphal",0.0
+462,"2021-08-01","Andaman and Nicobar Islands","35","Portblair",0.0
+463,"2021-08-01","Tamil Nadu","33","Trichy",404.0
+464,"2021-08-01","Andhra Pradesh","28","Tirupati",0.0
+465,"2021-08-01","Uttar Pradesh","9","Kushinagar",0.0
+466,"2021-08-01","Gujarat","24","Ahmedabad",3754.0
+467,"2021-08-01","Uttar Pradesh","9","Lucknow",162.0
+468,"2021-08-01","Karnataka","29","Manglore",83.0
+469,"2021-08-01","Assam","18","Guwahati",11.0
+470,"2021-08-01","Rajasthan","8","Jaipur",17.0
+471,"2021-08-01","Kerala","32","Trivandrum",1555.0
+472,"2021-08-01","Delhi","7","Delhi",48488.0
+473,"2021-08-01","Maharashtra","27","Mumbai",44782.0
+474,"2021-08-01","Karnataka","29","Bangalore",24316.0
+475,"2021-08-01","Telangana","36","Hyderabad",6004.0
+476,"2021-08-01","Kerala","32","Cochin",3783.0
+477,"2021-08-01","Maharashtra","27","Nagpur",48.0
+478,"2021-08-01","Kerala","32","Kannur",0.0
+479,"2021-08-01","Bihar","10","Patna",0.0
+480,"2021-08-01","Maharashtra","27","Pune",0.0
+481,"2021-08-01","West Bengal","19","Bagdora",0.0
+482,"2021-08-01","Chandigarh","4","Chandigarh",0.0
+483,"2021-08-01","Andhra Pradesh","28","Visakhapatnam",1.0
+484,"2021-08-01","Madhya Pradesh","23","Indore",2.0
+485,"2021-08-01","Tamil Nadu","33","Madurai",0.0
+486,"2021-08-01","Gujarat","24","Surat",0.0
+487,"2021-08-01","Maharashtra","27","Aurangabad",0.0
+488,"2021-08-01","Bihar","10","Gaya",0.0
+489,"2021-09-01","West Bengal","19","Kolkata",5027.0
+490,"2021-09-01","Tamil Nadu","33","Chennai",26780.0
+491,"2021-09-01","Goa","30","Goa",58.0
+492,"2021-09-01","Jammu and Kashmir","1","Srinagar",0.0
+493,"2021-09-01","Odisha","21","Bhubaneswar",0.0
+494,"2021-09-01","Uttar Pradesh","9","Varanasi",0.0
+495,"2021-09-01","Kerala","32","Calicut",977.0
+496,"2021-09-01","Punjab","3","Amritsar",86.0
+497,"2021-09-01","Tamil Nadu","33","Coimbatore",70.0
+498,"2021-09-01","Andhra Pradesh","28","Vijayawada",0.0
+499,"2021-09-01","Manipur","14","Imphal",0.0
+500,"2021-09-01","Andaman and Nicobar Islands","35","Portblair",0.0
+501,"2021-09-01","Tamil Nadu","33","Trichy",416.0
+502,"2021-09-01","Andhra Pradesh","28","Tirupati",0.0
+503,"2021-09-01","Uttar Pradesh","9","Kushinagar",0.0
+504,"2021-09-01","Gujarat","24","Ahmedabad",3548.0
+505,"2021-09-01","Uttar Pradesh","9","Lucknow",287.0
+506,"2021-09-01","Karnataka","29","Manglore",168.0
+507,"2021-09-01","Assam","18","Guwahati",0.0
+508,"2021-09-01","Rajasthan","8","Jaipur",17.0
+509,"2021-09-01","Kerala","32","Trivandrum",1307.0
+510,"2021-09-01","Delhi","7","Delhi",50332.0
+511,"2021-09-01","Maharashtra","27","Mumbai",46010.0
+512,"2021-09-01","Karnataka","29","Bangalore",24440.0
+513,"2021-09-01","Telangana","36","Hyderabad",6304.0
+514,"2021-09-01","Kerala","32","Cochin",3911.0
+515,"2021-09-01","Maharashtra","27","Nagpur",32.0
+516,"2021-09-01","Kerala","32","Kannur",0.0
+517,"2021-09-01","Bihar","10","Patna",0.0
+518,"2021-09-01","Maharashtra","27","Pune",0.0
+519,"2021-09-01","West Bengal","19","Bagdora",0.0
+520,"2021-09-01","Chandigarh","4","Chandigarh",0.0
+521,"2021-09-01","Andhra Pradesh","28","Visakhapatnam",1.0
+522,"2021-09-01","Madhya Pradesh","23","Indore",10.0
+523,"2021-09-01","Tamil Nadu","33","Madurai",5.0
+524,"2021-09-01","Gujarat","24","Surat",0.0
+525,"2021-09-01","Maharashtra","27","Aurangabad",0.0
+526,"2021-09-01","Bihar","10","Gaya",0.0
+527,"2021-10-01","West Bengal","19","Kolkata",5460.0
+528,"2021-10-01","Tamil Nadu","33","Chennai",25604.0
+529,"2021-10-01","Goa","30","Goa",112.0
+530,"2021-10-01","Jammu and Kashmir","1","Srinagar",0.0
+531,"2021-10-01","Odisha","21","Bhubaneswar",0.0
+532,"2021-10-01","Uttar Pradesh","9","Varanasi",0.0
+533,"2021-10-01","Kerala","32","Calicut",1507.0
+534,"2021-10-01","Punjab","3","Amritsar",82.0
+535,"2021-10-01","Tamil Nadu","33","Coimbatore",89.0
+536,"2021-10-01","Andhra Pradesh","28","Vijayawada",0.0
+537,"2021-10-01","Manipur","14","Imphal",0.0
+538,"2021-10-01","Andaman and Nicobar Islands","35","Portblair",0.0
+539,"2021-10-01","Tamil Nadu","33","Trichy",433.0
+540,"2021-10-01","Andhra Pradesh","28","Tirupati",0.0
+541,"2021-10-01","Uttar Pradesh","9","Kushinagar",0.0
+542,"2021-10-01","Gujarat","24","Ahmedabad",4375.0
+543,"2021-10-01","Uttar Pradesh","9","Lucknow",288.0
+544,"2021-10-01","Karnataka","29","Manglore",94.0
+545,"2021-10-01","Assam","18","Guwahati",0.0
+546,"2021-10-01","Rajasthan","8","Jaipur",16.0
+547,"2021-10-01","Kerala","32","Trivandrum",1348.0
+548,"2021-10-01","Delhi","7","Delhi",57295.0
+549,"2021-10-01","Maharashtra","27","Mumbai",50638.0
+550,"2021-10-01","Karnataka","29","Bangalore",25657.0
+551,"2021-10-01","Telangana","36","Hyderabad",6646.0
+552,"2021-10-01","Kerala","32","Cochin",4016.0
+553,"2021-10-01","Maharashtra","27","Nagpur",66.0
+554,"2021-10-01","Kerala","32","Kannur",99.0
+555,"2021-10-01","Bihar","10","Patna",0.0
+556,"2021-10-01","Maharashtra","27","Pune",0.0
+557,"2021-10-01","West Bengal","19","Bagdora",0.0
+558,"2021-10-01","Chandigarh","4","Chandigarh",0.0
+559,"2021-10-01","Andhra Pradesh","28","Visakhapatnam",0.0
+560,"2021-10-01","Madhya Pradesh","23","Indore",5.0
+561,"2021-10-01","Tamil Nadu","33","Madurai",22.0
+562,"2021-10-01","Gujarat","24","Surat",0.0
+563,"2021-10-01","Maharashtra","27","Aurangabad",0.0
+564,"2021-10-01","Bihar","10","Gaya",0.0
+565,"2021-11-01","West Bengal","19","Kolkata",4984.0
+566,"2021-11-01","Tamil Nadu","33","Chennai",21439.0
+567,"2021-11-01","Goa","30","Goa",76.0
+568,"2021-11-01","Jammu and Kashmir","1","Srinagar",0.0
+569,"2021-11-01","Odisha","21","Bhubaneswar",0.0
+570,"2021-11-01","Uttar Pradesh","9","Varanasi",16.0
+571,"2021-11-01","Kerala","32","Calicut",1287.0
+572,"2021-11-01","Punjab","3","Amritsar",85.0
+573,"2021-11-01","Tamil Nadu","33","Coimbatore",48.0
+574,"2021-11-01","Andhra Pradesh","28","Vijayawada",0.0
+575,"2021-11-01","Manipur","14","Imphal",0.0
+576,"2021-11-01","Andaman and Nicobar Islands","35","Portblair",0.0
+577,"2021-11-01","Tamil Nadu","33","Trichy",548.0
+578,"2021-11-01","Andhra Pradesh","28","Tirupati",0.0
+579,"2021-11-01","Uttar Pradesh","9","Kushinagar",0.0
+580,"2021-11-01","Gujarat","24","Ahmedabad",3996.0
+581,"2021-11-01","Uttar Pradesh","9","Lucknow",310.0
+582,"2021-11-01","Karnataka","29","Manglore",86.0
+583,"2021-11-01","Assam","18","Guwahati",0.0
+584,"2021-11-01","Rajasthan","8","Jaipur",16.0
+585,"2021-11-01","Kerala","32","Trivandrum",1070.0
+586,"2021-11-01","Delhi","7","Delhi",48147.0
+587,"2021-11-01","Maharashtra","27","Mumbai",44386.0
+588,"2021-11-01","Karnataka","29","Bangalore",22590.0
+589,"2021-11-01","Telangana","36","Hyderabad",6351.0
+590,"2021-11-01","Kerala","32","Cochin",3408.0
+591,"2021-11-01","Maharashtra","27","Nagpur",89.0
+592,"2021-11-01","Kerala","32","Kannur",231.0
+593,"2021-11-01","Bihar","10","Patna",0.0
+594,"2021-11-01","Maharashtra","27","Pune",0.0
+595,"2021-11-01","West Bengal","19","Bagdora",0.0
+596,"2021-11-01","Chandigarh","4","Chandigarh",0.0
+597,"2021-11-01","Andhra Pradesh","28","Visakhapatnam",0.0
+598,"2021-11-01","Madhya Pradesh","23","Indore",9.0
+599,"2021-11-01","Tamil Nadu","33","Madurai",25.0
+600,"2021-11-01","Gujarat","24","Surat",0.0
+601,"2021-11-01","Maharashtra","27","Aurangabad",0.0
+602,"2021-11-01","Bihar","10","Gaya",0.0
+603,"2021-12-01","West Bengal","19","Kolkata",4169.0
+604,"2021-12-01","Tamil Nadu","33","Chennai",22618.0
+605,"2021-12-01","Goa","30","Goa",80.0
+606,"2021-12-01","Jammu and Kashmir","1","Srinagar",0.0
+607,"2021-12-01","Odisha","21","Bhubaneswar",0.0
+608,"2021-12-01","Uttar Pradesh","9","Varanasi",67.0
+609,"2021-12-01","Kerala","32","Calicut",629.0
+610,"2021-12-01","Punjab","3","Amritsar",70.0
+611,"2021-12-01","Tamil Nadu","33","Coimbatore",55.0
+612,"2021-12-01","Andhra Pradesh","28","Vijayawada",0.0
+613,"2021-12-01","Manipur","14","Imphal",0.0
+614,"2021-12-01","Andaman and Nicobar Islands","35","Portblair",0.0
+615,"2021-12-01","Tamil Nadu","33","Trichy",574.0
+616,"2021-12-01","Andhra Pradesh","28","Tirupati",0.0
+617,"2021-12-01","Uttar Pradesh","9","Kushinagar",0.0
+618,"2021-12-01","Gujarat","24","Ahmedabad",4209.0
+619,"2021-12-01","Uttar Pradesh","9","Lucknow",302.0
+620,"2021-12-01","Karnataka","29","Manglore",90.0
+621,"2021-12-01","Assam","18","Guwahati",0.0
+622,"2021-12-01","Rajasthan","8","Jaipur",23.0
+623,"2021-12-01","Kerala","32","Trivandrum",1042.0
+624,"2021-12-01","Delhi","7","Delhi",51508.0
+625,"2021-12-01","Maharashtra","27","Mumbai",47917.0
+626,"2021-12-01","Karnataka","29","Bangalore",22336.0
+627,"2021-12-01","Telangana","36","Hyderabad",6691.0
+628,"2021-12-01","Kerala","32","Cochin",3653.0
+629,"2021-12-01","Maharashtra","27","Nagpur",34.0
+630,"2021-12-01","Kerala","32","Kannur",164.0
+631,"2021-12-01","Bihar","10","Patna",0.0
+632,"2021-12-01","Maharashtra","27","Pune",0.0
+633,"2021-12-01","West Bengal","19","Bagdora",0.0
+634,"2021-12-01","Chandigarh","4","Chandigarh",0.0
+635,"2021-12-01","Andhra Pradesh","28","Visakhapatnam",0.0
+636,"2021-12-01","Madhya Pradesh","23","Indore",8.0
+637,"2021-12-01","Tamil Nadu","33","Madurai",18.0
+638,"2021-12-01","Gujarat","24","Surat",0.0
+639,"2021-12-01","Maharashtra","27","Aurangabad",0.0
+640,"2021-12-01","Bihar","10","Gaya",0.0
+641,"2020-01-01","Tamil Nadu","33","Chennai",23143.0
+642,"2020-01-01","West Bengal","19","Kolkata",4673.0
+643,"2020-01-01","Gujarat","24","Ahmedabad",3097.0
+644,"2020-01-01","Goa","30","Goa",104.0
+645,"2020-01-01","Assam","18","Guwahati",7.0
+646,"2020-01-01","Uttar Pradesh","9","Lucknow",226.0
+647,"2020-01-01","Rajasthan","8","Jaipur",248.0
+648,"2020-01-01","Kerala","32","Trivandrum",1801.0
+649,"2020-01-01","Odisha","21","Bhubaneswar",0.0
+650,"2020-01-01","Kerala","32","Calicut",1694.0
+651,"2020-01-01","Tamil Nadu","33","Coimbatore",178.0
+652,"2020-01-01","Uttar Pradesh","9","Varanasi",0.0
+653,"2020-01-01","Jammu and Kashmir","1","Srinagar",0.0
+654,"2020-01-01","Punjab","3","Amritsar",73.0
+655,"2020-01-01","Karnataka","29","Mangalore",148.0
+656,"2020-01-01","Andaman and Nicobar Islands","35","Portblair",0.0
+657,"2020-01-01","Tamil Nadu","33","Trichy",601.0
+658,"2020-01-01","Manipur","14","Imphal",0.0
+659,"2020-01-01","Andhra Pradesh","28","Vijayawada",0.0
+660,"2020-01-01","Andhra Pradesh","28","Tirupati",0.0
+661,"2020-01-01","Delhi","7","Delhi",50326.0
+662,"2020-01-01","Maharashtra","27","Mumbai",51828.0
+663,"2020-01-01","Karnataka","29","Bangalore",18363.0
+664,"2020-01-01","Telangana","36","Hyderabad",6497.0
+665,"2020-01-01","Kerala","32","Cochin",5042.0
+666,"2020-01-01","Maharashtra","27","Nagpur",83.0
+667,"2020-01-01","Kerala","32","Kannur",0.0
+668,"2020-01-01","Maharashtra","27","Pune",39.0
+669,"2020-01-01","Bihar","10","Patna",0.0
+670,"2020-01-01","West Bengal","19","Bagdogra",0.0
+671,"2020-01-01","Andhra Pradesh","28","Visakhapatnam",37.0
+672,"2020-01-01","Chandigarh","4","Chandigarh",0.0
+673,"2020-01-01","Tamil Nadu","33","Madurai",126.0
+674,"2020-01-01","Gujarat","24","Surat",0.0
+675,"2020-01-01","Maharashtra","27","Aurangabad",0.0
+676,"2020-01-01","Bihar","10","Gaya",0.0
+677,"2020-01-01","Madhya Pradesh","23","Indore",0.0
+678,"2020-02-01","Tamil Nadu","33","Chennai",20749.0
+679,"2020-02-01","West Bengal","19","Kolkata",3936.0
+680,"2020-02-01","Gujarat","24","Ahmedabad",3327.0
+681,"2020-02-01","Goa","30","Goa",55.0
+682,"2020-02-01","Assam","18","Guwahati",0.0
+683,"2020-02-01","Uttar Pradesh","9","Lucknow",205.0
+684,"2020-02-01","Rajasthan","8","Jaipur",196.0
+685,"2020-02-01","Kerala","32","Trivandrum",1620.0
+686,"2020-02-01","Odisha","21","Bhubaneswar",6.0
+687,"2020-02-01","Kerala","32","Calicut",2370.0
+688,"2020-02-01","Tamil Nadu","33","Coimbatore",233.0
+689,"2020-02-01","Uttar Pradesh","9","Varanasi",0.0
+690,"2020-02-01","Jammu and Kashmir","1","Srinagar",0.0
+691,"2020-02-01","Punjab","3","Amritsar",83.0
+692,"2020-02-01","Karnataka","29","Mangalore",316.0
+693,"2020-02-01","Andaman and Nicobar Islands","35","Portblair",0.0
+694,"2020-02-01","Tamil Nadu","33","Trichy",777.0
+695,"2020-02-01","Manipur","14","Imphal",0.0
+696,"2020-02-01","Andhra Pradesh","28","Vijayawada",0.0
+697,"2020-02-01","Andhra Pradesh","28","Tirupati",0.0
+698,"2020-02-01","Delhi","7","Delhi",47331.0
+699,"2020-02-01","Maharashtra","27","Mumbai",49453.0
+700,"2020-02-01","Karnataka","29","Bangalore",19063.0
+701,"2020-02-01","Telangana","36","Hyderabad",6897.0
+702,"2020-02-01","Kerala","32","Cochin",4622.0
+703,"2020-02-01","Maharashtra","27","Nagpur",30.0
+704,"2020-02-01","Kerala","32","Kannur",0.0
+705,"2020-02-01","Maharashtra","27","Pune",57.0
+706,"2020-02-01","Bihar","10","Patna",0.0
+707,"2020-02-01","West Bengal","19","Bagdogra",0.0
+708,"2020-02-01","Andhra Pradesh","28","Visakhapatnam",32.0
+709,"2020-02-01","Chandigarh","4","Chandigarh",0.0
+710,"2020-02-01","Tamil Nadu","33","Madurai",150.0
+711,"2020-02-01","Gujarat","24","Surat",0.0
+712,"2020-02-01","Maharashtra","27","Aurangabad",0.0
+713,"2020-02-01","Bihar","10","Gaya",0.0
+714,"2020-02-01","Madhya Pradesh","23","Indore",25.0
+715,"2020-03-01","Tamil Nadu","33","Chennai",28699.0
+716,"2020-03-01","West Bengal","19","Kolkata",5516.0
+717,"2020-03-01","Gujarat","24","Ahmedabad",3782.0
+718,"2020-03-01","Goa","30","Goa",132.0
+719,"2020-03-01","Assam","18","Guwahati",0.0
+720,"2020-03-01","Uttar Pradesh","9","Lucknow",0.0
+721,"2020-03-01","Rajasthan","8","Jaipur",1211.0
+722,"2020-03-01","Kerala","32","Trivandrum",2289.0
+723,"2020-03-01","Odisha","21","Bhubaneswar",0.0
+724,"2020-03-01","Kerala","32","Calicut",2113.0
+725,"2020-03-01","Tamil Nadu","33","Coimbatore",277.0
+726,"2020-03-01","Uttar Pradesh","9","Varanasi",0.0
+727,"2020-03-01","Jammu and Kashmir","1","Srinagar",0.0
+728,"2020-03-01","Punjab","3","Amritsar",0.0
+729,"2020-03-01","Karnataka","29","Mangalore",226.0
+730,"2020-03-01","Andaman and Nicobar Islands","35","Portblair",0.0
+731,"2020-03-01","Tamil Nadu","33","Trichy",720.0
+732,"2020-03-01","Manipur","14","Imphal",0.0
+733,"2020-03-01","Andhra Pradesh","28","Vijayawada",0.0
+734,"2020-03-01","Andhra Pradesh","28","Tirupati",0.0
+735,"2020-03-01","Delhi","7","Delhi",55226.0
+736,"2020-03-01","Maharashtra","27","Mumbai",60233.0
+737,"2020-03-01","Karnataka","29","Bangalore",21568.0
+738,"2020-03-01","Telangana","36","Hyderabad",7766.0
+739,"2020-03-01","Kerala","32","Cochin",5162.0
+740,"2020-03-01","Maharashtra","27","Nagpur",58.0
+741,"2020-03-01","Kerala","32","Kannur",0.0
+742,"2020-03-01","Maharashtra","27","Pune",9.0
+743,"2020-03-01","Bihar","10","Patna",0.0
+744,"2020-03-01","West Bengal","19","Bagdogra",0.0
+745,"2020-03-01","Andhra Pradesh","28","Visakhapatnam",52.0
+746,"2020-03-01","Chandigarh","4","Chandigarh",0.0
+747,"2020-03-01","Tamil Nadu","33","Madurai",198.0
+748,"2020-03-01","Gujarat","24","Surat",0.0
+749,"2020-03-01","Maharashtra","27","Aurangabad",0.0
+750,"2020-03-01","Bihar","10","Gaya",0.0
+751,"2020-03-01","Madhya Pradesh","23","Indore",0.0
+752,"2020-04-01","Tamil Nadu","33","Chennai",24754.0
+753,"2020-04-01","West Bengal","19","Kolkata",5153.0
+754,"2020-04-01","Gujarat","24","Ahmedabad",4192.0
+755,"2020-04-01","Goa","30","Goa",159.0
+756,"2020-04-01","Assam","18","Guwahati",0.0
+757,"2020-04-01","Uttar Pradesh","9","Lucknow",368.0
+758,"2020-04-01","Rajasthan","8","Jaipur",240.0
+759,"2020-04-01","Kerala","32","Trivandrum",2066.0
+760,"2020-04-01","Odisha","21","Bhubaneswar",0.0
+761,"2020-04-01","Kerala","32","Calicut",2340.0
+762,"2020-04-01","Tamil Nadu","33","Coimbatore",215.0
+763,"2020-04-01","Uttar Pradesh","9","Varanasi",2.0
+764,"2020-04-01","Jammu and Kashmir","1","Srinagar",0.0
+765,"2020-04-01","Punjab","3","Amritsar",201.0
+766,"2020-04-01","Karnataka","29","Mangalore",250.0
+767,"2020-04-01","Andaman and Nicobar Islands","35","Portblair",0.0
+768,"2020-04-01","Tamil Nadu","33","Trichy",672.0
+769,"2020-04-01","Manipur","14","Imphal",0.0
+770,"2020-04-01","Andhra Pradesh","28","Vijayawada",0.0
+771,"2020-04-01","Andhra Pradesh","28","Tirupati",0.0
+772,"2020-04-01","Delhi","7","Delhi",52204.0
+773,"2020-04-01","Maharashtra","27","Mumbai",48712.0
+774,"2020-04-01","Karnataka","29","Bangalore",19610.0
+775,"2020-04-01","Telangana","36","Hyderabad",7193.0
+776,"2020-04-01","Kerala","32","Cochin",5001.0
+777,"2020-04-01","Maharashtra","27","Nagpur",79.0
+778,"2020-04-01","Kerala","32","Kannur",0.0
+779,"2020-04-01","Maharashtra","27","Pune",3.0
+780,"2020-04-01","Bihar","10","Patna",0.0
+781,"2020-04-01","West Bengal","19","Bagdogra",0.0
+782,"2020-04-01","Andhra Pradesh","28","Visakhapatnam",42.0
+783,"2020-04-01","Chandigarh","4","Chandigarh",0.0
+784,"2020-04-01","Tamil Nadu","33","Madurai",160.0
+785,"2020-04-01","Gujarat","24","Surat",0.0
+786,"2020-04-01","Maharashtra","27","Aurangabad",0.0
+787,"2020-04-01","Bihar","10","Gaya",0.0
+788,"2020-04-01","Madhya Pradesh","23","Indore",29.0
+789,"2020-05-01","Tamil Nadu","33","Chennai",24168.0
+790,"2020-05-01","West Bengal","19","Kolkata",4969.0
+791,"2020-05-01","Gujarat","24","Ahmedabad",4045.0
+792,"2020-05-01","Goa","30","Goa",138.0
+793,"2020-05-01","Assam","18","Guwahati",0.0
+794,"2020-05-01","Uttar Pradesh","9","Lucknow",383.0
+795,"2020-05-01","Rajasthan","8","Jaipur",198.0
+796,"2020-05-01","Kerala","32","Trivandrum",1915.0
+797,"2020-05-01","Odisha","21","Bhubaneswar",0.0
+798,"2020-05-01","Kerala","32","Calicut",2343.0
+799,"2020-05-01","Tamil Nadu","33","Coimbatore",259.0
+800,"2020-05-01","Uttar Pradesh","9","Varanasi",3.0
+801,"2020-05-01","Jammu and Kashmir","1","Srinagar",0.0
+802,"2020-05-01","Punjab","3","Amritsar",146.0
+803,"2020-05-01","Karnataka","29","Mangalore",217.0
+804,"2020-05-01","Andaman and Nicobar Islands","35","Portblair",0.0
+805,"2020-05-01","Tamil Nadu","33","Trichy",670.0
+806,"2020-05-01","Manipur","14","Imphal",0.0
+807,"2020-05-01","Andhra Pradesh","28","Vijayawada",0.0
+808,"2020-05-01","Andhra Pradesh","28","Tirupati",0.0
+809,"2020-05-01","Delhi","7","Delhi",53305.0
+810,"2020-05-01","Maharashtra","27","Mumbai",55028.0
+811,"2020-05-01","Karnataka","29","Bangalore",19968.0
+812,"2020-05-01","Telangana","36","Hyderabad",7772.0
+813,"2020-05-01","Kerala","32","Cochin",5501.0
+814,"2020-05-01","Maharashtra","27","Nagpur",31.0
+815,"2020-05-01","Kerala","32","Kannur",0.0
+816,"2020-05-01","Maharashtra","27","Pune",2.0
+817,"2020-05-01","Bihar","10","Patna",0.0
+818,"2020-05-01","West Bengal","19","Bagdogra",0.0
+819,"2020-05-01","Andhra Pradesh","28","Visakhapatnam",20.0
+820,"2020-05-01","Chandigarh","4","Chandigarh",0.0
+821,"2020-05-01","Tamil Nadu","33","Madurai",119.0
+822,"2020-05-01","Gujarat","24","Surat",0.0
+823,"2020-05-01","Maharashtra","27","Aurangabad",0.0
+824,"2020-05-01","Bihar","10","Gaya",0.0
+825,"2020-05-01","Madhya Pradesh","23","Indore",171.0
+826,"2020-06-01","Tamil Nadu","33","Chennai",12910.0
+827,"2020-06-01","West Bengal","19","Kolkata",2468.0
+828,"2020-06-01","Gujarat","24","Ahmedabad",637.0
+829,"2020-06-01","Goa","30","Goa",1.0
+830,"2020-06-01","Assam","18","Guwahati",0.0
+831,"2020-06-01","Uttar Pradesh","9","Lucknow",71.0
+832,"2020-06-01","Rajasthan","8","Jaipur",0.0
+833,"2020-06-01","Kerala","32","Trivandrum",1372.0
+834,"2020-06-01","Odisha","21","Bhubaneswar",0.0
+835,"2020-06-01","Kerala","32","Calicut",954.0
+836,"2020-06-01","Tamil Nadu","33","Coimbatore",75.0
+837,"2020-06-01","Uttar Pradesh","9","Varanasi",0.0
+838,"2020-06-01","Jammu and Kashmir","1","Srinagar",0.0
+839,"2020-06-01","Punjab","3","Amritsar",0.0
+840,"2020-06-01","Karnataka","29","Mangalore",68.0
+841,"2020-06-01","Andaman and Nicobar Islands","35","Portblair",0.0
+842,"2020-06-01","Tamil Nadu","33","Trichy",200.0
+843,"2020-06-01","Manipur","14","Imphal",0.0
+844,"2020-06-01","Andhra Pradesh","28","Vijayawada",0.0
+845,"2020-06-01","Andhra Pradesh","28","Tirupati",0.0
+846,"2020-06-01","Delhi","7","Delhi",32614.0
+847,"2020-06-01","Maharashtra","27","Mumbai",31618.0
+848,"2020-06-01","Karnataka","29","Bangalore",16236.0
+849,"2020-06-01","Telangana","36","Hyderabad",4798.0
+850,"2020-06-01","Kerala","32","Cochin",3039.0
+851,"2020-06-01","Maharashtra","27","Nagpur",0.0
+852,"2020-06-01","Kerala","32","Kannur",0.0
+853,"2020-06-01","Maharashtra","27","Pune",0.0
+854,"2020-06-01","Bihar","10","Patna",0.0
+855,"2020-06-01","West Bengal","19","Bagdogra",0.0
+856,"2020-06-01","Andhra Pradesh","28","Visakhapatnam",0.0
+857,"2020-06-01","Chandigarh","4","Chandigarh",0.0
+858,"2020-06-01","Tamil Nadu","33","Madurai",1.0
+859,"2020-06-01","Gujarat","24","Surat",0.0
+860,"2020-06-01","Maharashtra","27","Aurangabad",0.0
+861,"2020-06-01","Bihar","10","Gaya",0.0
+862,"2020-06-01","Madhya Pradesh","23","Indore",5.0
+863,"2020-07-01","Tamil Nadu","33","Chennai",15811.0
+864,"2020-07-01","West Bengal","19","Kolkata",3276.0
+865,"2020-07-01","Gujarat","24","Ahmedabad",4418.0
+866,"2020-07-01","Goa","30","Goa",0.0
+867,"2020-07-01","Assam","18","Guwahati",0.0
+868,"2020-07-01","Uttar Pradesh","9","Lucknow",102.0
+869,"2020-07-01","Rajasthan","8","Jaipur",0.0
+870,"2020-07-01","Kerala","32","Trivandrum",1684.0
+871,"2020-07-01","Odisha","21","Bhubaneswar",18.0
+872,"2020-07-01","Kerala","32","Calicut",864.0
+873,"2020-07-01","Tamil Nadu","33","Coimbatore",111.0
+874,"2020-07-01","Uttar Pradesh","9","Varanasi",0.0
+875,"2020-07-01","Jammu and Kashmir","1","Srinagar",0.0
+876,"2020-07-01","Punjab","3","Amritsar",26.0
+877,"2020-07-01","Karnataka","29","Mangalore",65.0
+878,"2020-07-01","Andaman and Nicobar Islands","35","Portblair",0.0
+879,"2020-07-01","Tamil Nadu","33","Trichy",136.0
+880,"2020-07-01","Manipur","14","Imphal",0.0
+881,"2020-07-01","Andhra Pradesh","28","Vijayawada",0.0
+882,"2020-07-01","Andhra Pradesh","28","Tirupati",0.0
+883,"2020-07-01","Delhi","7","Delhi",39752.0
+884,"2020-07-01","Maharashtra","27","Mumbai",32295.0
+885,"2020-07-01","Karnataka","29","Bangalore",16303.0
+886,"2020-07-01","Telangana","36","Hyderabad",5078.0
+887,"2020-07-01","Kerala","32","Cochin",3200.0
+888,"2020-07-01","Maharashtra","27","Nagpur",0.0
+889,"2020-07-01","Kerala","32","Kannur",0.0
+890,"2020-07-01","Maharashtra","27","Pune",0.0
+891,"2020-07-01","Bihar","10","Patna",0.0
+892,"2020-07-01","West Bengal","19","Bagdogra",0.0
+893,"2020-07-01","Andhra Pradesh","28","Visakhapatnam",0.0
+894,"2020-07-01","Chandigarh","4","Chandigarh",0.0
+895,"2020-07-01","Tamil Nadu","33","Madurai",4.0
+896,"2020-07-01","Gujarat","24","Surat",0.0
+897,"2020-07-01","Maharashtra","27","Aurangabad",0.0
+898,"2020-07-01","Bihar","10","Gaya",0.0
+899,"2020-07-01","Madhya Pradesh","23","Indore",4.0
+900,"2020-08-01","Tamil Nadu","33","Chennai",18959.0
+901,"2020-08-01","West Bengal","19","Kolkata",2894.0
+902,"2020-08-01","Gujarat","24","Ahmedabad",941.0
+903,"2020-08-01","Goa","30","Goa",8.0
+904,"2020-08-01","Assam","18","Guwahati",0.0
+905,"2020-08-01","Uttar Pradesh","9","Lucknow",109.0
+906,"2020-08-01","Rajasthan","8","Jaipur",44.0
+907,"2020-08-01","Kerala","32","Trivandrum",2023.0
+908,"2020-08-01","Odisha","21","Bhubaneswar",0.0
+909,"2020-08-01","Kerala","32","Calicut",1238.0
+910,"2020-08-01","Tamil Nadu","33","Coimbatore",104.0
+911,"2020-08-01","Uttar Pradesh","9","Varanasi",0.0
+912,"2020-08-01","Jammu and Kashmir","1","Srinagar",0.0
+913,"2020-08-01","Punjab","3","Amritsar",16.0
+914,"2020-08-01","Karnataka","29","Mangalore",109.0
+915,"2020-08-01","Andaman and Nicobar Islands","35","Portblair",0.0
+916,"2020-08-01","Tamil Nadu","33","Trichy",168.0
+917,"2020-08-01","Manipur","14","Imphal",0.0
+918,"2020-08-01","Andhra Pradesh","28","Vijayawada",0.0
+919,"2020-08-01","Andhra Pradesh","28","Tirupati",0.0
+920,"2020-08-01","Delhi","7","Delhi",42530.0
+921,"2020-08-01","Maharashtra","27","Mumbai",33084.0
+922,"2020-08-01","Karnataka","29","Bangalore",17139.0
+923,"2020-08-01","Telangana","36","Hyderabad",5277.0
+924,"2020-08-01","Kerala","32","Cochin",3824.0
+925,"2020-08-01","Maharashtra","27","Nagpur",0.0
+926,"2020-08-01","Kerala","32","Kannur",0.0
+927,"2020-08-01","Maharashtra","27","Pune",0.0
+928,"2020-08-01","Bihar","10","Patna",0.0
+929,"2020-08-01","West Bengal","19","Bagdogra",0.0
+930,"2020-08-01","Andhra Pradesh","28","Visakhapatnam",1.0
+931,"2020-08-01","Chandigarh","4","Chandigarh",0.0
+932,"2020-08-01","Tamil Nadu","33","Madurai",0.0
+933,"2020-08-01","Gujarat","24","Surat",0.0
+934,"2020-08-01","Maharashtra","27","Aurangabad",0.0
+935,"2020-08-01","Bihar","10","Gaya",0.0
+936,"2020-08-01","Madhya Pradesh","23","Indore",4.0
+937,"2020-09-01","Tamil Nadu","33","Chennai",21862.0
+938,"2020-09-01","West Bengal","19","Kolkata",3481.0
+939,"2020-09-01","Gujarat","24","Ahmedabad",980.0
+940,"2020-09-01","Goa","30","Goa",2.0
+941,"2020-09-01","Assam","18","Guwahati",0.0
+942,"2020-09-01","Uttar Pradesh","9","Lucknow",86.0
+943,"2020-09-01","Rajasthan","8","Jaipur",49.0
+944,"2020-09-01","Kerala","32","Trivandrum",1381.0
+945,"2020-09-01","Odisha","21","Bhubaneswar",0.0
+946,"2020-09-01","Kerala","32","Calicut",937.0
+947,"2020-09-01","Tamil Nadu","33","Coimbatore",17.0
+948,"2020-09-01","Uttar Pradesh","9","Varanasi",0.0
+949,"2020-09-01","Jammu and Kashmir","1","Srinagar",0.0
+950,"2020-09-01","Punjab","3","Amritsar",25.0
+951,"2020-09-01","Karnataka","29","Mangalore",60.0
+952,"2020-09-01","Andaman and Nicobar Islands","35","Portblair",0.0
+953,"2020-09-01","Tamil Nadu","33","Trichy",263.0
+954,"2020-09-01","Manipur","14","Imphal",0.0
+955,"2020-09-01","Andhra Pradesh","28","Vijayawada",0.0
+956,"2020-09-01","Andhra Pradesh","28","Tirupati",0.0
+957,"2020-09-01","Delhi","7","Delhi",48037.0
+958,"2020-09-01","Maharashtra","27","Mumbai",38303.0
+959,"2020-09-01","Karnataka","29","Bangalore",19123.0
+960,"2020-09-01","Telangana","36","Hyderabad",5954.0
+961,"2020-09-01","Kerala","32","Cochin",3241.0
+962,"2020-09-01","Maharashtra","27","Nagpur",9.0
+963,"2020-09-01","Kerala","32","Kannur",0.0
+964,"2020-09-01","Maharashtra","27","Pune",0.0
+965,"2020-09-01","Bihar","10","Patna",0.0
+966,"2020-09-01","West Bengal","19","Bagdogra",0.0
+967,"2020-09-01","Andhra Pradesh","28","Visakhapatnam",0.0
+968,"2020-09-01","Chandigarh","4","Chandigarh",0.0
+969,"2020-09-01","Tamil Nadu","33","Madurai",4.0
+970,"2020-09-01","Gujarat","24","Surat",0.0
+971,"2020-09-01","Maharashtra","27","Aurangabad",0.0
+972,"2020-09-01","Bihar","10","Gaya",0.0
+973,"2020-09-01","Madhya Pradesh","23","Indore",0.0
+974,"2020-10-01","Tamil Nadu","33","Chennai",22937.0
+975,"2020-10-01","West Bengal","19","Kolkata",3979.0
+976,"2020-10-01","Gujarat","24","Ahmedabad",1151.0
+977,"2020-10-01","Goa","30","Goa",20.0
+978,"2020-10-01","Assam","18","Guwahati",0.0
+979,"2020-10-01","Uttar Pradesh","9","Lucknow",97.0
+980,"2020-10-01","Rajasthan","8","Jaipur",92.0
+981,"2020-10-01","Kerala","32","Trivandrum",893.0
+982,"2020-10-01","Odisha","21","Bhubaneswar",0.0
+983,"2020-10-01","Kerala","32","Calicut",781.0
+984,"2020-10-01","Tamil Nadu","33","Coimbatore",22.0
+985,"2020-10-01","Uttar Pradesh","9","Varanasi",0.0
+986,"2020-10-01","Jammu and Kashmir","1","Srinagar",0.0
+987,"2020-10-01","Punjab","3","Amritsar",67.0
+988,"2020-10-01","Karnataka","29","Mangalore",73.0
+989,"2020-10-01","Andaman and Nicobar Islands","35","Portblair",0.0
+990,"2020-10-01","Tamil Nadu","33","Trichy",285.0
+991,"2020-10-01","Manipur","14","Imphal",0.0
+992,"2020-10-01","Andhra Pradesh","28","Vijayawada",0.0
+993,"2020-10-01","Andhra Pradesh","28","Tirupati",0.0
+994,"2020-10-01","Delhi","7","Delhi",48817.0
+995,"2020-10-01","Maharashtra","27","Mumbai",42463.0
+996,"2020-10-01","Karnataka","29","Bangalore",19620.0
+997,"2020-10-01","Telangana","36","Hyderabad",5222.0
+998,"2020-10-01","Kerala","32","Cochin",1942.0
+999,"2020-10-01","Maharashtra","27","Nagpur",0.0
+1000,"2020-10-01","Kerala","32","Kannur",0.0
+1001,"2020-10-01","Maharashtra","27","Pune",0.0
+1002,"2020-10-01","Bihar","10","Patna",0.0
+1003,"2020-10-01","West Bengal","19","Bagdogra",0.0
+1004,"2020-10-01","Andhra Pradesh","28","Visakhapatnam",0.0
+1005,"2020-10-01","Chandigarh","4","Chandigarh",0.0
+1006,"2020-10-01","Tamil Nadu","33","Madurai",22.0
+1007,"2020-10-01","Gujarat","24","Surat",0.0
+1008,"2020-10-01","Maharashtra","27","Aurangabad",0.0
+1009,"2020-10-01","Bihar","10","Gaya",0.0
+1010,"2020-10-01","Madhya Pradesh","23","Indore",5.0
+1011,"2020-11-01","Tamil Nadu","33","Chennai",22132.0
+1012,"2020-11-01","West Bengal","19","Kolkata",3659.0
+1013,"2020-11-01","Gujarat","24","Ahmedabad",2690.0
+1014,"2020-11-01","Goa","30","Goa",63.0
+1015,"2020-11-01","Assam","18","Guwahati",0.0
+1016,"2020-11-01","Uttar Pradesh","9","Lucknow",16.0
+1017,"2020-11-01","Rajasthan","8","Jaipur",45.0
+1018,"2020-11-01","Kerala","32","Trivandrum",799.0
+1019,"2020-11-01","Odisha","21","Bhubaneswar",0.0
+1020,"2020-11-01","Kerala","32","Calicut",704.0
+1021,"2020-11-01","Tamil Nadu","33","Coimbatore",24.0
+1022,"2020-11-01","Uttar Pradesh","9","Varanasi",0.0
+1023,"2020-11-01","Jammu and Kashmir","1","Srinagar",0.0
+1024,"2020-11-01","Punjab","3","Amritsar",78.0
+1025,"2020-11-01","Karnataka","29","Mangalore",37.0
+1026,"2020-11-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1027,"2020-11-01","Tamil Nadu","33","Trichy",306.0
+1028,"2020-11-01","Manipur","14","Imphal",0.0
+1029,"2020-11-01","Andhra Pradesh","28","Vijayawada",0.0
+1030,"2020-11-01","Andhra Pradesh","28","Tirupati",0.0
+1031,"2020-11-01","Delhi","7","Delhi",43243.0
+1032,"2020-11-01","Maharashtra","27","Mumbai",41975.0
+1033,"2020-11-01","Karnataka","29","Bangalore",19248.0
+1034,"2020-11-01","Telangana","36","Hyderabad",5535.0
+1035,"2020-11-01","Kerala","32","Cochin",1878.0
+1036,"2020-11-01","Maharashtra","27","Nagpur",0.0
+1037,"2020-11-01","Kerala","32","Kannur",0.0
+1038,"2020-11-01","Maharashtra","27","Pune",0.0
+1039,"2020-11-01","Bihar","10","Patna",0.0
+1040,"2020-11-01","West Bengal","19","Bagdogra",0.0
+1041,"2020-11-01","Andhra Pradesh","28","Visakhapatnam",6.0
+1042,"2020-11-01","Chandigarh","4","Chandigarh",0.0
+1043,"2020-11-01","Tamil Nadu","33","Madurai",24.0
+1044,"2020-11-01","Gujarat","24","Surat",0.0
+1045,"2020-11-01","Maharashtra","27","Aurangabad",0.0
+1046,"2020-11-01","Bihar","10","Gaya",0.0
+1047,"2020-11-01","Madhya Pradesh","23","Indore",6.0
+1048,"2020-12-01","Tamil Nadu","33","Chennai",23768.0
+1049,"2020-12-01","West Bengal","19","Kolkata",4216.0
+1050,"2020-12-01","Gujarat","24","Ahmedabad",3046.0
+1051,"2020-12-01","Goa","30","Goa",67.0
+1052,"2020-12-01","Assam","18","Guwahati",0.0
+1053,"2020-12-01","Uttar Pradesh","9","Lucknow",20.0
+1054,"2020-12-01","Rajasthan","8","Jaipur",95.0
+1055,"2020-12-01","Kerala","32","Trivandrum",1148.0
+1056,"2020-12-01","Odisha","21","Bhubaneswar",0.0
+1057,"2020-12-01","Kerala","32","Calicut",633.0
+1058,"2020-12-01","Tamil Nadu","33","Coimbatore",27.0
+1059,"2020-12-01","Uttar Pradesh","9","Varanasi",0.0
+1060,"2020-12-01","Jammu and Kashmir","1","Srinagar",0.0
+1061,"2020-12-01","Punjab","3","Amritsar",69.0
+1062,"2020-12-01","Karnataka","29","Mangalore",27.0
+1063,"2020-12-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1064,"2020-12-01","Tamil Nadu","33","Trichy",268.0
+1065,"2020-12-01","Manipur","14","Imphal",0.0
+1066,"2020-12-01","Andhra Pradesh","28","Vijayawada",0.0
+1067,"2020-12-01","Andhra Pradesh","28","Tirupati",0.0
+1068,"2020-12-01","Delhi","7","Delhi",43141.0
+1069,"2020-12-01","Maharashtra","27","Mumbai",45038.0
+1070,"2020-12-01","Karnataka","29","Bangalore",20425.0
+1071,"2020-12-01","Telangana","36","Hyderabad",5809.0
+1072,"2020-12-01","Kerala","32","Cochin",2623.0
+1073,"2020-12-01","Maharashtra","27","Nagpur",0.0
+1074,"2020-12-01","Kerala","32","Kannur",0.0
+1075,"2020-12-01","Maharashtra","27","Pune",0.0
+1076,"2020-12-01","Bihar","10","Patna",0.0
+1077,"2020-12-01","West Bengal","19","Bagdogra",0.0
+1078,"2020-12-01","Andhra Pradesh","28","Visakhapatnam",25.0
+1079,"2020-12-01","Chandigarh","4","Chandigarh",0.0
+1080,"2020-12-01","Tamil Nadu","33","Madurai",21.0
+1081,"2020-12-01","Gujarat","24","Surat",0.0
+1082,"2020-12-01","Maharashtra","27","Aurangabad",0.0
+1083,"2020-12-01","Bihar","10","Gaya",0.0
+1084,"2020-12-01","Madhya Pradesh","23","Indore",7.0
+1085,"2019-01-01","Tamil Nadu","33","Chennai",23143.0
+1086,"2019-01-01","West Bengal","19","Kolkata",4673.0
+1087,"2019-01-01","Gujarat","24","Ahmedabad",3097.0
+1088,"2019-01-01","Goa","30","Goa",104.0
+1089,"2019-01-01","Assam","18","Guwahati",7.0
+1090,"2019-01-01","Uttar Pradesh","9","Lucknow",226.0
+1091,"2019-01-01","Rajasthan","8","Jaipur",248.0
+1092,"2019-01-01","Kerala","32","Trivandrum",1801.0
+1093,"2019-01-01","Odisha","21","Bhubaneswar",0.0
+1094,"2019-01-01","Kerala","32","Calicut",1694.0
+1095,"2019-01-01","Tamil Nadu","33","Coimbatore",178.0
+1096,"2019-01-01","Uttar Pradesh","9","Varanasi",0.0
+1097,"2019-01-01","Jammu and Kashmir","1","Srinagar",0.0
+1098,"2019-01-01","Punjab","3","Amritsar",73.0
+1099,"2019-01-01","Karnataka","29","Mangalore",148.0
+1100,"2019-01-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1101,"2019-01-01","Tamil Nadu","33","Trichy",601.0
+1102,"2019-01-01","Manipur","14","Imphal",0.0
+1103,"2019-01-01","Andhra Pradesh","28","Vijayawada",0.0
+1104,"2019-01-01","Andhra Pradesh","28","Tirupati",0.0
+1105,"2019-01-01","Delhi","7","Delhi",50326.0
+1106,"2019-01-01","Maharashtra","27","Mumbai",51828.0
+1107,"2019-01-01","Karnataka","29","Bangalore",18363.0
+1108,"2019-01-01","Telangana","36","Hyderabad",6497.0
+1109,"2019-01-01","Kerala","32","Cochin",5042.0
+1110,"2019-01-01","Maharashtra","27","Nagpur",83.0
+1111,"2019-01-01","Kerala","32","Kannur",0.0
+1112,"2019-01-01","Maharashtra","27","Pune",39.0
+1113,"2019-01-01","Bihar","10","Patna",0.0
+1114,"2019-01-01","West Bengal","19","Bagdogra",0.0
+1115,"2019-01-01","Andhra Pradesh","28","Visakhapatnam",37.0
+1116,"2019-01-01","Punjab","3","Chandigarh",0.0
+1117,"2019-01-01","Tamil Nadu","33","Madurai",126.0
+1118,"2019-01-01","Gujarat","24","Surat",0.0
+1119,"2019-01-01","Maharashtra","27","Aurangabad",0.0
+1120,"2019-01-01","Bihar","10","Gaya",0.0
+1121,"2019-01-01","Madhya Pradesh","23","Indore",0.0
+1122,"2019-02-01","Tamil Nadu","33","Chennai",20749.0
+1123,"2019-02-01","West Bengal","19","Kolkata",3936.0
+1124,"2019-02-01","Gujarat","24","Ahmedabad",3327.0
+1125,"2019-02-01","Goa","30","Goa",55.0
+1126,"2019-02-01","Assam","18","Guwahati",0.0
+1127,"2019-02-01","Uttar Pradesh","9","Lucknow",205.0
+1128,"2019-02-01","Rajasthan","8","Jaipur",196.0
+1129,"2019-02-01","Kerala","32","Trivandrum",1620.0
+1130,"2019-02-01","Odisha","21","Bhubaneswar",6.0
+1131,"2019-02-01","Kerala","32","Calicut",2370.0
+1132,"2019-02-01","Tamil Nadu","33","Coimbatore",233.0
+1133,"2019-02-01","Uttar Pradesh","9","Varanasi",0.0
+1134,"2019-02-01","Jammu and Kashmir","1","Srinagar",0.0
+1135,"2019-02-01","Punjab","3","Amritsar",83.0
+1136,"2019-02-01","Karnataka","29","Mangalore",316.0
+1137,"2019-02-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1138,"2019-02-01","Tamil Nadu","33","Trichy",777.0
+1139,"2019-02-01","Manipur","14","Imphal",0.0
+1140,"2019-02-01","Andhra Pradesh","28","Vijayawada",0.0
+1141,"2019-02-01","Andhra Pradesh","28","Tirupati",0.0
+1142,"2019-02-01","Delhi","7","Delhi",47331.0
+1143,"2019-02-01","Maharashtra","27","Mumbai",49453.0
+1144,"2019-02-01","Karnataka","29","Bangalore",19063.0
+1145,"2019-02-01","Telangana","36","Hyderabad",6897.0
+1146,"2019-02-01","Kerala","32","Cochin",4622.0
+1147,"2019-02-01","Maharashtra","27","Nagpur",30.0
+1148,"2019-02-01","Kerala","32","Kannur",0.0
+1149,"2019-02-01","Maharashtra","27","Pune",57.0
+1150,"2019-02-01","Bihar","10","Patna",0.0
+1151,"2019-02-01","West Bengal","19","Bagdogra",0.0
+1152,"2019-02-01","Andhra Pradesh","28","Visakhapatnam",32.0
+1153,"2019-02-01","Punjab","3","Chandigarh",0.0
+1154,"2019-02-01","Tamil Nadu","33","Madurai",150.0
+1155,"2019-02-01","Gujarat","24","Surat",0.0
+1156,"2019-02-01","Maharashtra","27","Aurangabad",0.0
+1157,"2019-02-01","Bihar","10","Gaya",0.0
+1158,"2019-02-01","Madhya Pradesh","23","Indore",25.0
+1159,"2019-03-01","Tamil Nadu","33","Chennai",28699.0
+1160,"2019-03-01","West Bengal","19","Kolkata",5516.0
+1161,"2019-03-01","Gujarat","24","Ahmedabad",3782.0
+1162,"2019-03-01","Goa","30","Goa",132.0
+1163,"2019-03-01","Assam","18","Guwahati",0.0
+1164,"2019-03-01","Uttar Pradesh","9","Lucknow",0.0
+1165,"2019-03-01","Rajasthan","8","Jaipur",1211.0
+1166,"2019-03-01","Kerala","32","Trivandrum",2289.0
+1167,"2019-03-01","Odisha","21","Bhubaneswar",0.0
+1168,"2019-03-01","Kerala","32","Calicut",2113.0
+1169,"2019-03-01","Tamil Nadu","33","Coimbatore",277.0
+1170,"2019-03-01","Uttar Pradesh","9","Varanasi",0.0
+1171,"2019-03-01","Jammu and Kashmir","1","Srinagar",0.0
+1172,"2019-03-01","Punjab","3","Amritsar",0.0
+1173,"2019-03-01","Karnataka","29","Mangalore",226.0
+1174,"2019-03-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1175,"2019-03-01","Tamil Nadu","33","Trichy",720.0
+1176,"2019-03-01","Manipur","14","Imphal",0.0
+1177,"2019-03-01","Andhra Pradesh","28","Vijayawada",0.0
+1178,"2019-03-01","Andhra Pradesh","28","Tirupati",0.0
+1179,"2019-03-01","Delhi","7","Delhi",55226.0
+1180,"2019-03-01","Maharashtra","27","Mumbai",60233.0
+1181,"2019-03-01","Karnataka","29","Bangalore",21568.0
+1182,"2019-03-01","Telangana","36","Hyderabad",7766.0
+1183,"2019-03-01","Kerala","32","Cochin",5162.0
+1184,"2019-03-01","Maharashtra","27","Nagpur",58.0
+1185,"2019-03-01","Kerala","32","Kannur",0.0
+1186,"2019-03-01","Maharashtra","27","Pune",9.0
+1187,"2019-03-01","Bihar","10","Patna",0.0
+1188,"2019-03-01","West Bengal","19","Bagdogra",0.0
+1189,"2019-03-01","Andhra Pradesh","28","Visakhapatnam",52.0
+1190,"2019-03-01","Punjab","3","Chandigarh",0.0
+1191,"2019-03-01","Tamil Nadu","33","Madurai",198.0
+1192,"2019-03-01","Gujarat","24","Surat",0.0
+1193,"2019-03-01","Maharashtra","27","Aurangabad",0.0
+1194,"2019-03-01","Bihar","10","Gaya",0.0
+1195,"2019-03-01","Madhya Pradesh","23","Indore",0.0
+1196,"2019-04-01","Tamil Nadu","33","Chennai",24754.0
+1197,"2019-04-01","West Bengal","19","Kolkata",5153.0
+1198,"2019-04-01","Gujarat","24","Ahmedabad",4192.0
+1199,"2019-04-01","Goa","30","Goa",159.0
+1200,"2019-04-01","Assam","18","Guwahati",0.0
+1201,"2019-04-01","Uttar Pradesh","9","Lucknow",368.0
+1202,"2019-04-01","Rajasthan","8","Jaipur",240.0
+1203,"2019-04-01","Kerala","32","Trivandrum",2066.0
+1204,"2019-04-01","Odisha","21","Bhubaneswar",0.0
+1205,"2019-04-01","Kerala","32","Calicut",2340.0
+1206,"2019-04-01","Tamil Nadu","33","Coimbatore",215.0
+1207,"2019-04-01","Uttar Pradesh","9","Varanasi",2.0
+1208,"2019-04-01","Jammu and Kashmir","1","Srinagar",0.0
+1209,"2019-04-01","Punjab","3","Amritsar",201.0
+1210,"2019-04-01","Karnataka","29","Mangalore",250.0
+1211,"2019-04-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1212,"2019-04-01","Tamil Nadu","33","Trichy",672.0
+1213,"2019-04-01","Manipur","14","Imphal",0.0
+1214,"2019-04-01","Andhra Pradesh","28","Vijayawada",0.0
+1215,"2019-04-01","Andhra Pradesh","28","Tirupati",0.0
+1216,"2019-04-01","Delhi","7","Delhi",52204.0
+1217,"2019-04-01","Maharashtra","27","Mumbai",48712.0
+1218,"2019-04-01","Karnataka","29","Bangalore",19610.0
+1219,"2019-04-01","Telangana","36","Hyderabad",7193.0
+1220,"2019-04-01","Kerala","32","Cochin",5001.0
+1221,"2019-04-01","Maharashtra","27","Nagpur",79.0
+1222,"2019-04-01","Kerala","32","Kannur",0.0
+1223,"2019-04-01","Maharashtra","27","Pune",3.0
+1224,"2019-04-01","Bihar","10","Patna",0.0
+1225,"2019-04-01","West Bengal","19","Bagdogra",0.0
+1226,"2019-04-01","Andhra Pradesh","28","Visakhapatnam",42.0
+1227,"2019-04-01","Punjab","3","Chandigarh",0.0
+1228,"2019-04-01","Tamil Nadu","33","Madurai",160.0
+1229,"2019-04-01","Gujarat","24","Surat",0.0
+1230,"2019-04-01","Maharashtra","27","Aurangabad",0.0
+1231,"2019-04-01","Bihar","10","Gaya",0.0
+1232,"2019-04-01","Madhya Pradesh","23","Indore",29.0
+1233,"2019-05-01","Tamil Nadu","33","Chennai",24168.0
+1234,"2019-05-01","West Bengal","19","Kolkata",4969.0
+1235,"2019-05-01","Gujarat","24","Ahmedabad",4045.0
+1236,"2019-05-01","Goa","30","Goa",138.0
+1237,"2019-05-01","Assam","18","Guwahati",0.0
+1238,"2019-05-01","Uttar Pradesh","9","Lucknow",383.0
+1239,"2019-05-01","Rajasthan","8","Jaipur",198.0
+1240,"2019-05-01","Kerala","32","Trivandrum",1915.0
+1241,"2019-05-01","Odisha","21","Bhubaneswar",0.0
+1242,"2019-05-01","Kerala","32","Calicut",2343.0
+1243,"2019-05-01","Tamil Nadu","33","Coimbatore",259.0
+1244,"2019-05-01","Uttar Pradesh","9","Varanasi",3.0
+1245,"2019-05-01","Jammu and Kashmir","1","Srinagar",0.0
+1246,"2019-05-01","Punjab","3","Amritsar",146.0
+1247,"2019-05-01","Karnataka","29","Mangalore",217.0
+1248,"2019-05-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1249,"2019-05-01","Tamil Nadu","33","Trichy",670.0
+1250,"2019-05-01","Manipur","14","Imphal",0.0
+1251,"2019-05-01","Andhra Pradesh","28","Vijayawada",0.0
+1252,"2019-05-01","Andhra Pradesh","28","Tirupati",0.0
+1253,"2019-05-01","Delhi","7","Delhi",53305.0
+1254,"2019-05-01","Maharashtra","27","Mumbai",55028.0
+1255,"2019-05-01","Karnataka","29","Bangalore",19968.0
+1256,"2019-05-01","Telangana","36","Hyderabad",7772.0
+1257,"2019-05-01","Kerala","32","Cochin",5501.0
+1258,"2019-05-01","Maharashtra","27","Nagpur",31.0
+1259,"2019-05-01","Kerala","32","Kannur",0.0
+1260,"2019-05-01","Maharashtra","27","Pune",2.0
+1261,"2019-05-01","Bihar","10","Patna",0.0
+1262,"2019-05-01","West Bengal","19","Bagdogra",0.0
+1263,"2019-05-01","Andhra Pradesh","28","Visakhapatnam",20.0
+1264,"2019-05-01","Punjab","3","Chandigarh",0.0
+1265,"2019-05-01","Tamil Nadu","33","Madurai",119.0
+1266,"2019-05-01","Gujarat","24","Surat",0.0
+1267,"2019-05-01","Maharashtra","27","Aurangabad",0.0
+1268,"2019-05-01","Bihar","10","Gaya",0.0
+1269,"2019-05-01","Madhya Pradesh","23","Indore",171.0
+1270,"2019-06-01","Tamil Nadu","33","Chennai",23272.0
+1271,"2019-06-01","West Bengal","19","Kolkata",5110.0
+1272,"2019-06-01","Gujarat","24","Ahmedabad",4966.0
+1273,"2019-06-01","Goa","30","Goa",68.0
+1274,"2019-06-01","Assam","18","Guwahati",0.0
+1275,"2019-06-01","Uttar Pradesh","9","Lucknow",286.0
+1276,"2019-06-01","Rajasthan","8","Jaipur",174.0
+1277,"2019-06-01","Kerala","32","Trivandrum",2017.0
+1278,"2019-06-01","Odisha","21","Bhubaneswar",0.0
+1279,"2019-06-01","Kerala","32","Calicut",2287.0
+1280,"2019-06-01","Tamil Nadu","33","Coimbatore",231.0
+1281,"2019-06-01","Uttar Pradesh","9","Varanasi",0.0
+1282,"2019-06-01","Jammu and Kashmir","1","Srinagar",0.0
+1283,"2019-06-01","Punjab","3","Amritsar",107.0
+1284,"2019-06-01","Karnataka","29","Mangalore",188.0
+1285,"2019-06-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1286,"2019-06-01","Tamil Nadu","33","Trichy",575.0
+1287,"2019-06-01","Manipur","14","Imphal",0.0
+1288,"2019-06-01","Andhra Pradesh","28","Vijayawada",0.0
+1289,"2019-06-01","Andhra Pradesh","28","Tirupati",0.0
+1290,"2019-06-01","Delhi","7","Delhi",48167.0
+1291,"2019-06-01","Maharashtra","27","Mumbai",47137.0
+1292,"2019-06-01","Karnataka","29","Bangalore",18908.0
+1293,"2019-06-01","Telangana","36","Hyderabad",6975.0
+1294,"2019-06-01","Kerala","32","Cochin",5752.0
+1295,"2019-06-01","Maharashtra","27","Nagpur",113.0
+1296,"2019-06-01","Kerala","32","Kannur",0.0
+1297,"2019-06-01","Maharashtra","27","Pune",4.0
+1298,"2019-06-01","Bihar","10","Patna",0.0
+1299,"2019-06-01","West Bengal","19","Bagdogra",0.0
+1300,"2019-06-01","Andhra Pradesh","28","Visakhapatnam",33.0
+1301,"2019-06-01","Punjab","3","Chandigarh",0.0
+1302,"2019-06-01","Tamil Nadu","33","Madurai",109.0
+1303,"2019-06-01","Gujarat","24","Surat",0.0
+1304,"2019-06-01","Maharashtra","27","Aurangabad",0.0
+1305,"2019-06-01","Bihar","10","Gaya",0.0
+1306,"2019-06-01","Madhya Pradesh","23","Indore",119.0
+1307,"2019-07-01","Tamil Nadu","33","Chennai",24636.0
+1308,"2019-07-01","West Bengal","19","Kolkata",5453.0
+1309,"2019-07-01","Gujarat","24","Ahmedabad",4605.0
+1310,"2019-07-01","Goa","30","Goa",109.0
+1311,"2019-07-01","Assam","18","Guwahati",0.0
+1312,"2019-07-01","Uttar Pradesh","9","Lucknow",342.0
+1313,"2019-07-01","Rajasthan","8","Jaipur",180.0
+1314,"2019-07-01","Kerala","32","Trivandrum",2857.0
+1315,"2019-07-01","Odisha","21","Bhubaneswar",0.0
+1316,"2019-07-01","Kerala","32","Calicut",2645.0
+1317,"2019-07-01","Tamil Nadu","33","Coimbatore",196.0
+1318,"2019-07-01","Uttar Pradesh","9","Varanasi",0.0
+1319,"2019-07-01","Jammu and Kashmir","1","Srinagar",0.0
+1320,"2019-07-01","Punjab","3","Amritsar",68.0
+1321,"2019-07-01","Karnataka","29","Mangalore",197.0
+1322,"2019-07-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1323,"2019-07-01","Tamil Nadu","33","Trichy",736.0
+1324,"2019-07-01","Manipur","14","Imphal",0.0
+1325,"2019-07-01","Andhra Pradesh","28","Vijayawada",0.0
+1326,"2019-07-01","Andhra Pradesh","28","Tirupati",0.0
+1327,"2019-07-01","Delhi","7","Delhi",53568.0
+1328,"2019-07-01","Maharashtra","27","Mumbai",48030.0
+1329,"2019-07-01","Karnataka","29","Bangalore",19182.0
+1330,"2019-07-01","Telangana","36","Hyderabad",7229.0
+1331,"2019-07-01","Kerala","32","Cochin",5445.0
+1332,"2019-07-01","Maharashtra","27","Nagpur",309.0
+1333,"2019-07-01","Kerala","32","Kannur",0.0
+1334,"2019-07-01","Maharashtra","27","Pune",11.0
+1335,"2019-07-01","Bihar","10","Patna",0.0
+1336,"2019-07-01","West Bengal","19","Bagdogra",0.0
+1337,"2019-07-01","Andhra Pradesh","28","Visakhapatnam",37.0
+1338,"2019-07-01","Punjab","3","Chandigarh",0.0
+1339,"2019-07-01","Tamil Nadu","33","Madurai",128.0
+1340,"2019-07-01","Gujarat","24","Surat",0.0
+1341,"2019-07-01","Maharashtra","27","Aurangabad",0.0
+1342,"2019-07-01","Bihar","10","Gaya",0.0
+1343,"2019-07-01","Madhya Pradesh","23","Indore",102.0
+1344,"2019-08-01","Tamil Nadu","33","Chennai",23262.0
+1345,"2019-08-01","West Bengal","19","Kolkata",4793.0
+1346,"2019-08-01","Gujarat","24","Ahmedabad",3782.0
+1347,"2019-08-01","Goa","30","Goa",93.0
+1348,"2019-08-01","Assam","18","Guwahati",0.0
+1349,"2019-08-01","Uttar Pradesh","9","Lucknow",216.0
+1350,"2019-08-01","Rajasthan","8","Jaipur",183.0
+1351,"2019-08-01","Kerala","32","Trivandrum",2398.0
+1352,"2019-08-01","Odisha","21","Bhubaneswar",4.0
+1353,"2019-08-01","Kerala","32","Calicut",2501.0
+1354,"2019-08-01","Tamil Nadu","33","Coimbatore",225.0
+1355,"2019-08-01","Uttar Pradesh","9","Varanasi",0.0
+1356,"2019-08-01","Jammu and Kashmir","1","Srinagar",0.0
+1357,"2019-08-01","Punjab","3","Amritsar",82.0
+1358,"2019-08-01","Karnataka","29","Mangalore",204.0
+1359,"2019-08-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1360,"2019-08-01","Tamil Nadu","33","Trichy",809.0
+1361,"2019-08-01","Manipur","14","Imphal",0.0
+1362,"2019-08-01","Andhra Pradesh","28","Vijayawada",0.0
+1363,"2019-08-01","Andhra Pradesh","28","Tirupati",0.0
+1364,"2019-08-01","Delhi","7","Delhi",51847.0
+1365,"2019-08-01","Maharashtra","27","Mumbai",47938.0
+1366,"2019-08-01","Karnataka","29","Bangalore",18312.0
+1367,"2019-08-01","Telangana","36","Hyderabad",6659.0
+1368,"2019-08-01","Kerala","32","Cochin",7488.0
+1369,"2019-08-01","Maharashtra","27","Nagpur",65.0
+1370,"2019-08-01","Kerala","32","Kannur",0.0
+1371,"2019-08-01","Maharashtra","27","Pune",21.0
+1372,"2019-08-01","Bihar","10","Patna",0.0
+1373,"2019-08-01","West Bengal","19","Bagdogra",0.0
+1374,"2019-08-01","Andhra Pradesh","28","Visakhapatnam",43.0
+1375,"2019-08-01","Punjab","3","Chandigarh",43.0
+1376,"2019-08-01","Tamil Nadu","33","Madurai",0.0
+1377,"2019-08-01","Gujarat","24","Surat",0.0
+1378,"2019-08-01","Maharashtra","27","Aurangabad",0.0
+1379,"2019-08-01","Bihar","10","Gaya",0.0
+1380,"2019-08-01","Madhya Pradesh","23","Indore",28.0
+1381,"2019-09-01","Tamil Nadu","33","Chennai",22940.0
+1382,"2019-09-01","West Bengal","19","Kolkata",4981.0
+1383,"2019-09-01","Gujarat","24","Ahmedabad",3893.0
+1384,"2019-09-01","Goa","30","Goa",86.0
+1385,"2019-09-01","Assam","18","Guwahati",1.0
+1386,"2019-09-01","Uttar Pradesh","9","Lucknow",247.0
+1387,"2019-09-01","Rajasthan","8","Jaipur",208.0
+1388,"2019-09-01","Kerala","32","Trivandrum",2214.0
+1389,"2019-09-01","Odisha","21","Bhubaneswar",7.0
+1390,"2019-09-01","Kerala","32","Calicut",2265.0
+1391,"2019-09-01","Tamil Nadu","33","Coimbatore",226.0
+1392,"2019-09-01","Uttar Pradesh","9","Varanasi",0.0
+1393,"2019-09-01","Jammu and Kashmir","1","Srinagar",0.0
+1394,"2019-09-01","Punjab","3","Amritsar",72.0
+1395,"2019-09-01","Karnataka","29","Mangalore",239.0
+1396,"2019-09-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1397,"2019-09-01","Tamil Nadu","33","Trichy",749.0
+1398,"2019-09-01","Manipur","14","Imphal",0.0
+1399,"2019-09-01","Andhra Pradesh","28","Vijayawada",0.0
+1400,"2019-09-01","Andhra Pradesh","28","Tirupati",0.0
+1401,"2019-09-01","Delhi","7","Delhi",51951.0
+1402,"2019-09-01","Maharashtra","27","Mumbai",46415.0
+1403,"2019-09-01","Karnataka","29","Bangalore",18268.0
+1404,"2019-09-01","Telangana","36","Hyderabad",6427.0
+1405,"2019-09-01","Kerala","32","Cochin",4832.0
+1406,"2019-09-01","Maharashtra","27","Nagpur",59.0
+1407,"2019-09-01","Kerala","32","Kannur",0.0
+1408,"2019-09-01","Maharashtra","27","Pune",32.0
+1409,"2019-09-01","Bihar","10","Patna",0.0
+1410,"2019-09-01","West Bengal","19","Bagdogra",0.0
+1411,"2019-09-01","Andhra Pradesh","28","Visakhapatnam",50.0
+1412,"2019-09-01","Punjab","3","Chandigarh",0.0
+1413,"2019-09-01","Tamil Nadu","33","Madurai",176.0
+1414,"2019-09-01","Gujarat","24","Surat",0.0
+1415,"2019-09-01","Maharashtra","27","Aurangabad",0.0
+1416,"2019-09-01","Bihar","10","Gaya",0.0
+1417,"2019-09-01","Madhya Pradesh","23","Indore",38.0
+1418,"2019-10-01","Tamil Nadu","33","Chennai",22940.0
+1419,"2019-10-01","West Bengal","19","Kolkata",4981.0
+1420,"2019-10-01","Gujarat","24","Ahmedabad",3893.0
+1421,"2019-10-01","Goa","30","Goa",86.0
+1422,"2019-10-01","Assam","18","Guwahati",1.0
+1423,"2019-10-01","Uttar Pradesh","9","Lucknow",247.0
+1424,"2019-10-01","Rajasthan","8","Jaipur",208.0
+1425,"2019-10-01","Kerala","32","Trivandrum",2214.0
+1426,"2019-10-01","Odisha","21","Bhubaneswar",7.0
+1427,"2019-10-01","Kerala","32","Calicut",2265.0
+1428,"2019-10-01","Tamil Nadu","33","Coimbatore",226.0
+1429,"2019-10-01","Uttar Pradesh","9","Varanasi",0.0
+1430,"2019-10-01","Jammu and Kashmir","1","Srinagar",0.0
+1431,"2019-10-01","Punjab","3","Amritsar",72.0
+1432,"2019-10-01","Karnataka","29","Mangalore",239.0
+1433,"2019-10-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1434,"2019-10-01","Tamil Nadu","33","Trichy",749.0
+1435,"2019-10-01","Manipur","14","Imphal",0.0
+1436,"2019-10-01","Andhra Pradesh","28","Vijayawada",0.0
+1437,"2019-10-01","Andhra Pradesh","28","Tirupati",0.0
+1438,"2019-10-01","Delhi","7","Delhi",51951.0
+1439,"2019-10-01","Maharashtra","27","Mumbai",46415.0
+1440,"2019-10-01","Karnataka","29","Bangalore",18268.0
+1441,"2019-10-01","Telangana","36","Hyderabad",6427.0
+1442,"2019-10-01","Kerala","32","Cochin",4832.0
+1443,"2019-10-01","Maharashtra","27","Nagpur",59.0
+1444,"2019-10-01","Kerala","32","Kannur",0.0
+1445,"2019-10-01","Maharashtra","27","Pune",32.0
+1446,"2019-10-01","Bihar","10","Patna",0.0
+1447,"2019-10-01","West Bengal","19","Bagdogra",0.0
+1448,"2019-10-01","Andhra Pradesh","28","Visakhapatnam",50.0
+1449,"2019-10-01","Punjab","3","Chandigarh",0.0
+1450,"2019-10-01","Tamil Nadu","33","Madurai",176.0
+1451,"2019-10-01","Gujarat","24","Surat",0.0
+1452,"2019-10-01","Maharashtra","27","Aurangabad",0.0
+1453,"2019-10-01","Bihar","10","Gaya",0.0
+1454,"2019-10-01","Madhya Pradesh","23","Indore",38.0
+1455,"2019-11-01","Tamil Nadu","33","Chennai",22502.0
+1456,"2019-11-01","West Bengal","19","Kolkata",5371.0
+1457,"2019-11-01","Gujarat","24","Ahmedabad",4307.0
+1458,"2019-11-01","Goa","30","Goa",60.0
+1459,"2019-11-01","Assam","18","Guwahati",2.0
+1460,"2019-11-01","Uttar Pradesh","9","Lucknow",241.0
+1461,"2019-11-01","Rajasthan","8","Jaipur",214.0
+1462,"2019-11-01","Kerala","32","Trivandrum",1623.0
+1463,"2019-11-01","Odisha","21","Bhubaneswar",8.0
+1464,"2019-11-01","Kerala","32","Calicut",2068.0
+1465,"2019-11-01","Tamil Nadu","33","Coimbatore",209.0
+1466,"2019-11-01","Uttar Pradesh","9","Varanasi",0.0
+1467,"2019-11-01","Jammu and Kashmir","1","Srinagar",0.0
+1468,"2019-11-01","Punjab","3","Amritsar",87.0
+1469,"2019-11-01","Karnataka","29","Mangalore",336.0
+1470,"2019-11-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1471,"2019-11-01","Tamil Nadu","33","Trichy",597.0
+1472,"2019-11-01","Manipur","14","Imphal",0.0
+1473,"2019-11-01","Andhra Pradesh","28","Vijayawada",0.0
+1474,"2019-11-01","Andhra Pradesh","28","Tirupati",0.0
+1475,"2019-11-01","Delhi","7","Delhi",50724.0
+1476,"2019-11-01","Maharashtra","27","Mumbai",48988.0
+1477,"2019-11-01","Karnataka","29","Bangalore",18732.0
+1478,"2019-11-01","Telangana","36","Hyderabad",7088.0
+1479,"2019-11-01","Kerala","32","Cochin",4164.0
+1480,"2019-11-01","Maharashtra","27","Nagpur",37.0
+1481,"2019-11-01","Kerala","32","Kannur",0.0
+1482,"2019-11-01","Maharashtra","27","Pune",19.0
+1483,"2019-11-01","Bihar","10","Patna",0.0
+1484,"2019-11-01","West Bengal","19","Bagdogra",0.0
+1485,"2019-11-01","Andhra Pradesh","28","Visakhapatnam",42.0
+1486,"2019-11-01","Punjab","3","Chandigarh",0.0
+1487,"2019-11-01","Tamil Nadu","33","Madurai",122.0
+1488,"2019-11-01","Gujarat","24","Surat",0.0
+1489,"2019-11-01","Maharashtra","27","Aurangabad",0.0
+1490,"2019-11-01","Bihar","10","Gaya",0.0
+1491,"2019-11-01","Madhya Pradesh","23","Indore",42.0
+1492,"2019-12-01","Tamil Nadu","33","Chennai",23257.0
+1493,"2019-12-01","West Bengal","19","Kolkata",4828.0
+1494,"2019-12-01","Gujarat","24","Ahmedabad",3875.0
+1495,"2019-12-01","Goa","30","Goa",63.0
+1496,"2019-12-01","Assam","18","Guwahati",0.0
+1497,"2019-12-01","Uttar Pradesh","9","Lucknow",232.0
+1498,"2019-12-01","Rajasthan","8","Jaipur",164.0
+1499,"2019-12-01","Kerala","32","Trivandrum",1620.0
+1500,"2019-12-01","Odisha","21","Bhubaneswar",14.0
+1501,"2019-12-01","Kerala","32","Calicut",2314.0
+1502,"2019-12-01","Tamil Nadu","33","Coimbatore",208.0
+1503,"2019-12-01","Uttar Pradesh","9","Varanasi",0.0
+1504,"2019-12-01","Jammu and Kashmir","1","Srinagar",0.0
+1505,"2019-12-01","Punjab","3","Amritsar",127.0
+1506,"2019-12-01","Karnataka","29","Mangalore",300.0
+1507,"2019-12-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1508,"2019-12-01","Tamil Nadu","33","Trichy",594.0
+1509,"2019-12-01","Manipur","14","Imphal",0.0
+1510,"2019-12-01","Andhra Pradesh","28","Vijayawada",0.0
+1511,"2019-12-01","Andhra Pradesh","28","Tirupati",0.0
+1512,"2019-12-01","Delhi","7","Delhi",52284.0
+1513,"2019-12-01","Maharashtra","27","Mumbai",52430.0
+1514,"2019-12-01","Karnataka","29","Bangalore",18896.0
+1515,"2019-12-01","Telangana","36","Hyderabad",6912.0
+1516,"2019-12-01","Kerala","32","Cochin",4023.0
+1517,"2019-12-01","Maharashtra","27","Nagpur",37.0
+1518,"2019-12-01","Kerala","32","Kannur",0.0
+1519,"2019-12-01","Maharashtra","27","Pune",55.0
+1520,"2019-12-01","Bihar","10","Patna",0.0
+1521,"2019-12-01","West Bengal","19","Bagdogra",0.0
+1522,"2019-12-01","Andhra Pradesh","28","Visakhapatnam",54.0
+1523,"2019-12-01","Punjab","3","Chandigarh",0.0
+1524,"2019-12-01","Tamil Nadu","33","Madurai",109.0
+1525,"2019-12-01","Gujarat","24","Surat",0.0
+1526,"2019-12-01","Maharashtra","27","Aurangabad",0.0
+1527,"2019-12-01","Bihar","10","Gaya",0.0
+1528,"2019-12-01","Madhya Pradesh","23","Indore",47.0
+1529,"2018-01-01","Tamil Nadu","33","Chennai",24457.0
+1530,"2018-01-01","West Bengal","19","Kolkata",4727.0
+1531,"2018-01-01","Gujarat","24","Ahmedabad",3038.0
+1532,"2018-01-01","Goa","30","Goa",68.0
+1533,"2018-01-01","Uttar Pradesh","9","Lucknow",252.0
+1534,"2018-01-01","Kerala","32","Trivandrum",2169.0
+1535,"2018-01-01","Assam","18","Guwahati",0.0
+1536,"2018-01-01","Rajasthan","8","Jaipur",260.0
+1537,"2018-01-01","Kerala","32","Calicut",1332.0
+1538,"2018-01-01","Odisha","21","Bhubaneswar",0.0
+1539,"2018-01-01","Tamil Nadu","33","Coimbatore",137.0
+1540,"2018-01-01","Jammu and Kashmir","1","Srinagar",0.0
+1541,"2018-01-01","Uttar Pradesh","9","Varanasi",0.0
+1542,"2018-01-01","Karnataka","29","Mangalore",137.0
+1543,"2018-01-01","Punjab","3","Amritsar",63.0
+1544,"2018-01-01","Tamil Nadu","33","Trichy",592.0
+1545,"2018-01-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1546,"2018-01-01","Manipur","14","Imphal",0.0
+1547,"2018-01-01","Andhra Pradesh","28","Vijayawada",0.0
+1548,"2018-01-01","Andhra Pradesh","28","Tirupati",0.0
+1549,"2018-01-01","Delhi","7","Delhi",52229.0
+1550,"2018-01-01","Maharashtra","27","Mumbai",55088.0
+1551,"2018-01-01","Karnataka","29","Bangalore",17106.0
+1552,"2018-01-01","Telangana","36","Hyderabad",6281.0
+1553,"2018-01-01","Kerala","32","Cochin",4060.0
+1554,"2018-01-01","Maharashtra","27","Nagpur",111.0
+1555,"2018-01-01","Maharashtra","27","Pune",12.0
+1556,"2018-01-01","Andhra Pradesh","28","Visakhapatnam",0.0
+1557,"2018-01-01","Bihar","10","Patna",0.0
+1558,"2018-01-01","Chandigarh","4","Chandigarh",0.0
+1559,"2018-01-01","West Bengal","19","Bagdogra",0.0
+1560,"2018-01-01","Tamil Nadu","33","Madurai",32.0
+1561,"2018-01-01","Maharashtra","27","Aurangabad",0.0
+1562,"2018-01-01","Bihar","10","Gaya",0.0
+1563,"2018-02-01","Tamil Nadu","33","Chennai",23943.0
+1564,"2018-02-01","West Bengal","19","Kolkata",4127.0
+1565,"2018-02-01","Gujarat","24","Ahmedabad",3013.0
+1566,"2018-02-01","Goa","30","Goa",55.0
+1567,"2018-02-01","Uttar Pradesh","9","Lucknow",240.0
+1568,"2018-02-01","Kerala","32","Trivandrum",1962.0
+1569,"2018-02-01","Assam","18","Guwahati",0.0
+1570,"2018-02-01","Rajasthan","8","Jaipur",222.0
+1571,"2018-02-01","Kerala","32","Calicut",1409.0
+1572,"2018-02-01","Odisha","21","Bhubaneswar",0.0
+1573,"2018-02-01","Tamil Nadu","33","Coimbatore",182.0
+1574,"2018-02-01","Jammu and Kashmir","1","Srinagar",0.0
+1575,"2018-02-01","Uttar Pradesh","9","Varanasi",2.0
+1576,"2018-02-01","Karnataka","29","Mangalore",137.0
+1577,"2018-02-01","Punjab","3","Amritsar",56.0
+1578,"2018-02-01","Tamil Nadu","33","Trichy",568.0
+1579,"2018-02-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1580,"2018-02-01","Manipur","14","Imphal",0.0
+1581,"2018-02-01","Andhra Pradesh","28","Vijayawada",0.0
+1582,"2018-02-01","Andhra Pradesh","28","Tirupati",0.0
+1583,"2018-02-01","Delhi","7","Delhi",48640.0
+1584,"2018-02-01","Maharashtra","27","Mumbai",52799.0
+1585,"2018-02-01","Karnataka","29","Bangalore",17881.0
+1586,"2018-02-01","Telangana","36","Hyderabad",6231.0
+1587,"2018-02-01","Kerala","32","Cochin",6046.0
+1588,"2018-02-01","Maharashtra","27","Nagpur",85.0
+1589,"2018-02-01","Maharashtra","27","Pune",8.0
+1590,"2018-02-01","Andhra Pradesh","28","Visakhapatnam",0.0
+1591,"2018-02-01","Bihar","10","Patna",0.0
+1592,"2018-02-01","Chandigarh","4","Chandigarh",0.0
+1593,"2018-02-01","West Bengal","19","Bagdogra",0.0
+1594,"2018-02-01","Tamil Nadu","33","Madurai",74.0
+1595,"2018-02-01","Maharashtra","27","Aurangabad",0.0
+1596,"2018-02-01","Bihar","10","Gaya",0.0
+1597,"2018-03-01","Tamil Nadu","33","Chennai",28645.0
+1598,"2018-03-01","West Bengal","19","Kolkata",4626.0
+1599,"2018-03-01","Gujarat","24","Ahmedabad",3526.0
+1600,"2018-03-01","Goa","30","Goa",99.0
+1601,"2018-03-01","Uttar Pradesh","9","Lucknow",191.0
+1602,"2018-03-01","Kerala","32","Trivandrum",2409.0
+1603,"2018-03-01","Assam","18","Guwahati",0.0
+1604,"2018-03-01","Rajasthan","8","Jaipur",506.0
+1605,"2018-03-01","Kerala","32","Calicut",1537.0
+1606,"2018-03-01","Odisha","21","Bhubaneswar",0.0
+1607,"2018-03-01","Tamil Nadu","33","Coimbatore",190.0
+1608,"2018-03-01","Jammu and Kashmir","1","Srinagar",0.0
+1609,"2018-03-01","Uttar Pradesh","9","Varanasi",1.0
+1610,"2018-03-01","Karnataka","29","Mangalore",168.0
+1611,"2018-03-01","Punjab","3","Amritsar",131.0
+1612,"2018-03-01","Tamil Nadu","33","Trichy",594.0
+1613,"2018-03-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1614,"2018-03-01","Manipur","14","Imphal",0.0
+1615,"2018-03-01","Andhra Pradesh","28","Vijayawada",0.0
+1616,"2018-03-01","Andhra Pradesh","28","Tirupati",0.0
+1617,"2018-03-01","Delhi","7","Delhi",54723.0
+1618,"2018-03-01","Maharashtra","27","Mumbai",63231.0
+1619,"2018-03-01","Karnataka","29","Bangalore",20638.0
+1620,"2018-03-01","Telangana","36","Hyderabad",7667.0
+1621,"2018-03-01","Kerala","32","Cochin",6309.0
+1622,"2018-03-01","Maharashtra","27","Nagpur",73.0
+1623,"2018-03-01","Maharashtra","27","Pune",3.0
+1624,"2018-03-01","Andhra Pradesh","28","Visakhapatnam",0.0
+1625,"2018-03-01","Bihar","10","Patna",0.0
+1626,"2018-03-01","Chandigarh","4","Chandigarh",0.0
+1627,"2018-03-01","West Bengal","19","Bagdogra",0.0
+1628,"2018-03-01","Tamil Nadu","33","Madurai",86.0
+1629,"2018-03-01","Maharashtra","27","Aurangabad",0.0
+1630,"2018-03-01","Bihar","10","Gaya",0.0
+1631,"2018-04-01","Tamil Nadu","33","Chennai",25628.0
+1632,"2018-04-01","West Bengal","19","Kolkata",4551.0
+1633,"2018-04-01","Gujarat","24","Ahmedabad",3312.0
+1634,"2018-04-01","Goa","30","Goa",118.0
+1635,"2018-04-01","Uttar Pradesh","9","Lucknow",235.0
+1636,"2018-04-01","Kerala","32","Trivandrum",2246.0
+1637,"2018-04-01","Assam","18","Guwahati",0.0
+1638,"2018-04-01","Rajasthan","8","Jaipur",254.0
+1639,"2018-04-01","Kerala","32","Calicut",1566.0
+1640,"2018-04-01","Odisha","21","Bhubaneswar",0.0
+1641,"2018-04-01","Tamil Nadu","33","Coimbatore",163.0
+1642,"2018-04-01","Jammu and Kashmir","1","Srinagar",0.0
+1643,"2018-04-01","Uttar Pradesh","9","Varanasi",0.0
+1644,"2018-04-01","Karnataka","29","Mangalore",152.0
+1645,"2018-04-01","Punjab","3","Amritsar",60.0
+1646,"2018-04-01","Tamil Nadu","33","Trichy",515.0
+1647,"2018-04-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1648,"2018-04-01","Manipur","14","Imphal",0.0
+1649,"2018-04-01","Andhra Pradesh","28","Vijayawada",0.0
+1650,"2018-04-01","Andhra Pradesh","28","Tirupati",0.0
+1651,"2018-04-01","Delhi","7","Delhi",54442.0
+1652,"2018-04-01","Maharashtra","27","Mumbai",58271.0
+1653,"2018-04-01","Karnataka","29","Bangalore",19284.0
+1654,"2018-04-01","Telangana","36","Hyderabad",6898.0
+1655,"2018-04-01","Kerala","32","Cochin",5101.0
+1656,"2018-04-01","Maharashtra","27","Nagpur",42.0
+1657,"2018-04-01","Maharashtra","27","Pune",1.0
+1658,"2018-04-01","Andhra Pradesh","28","Visakhapatnam",0.0
+1659,"2018-04-01","Bihar","10","Patna",0.0
+1660,"2018-04-01","Chandigarh","4","Chandigarh",0.0
+1661,"2018-04-01","West Bengal","19","Bagdogra",0.0
+1662,"2018-04-01","Tamil Nadu","33","Madurai",95.0
+1663,"2018-04-01","Maharashtra","27","Aurangabad",0.0
+1664,"2018-04-01","Bihar","10","Gaya",0.0
+1665,"2018-05-01","Tamil Nadu","33","Chennai",27035.0
+1666,"2018-05-01","West Bengal","19","Kolkata",4800.0
+1667,"2018-05-01","Gujarat","24","Ahmedabad",3910.0
+1668,"2018-05-01","Goa","30","Goa",126.0
+1669,"2018-05-01","Uttar Pradesh","9","Lucknow",292.0
+1670,"2018-05-01","Kerala","32","Trivandrum",2110.0
+1671,"2018-05-01","Assam","18","Guwahati",1.0
+1672,"2018-05-01","Rajasthan","8","Jaipur",170.0
+1673,"2018-05-01","Kerala","32","Calicut",1509.0
+1674,"2018-05-01","Odisha","21","Bhubaneswar",0.0
+1675,"2018-05-01","Tamil Nadu","33","Coimbatore",162.0
+1676,"2018-05-01","Jammu and Kashmir","1","Srinagar",0.0
+1677,"2018-05-01","Uttar Pradesh","9","Varanasi",0.0
+1678,"2018-05-01","Karnataka","29","Mangalore",240.0
+1679,"2018-05-01","Punjab","3","Amritsar",53.0
+1680,"2018-05-01","Tamil Nadu","33","Trichy",518.0
+1681,"2018-05-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1682,"2018-05-01","Manipur","14","Imphal",0.0
+1683,"2018-05-01","Andhra Pradesh","28","Vijayawada",0.0
+1684,"2018-05-01","Andhra Pradesh","28","Tirupati",0.0
+1685,"2018-05-01","Delhi","7","Delhi",56835.0
+1686,"2018-05-01","Maharashtra","27","Mumbai",60084.0
+1687,"2018-05-01","Karnataka","29","Bangalore",20877.0
+1688,"2018-05-01","Telangana","36","Hyderabad",6942.0
+1689,"2018-05-01","Kerala","32","Cochin",5747.0
+1690,"2018-05-01","Maharashtra","27","Nagpur",30.0
+1691,"2018-05-01","Maharashtra","27","Pune",1.0
+1692,"2018-05-01","Andhra Pradesh","28","Visakhapatnam",0.0
+1693,"2018-05-01","Bihar","10","Patna",0.0
+1694,"2018-05-01","Chandigarh","4","Chandigarh",0.0
+1695,"2018-05-01","West Bengal","19","Bagdogra",0.0
+1696,"2018-05-01","Tamil Nadu","33","Madurai",106.0
+1697,"2018-05-01","Maharashtra","27","Aurangabad",0.0
+1698,"2018-05-01","Bihar","10","Gaya",0.0
+1699,"2018-06-01","Tamil Nadu","33","Chennai",27190.0
+1700,"2018-06-01","West Bengal","19","Kolkata",4601.0
+1701,"2018-06-01","Gujarat","24","Ahmedabad",3475.0
+1702,"2018-06-01","Goa","30","Goa",279.0
+1703,"2018-06-01","Uttar Pradesh","9","Lucknow",239.0
+1704,"2018-06-01","Kerala","32","Trivandrum",832.0
+1705,"2018-06-01","Assam","18","Guwahati",0.0
+1706,"2018-06-01","Rajasthan","8","Jaipur",188.0
+1707,"2018-06-01","Kerala","32","Calicut",307.0
+1708,"2018-06-01","Odisha","21","Bhubaneswar",0.0
+1709,"2018-06-01","Tamil Nadu","33","Coimbatore",199.0
+1710,"2018-06-01","Jammu and Kashmir","1","Srinagar",0.0
+1711,"2018-06-01","Uttar Pradesh","9","Varanasi",0.0
+1712,"2018-06-01","Karnataka","29","Mangalore",621.0
+1713,"2018-06-01","Punjab","3","Amritsar",52.0
+1714,"2018-06-01","Tamil Nadu","33","Trichy",644.0
+1715,"2018-06-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1716,"2018-06-01","Manipur","14","Imphal",0.0
+1717,"2018-06-01","Andhra Pradesh","28","Vijayawada",0.0
+1718,"2018-06-01","Andhra Pradesh","28","Tirupati",0.0
+1719,"2018-06-01","Delhi","7","Delhi",54097.0
+1720,"2018-06-01","Maharashtra","27","Mumbai",58083.0
+1721,"2018-06-01","Karnataka","29","Bangalore",22187.0
+1722,"2018-06-01","Telangana","36","Hyderabad",7558.0
+1723,"2018-06-01","Kerala","32","Cochin",2703.0
+1724,"2018-06-01","Maharashtra","27","Nagpur",54.0
+1725,"2018-06-01","Maharashtra","27","Pune",3.0
+1726,"2018-06-01","Andhra Pradesh","28","Visakhapatnam",0.0
+1727,"2018-06-01","Bihar","10","Patna",0.0
+1728,"2018-06-01","Chandigarh","4","Chandigarh",0.0
+1729,"2018-06-01","West Bengal","19","Bagdogra",0.0
+1730,"2018-06-01","Tamil Nadu","33","Madurai",118.0
+1731,"2018-06-01","Maharashtra","27","Aurangabad",0.0
+1732,"2018-06-01","Bihar","10","Gaya",0.0
+1733,"2018-07-01","Tamil Nadu","33","Chennai",28809.0
+1734,"2018-07-01","West Bengal","19","Kolkata",5566.0
+1735,"2018-07-01","Gujarat","24","Ahmedabad",3474.0
+1736,"2018-07-01","Goa","30","Goa",226.0
+1737,"2018-07-01","Uttar Pradesh","9","Lucknow",277.0
+1738,"2018-07-01","Kerala","32","Trivandrum",1477.0
+1739,"2018-07-01","Assam","18","Guwahati",0.0
+1740,"2018-07-01","Rajasthan","8","Jaipur",175.0
+1741,"2018-07-01","Kerala","32","Calicut",721.0
+1742,"2018-07-01","Odisha","21","Bhubaneswar",0.0
+1743,"2018-07-01","Tamil Nadu","33","Coimbatore",201.0
+1744,"2018-07-01","Jammu and Kashmir","1","Srinagar",0.0
+1745,"2018-07-01","Uttar Pradesh","9","Varanasi",0.0
+1746,"2018-07-01","Karnataka","29","Mangalore",390.0
+1747,"2018-07-01","Punjab","3","Amritsar",62.0
+1748,"2018-07-01","Tamil Nadu","33","Trichy",542.0
+1749,"2018-07-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1750,"2018-07-01","Manipur","14","Imphal",0.0
+1751,"2018-07-01","Andhra Pradesh","28","Vijayawada",0.0
+1752,"2018-07-01","Andhra Pradesh","28","Tirupati",0.0
+1753,"2018-07-01","Delhi","7","Delhi",54536.0
+1754,"2018-07-01","Maharashtra","27","Mumbai",55159.0
+1755,"2018-07-01","Karnataka","29","Bangalore",22469.0
+1756,"2018-07-01","Telangana","36","Hyderabad",7319.0
+1757,"2018-07-01","Kerala","32","Cochin",4018.0
+1758,"2018-07-01","Maharashtra","27","Nagpur",79.0
+1759,"2018-07-01","Maharashtra","27","Pune",2.0
+1760,"2018-07-01","Andhra Pradesh","28","Visakhapatnam",0.0
+1761,"2018-07-01","Bihar","10","Patna",0.0
+1762,"2018-07-01","Chandigarh","4","Chandigarh",0.0
+1763,"2018-07-01","West Bengal","19","Bagdogra",0.0
+1764,"2018-07-01","Tamil Nadu","33","Madurai",171.0
+1765,"2018-07-01","Maharashtra","27","Aurangabad",0.0
+1766,"2018-07-01","Bihar","10","Gaya",0.0
+1767,"2018-08-01","Tamil Nadu","33","Chennai",29281.0
+1768,"2018-08-01","West Bengal","19","Kolkata",5380.0
+1769,"2018-08-01","Gujarat","24","Ahmedabad",3676.0
+1770,"2018-08-01","Goa","30","Goa",166.0
+1771,"2018-08-01","Uttar Pradesh","9","Lucknow",219.0
+1772,"2018-08-01","Kerala","32","Trivandrum",2755.0
+1773,"2018-08-01","Assam","18","Guwahati",17.0
+1774,"2018-08-01","Rajasthan","8","Jaipur",243.0
+1775,"2018-08-01","Kerala","32","Calicut",1293.0
+1776,"2018-08-01","Odisha","21","Bhubaneswar",5.0
+1777,"2018-08-01","Tamil Nadu","33","Coimbatore",177.0
+1778,"2018-08-01","Jammu and Kashmir","1","Srinagar",0.0
+1779,"2018-08-01","Uttar Pradesh","9","Varanasi",0.0
+1780,"2018-08-01","Karnataka","29","Mangalore",225.0
+1781,"2018-08-01","Punjab","3","Amritsar",52.0
+1782,"2018-08-01","Tamil Nadu","33","Trichy",452.0
+1783,"2018-08-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1784,"2018-08-01","Manipur","14","Imphal",0.0
+1785,"2018-08-01","Andhra Pradesh","28","Vijayawada",0.0
+1786,"2018-08-01","Andhra Pradesh","28","Tirupati",0.0
+1787,"2018-08-01","Delhi","7","Delhi",56136.0
+1788,"2018-08-01","Maharashtra","27","Mumbai",57805.0
+1789,"2018-08-01","Karnataka","29","Bangalore",21682.0
+1790,"2018-08-01","Telangana","36","Hyderabad",7035.0
+1791,"2018-08-01","Kerala","32","Cochin",3004.0
+1792,"2018-08-01","Maharashtra","27","Nagpur",111.0
+1793,"2018-08-01","Maharashtra","27","Pune",3.0
+1794,"2018-08-01","Andhra Pradesh","28","Visakhapatnam",0.0
+1795,"2018-08-01","Bihar","10","Patna",0.0
+1796,"2018-08-01","Chandigarh","4","Chandigarh",0.0
+1797,"2018-08-01","West Bengal","19","Bagdogra",0.0
+1798,"2018-08-01","Tamil Nadu","33","Madurai",156.0
+1799,"2018-08-01","Maharashtra","27","Aurangabad",0.0
+1800,"2018-08-01","Bihar","10","Gaya",0.0
+1801,"2018-09-01","Tamil Nadu","33","Chennai",28005.0
+1802,"2018-09-01","West Bengal","19","Kolkata",5778.0
+1803,"2018-09-01","Gujarat","24","Ahmedabad",3571.0
+1804,"2018-09-01","Goa","30","Goa",168.0
+1805,"2018-09-01","Uttar Pradesh","9","Lucknow",279.0
+1806,"2018-09-01","Kerala","32","Trivandrum",2070.0
+1807,"2018-09-01","Assam","18","Guwahati",0.0
+1808,"2018-09-01","Rajasthan","8","Jaipur",232.0
+1809,"2018-09-01","Kerala","32","Calicut",1355.0
+1810,"2018-09-01","Odisha","21","Bhubaneswar",5.0
+1811,"2018-09-01","Tamil Nadu","33","Coimbatore",175.0
+1812,"2018-09-01","Jammu and Kashmir","1","Srinagar",0.0
+1813,"2018-09-01","Uttar Pradesh","9","Varanasi",0.0
+1814,"2018-09-01","Karnataka","29","Mangalore",208.0
+1815,"2018-09-01","Punjab","3","Amritsar",45.0
+1816,"2018-09-01","Tamil Nadu","33","Trichy",608.0
+1817,"2018-09-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1818,"2018-09-01","Manipur","14","Imphal",0.0
+1819,"2018-09-01","Andhra Pradesh","28","Vijayawada",0.0
+1820,"2018-09-01","Andhra Pradesh","28","Tirupati",0.0
+1821,"2018-09-01","Delhi","7","Delhi",58723.0
+1822,"2018-09-01","Maharashtra","27","Mumbai",53571.0
+1823,"2018-09-01","Karnataka","29","Bangalore",19868.0
+1824,"2018-09-01","Telangana","36","Hyderabad",7034.0
+1825,"2018-09-01","Kerala","32","Cochin",5256.0
+1826,"2018-09-01","Maharashtra","27","Nagpur",106.0
+1827,"2018-09-01","Maharashtra","27","Pune",3.0
+1828,"2018-09-01","Andhra Pradesh","28","Visakhapatnam",0.0
+1829,"2018-09-01","Bihar","10","Patna",0.0
+1830,"2018-09-01","Chandigarh","4","Chandigarh",0.0
+1831,"2018-09-01","West Bengal","19","Bagdogra",0.0
+1832,"2018-09-01","Tamil Nadu","33","Madurai",151.0
+1833,"2018-09-01","Maharashtra","27","Aurangabad",0.0
+1834,"2018-09-01","Bihar","10","Gaya",0.0
+1835,"2018-10-01","Tamil Nadu","33","Chennai",28105.0
+1836,"2018-10-01","West Bengal","19","Kolkata",5497.0
+1837,"2018-10-01","Gujarat","24","Ahmedabad",5077.0
+1838,"2018-10-01","Goa","30","Goa",144.0
+1839,"2018-10-01","Uttar Pradesh","9","Lucknow",221.0
+1840,"2018-10-01","Kerala","32","Trivandrum",1822.0
+1841,"2018-10-01","Assam","18","Guwahati",0.0
+1842,"2018-10-01","Rajasthan","8","Jaipur",212.0
+1843,"2018-10-01","Kerala","32","Calicut",1409.0
+1844,"2018-10-01","Odisha","21","Bhubaneswar",5.0
+1845,"2018-10-01","Tamil Nadu","33","Coimbatore",176.0
+1846,"2018-10-01","Jammu and Kashmir","1","Srinagar",0.0
+1847,"2018-10-01","Uttar Pradesh","9","Varanasi",0.0
+1848,"2018-10-01","Karnataka","29","Mangalore",190.0
+1849,"2018-10-01","Punjab","3","Amritsar",79.0
+1850,"2018-10-01","Tamil Nadu","33","Trichy",638.0
+1851,"2018-10-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1852,"2018-10-01","Manipur","14","Imphal",0.0
+1853,"2018-10-01","Andhra Pradesh","28","Vijayawada",0.0
+1854,"2018-10-01","Andhra Pradesh","28","Tirupati",0.0
+1855,"2018-10-01","Delhi","7","Delhi",59646.0
+1856,"2018-10-01","Maharashtra","27","Mumbai",56713.0
+1857,"2018-10-01","Karnataka","29","Bangalore",20086.0
+1858,"2018-10-01","Telangana","36","Hyderabad",7061.0
+1859,"2018-10-01","Kerala","32","Cochin",5294.0
+1860,"2018-10-01","Maharashtra","27","Nagpur",99.0
+1861,"2018-10-01","Maharashtra","27","Pune",9.0
+1862,"2018-10-01","Andhra Pradesh","28","Visakhapatnam",0.0
+1863,"2018-10-01","Bihar","10","Patna",0.0
+1864,"2018-10-01","Chandigarh","4","Chandigarh",0.0
+1865,"2018-10-01","West Bengal","19","Bagdogra",0.0
+1866,"2018-10-01","Tamil Nadu","33","Madurai",148.0
+1867,"2018-10-01","Maharashtra","27","Aurangabad",0.0
+1868,"2018-10-01","Bihar","10","Gaya",0.0
+1869,"2018-11-01","Tamil Nadu","33","Chennai",24247.0
+1870,"2018-11-01","West Bengal","19","Kolkata",5253.0
+1871,"2018-11-01","Gujarat","24","Ahmedabad",5128.0
+1872,"2018-11-01","Goa","30","Goa",129.0
+1873,"2018-11-01","Uttar Pradesh","9","Lucknow",207.0
+1874,"2018-11-01","Kerala","32","Trivandrum",1716.0
+1875,"2018-11-01","Assam","18","Guwahati",1.0
+1876,"2018-11-01","Rajasthan","8","Jaipur",213.0
+1877,"2018-11-01","Kerala","32","Calicut",1375.0
+1878,"2018-11-01","Odisha","21","Bhubaneswar",3.0
+1879,"2018-11-01","Tamil Nadu","33","Coimbatore",203.0
+1880,"2018-11-01","Jammu and Kashmir","1","Srinagar",0.0
+1881,"2018-11-01","Uttar Pradesh","9","Varanasi",0.0
+1882,"2018-11-01","Karnataka","29","Mangalore",186.0
+1883,"2018-11-01","Punjab","3","Amritsar",66.0
+1884,"2018-11-01","Tamil Nadu","33","Trichy",521.0
+1885,"2018-11-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1886,"2018-11-01","Manipur","14","Imphal",0.0
+1887,"2018-11-01","Andhra Pradesh","28","Vijayawada",0.0
+1888,"2018-11-01","Andhra Pradesh","28","Tirupati",0.0
+1889,"2018-11-01","Delhi","7","Delhi",51854.0
+1890,"2018-11-01","Maharashtra","27","Mumbai",56398.0
+1891,"2018-11-01","Karnataka","29","Bangalore",18201.0
+1892,"2018-11-01","Telangana","36","Hyderabad",6530.0
+1893,"2018-11-01","Kerala","32","Cochin",4815.0
+1894,"2018-11-01","Maharashtra","27","Nagpur",126.0
+1895,"2018-11-01","Maharashtra","27","Pune",12.0
+1896,"2018-11-01","Andhra Pradesh","28","Visakhapatnam",0.0
+1897,"2018-11-01","Bihar","10","Patna",0.0
+1898,"2018-11-01","Chandigarh","4","Chandigarh",0.0
+1899,"2018-11-01","West Bengal","19","Bagdogra",0.0
+1900,"2018-11-01","Tamil Nadu","33","Madurai",140.0
+1901,"2018-11-01","Maharashtra","27","Aurangabad",0.0
+1902,"2018-11-01","Bihar","10","Gaya",0.0
+1903,"2018-12-01","Tamil Nadu","33","Chennai",24465.0
+1904,"2018-12-01","West Bengal","19","Kolkata",5008.0
+1905,"2018-12-01","Gujarat","24","Ahmedabad",3796.0
+1906,"2018-12-01","Goa","30","Goa",107.0
+1907,"2018-12-01","Uttar Pradesh","9","Lucknow",241.0
+1908,"2018-12-01","Kerala","32","Trivandrum",1719.0
+1909,"2018-12-01","Assam","18","Guwahati",1.0
+1910,"2018-12-01","Rajasthan","8","Jaipur",215.0
+1911,"2018-12-01","Kerala","32","Calicut",1569.0
+1912,"2018-12-01","Odisha","21","Bhubaneswar",0.0
+1913,"2018-12-01","Tamil Nadu","33","Coimbatore",179.0
+1914,"2018-12-01","Jammu and Kashmir","1","Srinagar",0.0
+1915,"2018-12-01","Uttar Pradesh","9","Varanasi",0.0
+1916,"2018-12-01","Karnataka","29","Mangalore",146.0
+1917,"2018-12-01","Punjab","3","Amritsar",82.0
+1918,"2018-12-01","Tamil Nadu","33","Trichy",573.0
+1919,"2018-12-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1920,"2018-12-01","Manipur","14","Imphal",0.0
+1921,"2018-12-01","Andhra Pradesh","28","Vijayawada",0.0
+1922,"2018-12-01","Andhra Pradesh","28","Tirupati",0.0
+1923,"2018-12-01","Delhi","7","Delhi",53294.0
+1924,"2018-12-01","Maharashtra","27","Mumbai",56243.0
+1925,"2018-12-01","Karnataka","29","Bangalore",19259.0
+1926,"2018-12-01","Telangana","36","Hyderabad",6906.0
+1927,"2018-12-01","Kerala","32","Cochin",5286.0
+1928,"2018-12-01","Maharashtra","27","Nagpur",113.0
+1929,"2018-12-01","Maharashtra","27","Pune",11.0
+1930,"2018-12-01","Andhra Pradesh","28","Visakhapatnam",0.0
+1931,"2018-12-01","Bihar","10","Patna",0.0
+1932,"2018-12-01","Chandigarh","4","Chandigarh",0.0
+1933,"2018-12-01","West Bengal","19","Bagdogra",0.0
+1934,"2018-12-01","Tamil Nadu","33","Madurai",161.0
+1935,"2018-12-01","Maharashtra","27","Aurangabad",0.0
+1936,"2018-12-01","Bihar","10","Gaya",0.0
+1937,"2017-01-01","Tamil Nadu","33","Chennai",20692.0
+1938,"2017-01-01","West Bengal","19","Kolkata",4644.0
+1939,"2017-01-01","Gujarat","24","Ahmedabad",2621.0
+1940,"2017-01-01","Goa","30","Goa",82.0
+1941,"2017-01-01","Uttar Pradesh","9","Lucknow",147.0
+1942,"2017-01-01","Kerala","32","Trivandrum",1473.0
+1943,"2017-01-01","Assam","18","Guwahati",0.0
+1944,"2017-01-01","Rajasthan","8","Jaipur",246.0
+1945,"2017-01-01","Kerala","32","Calicut",1160.0
+1946,"2017-01-01","Odisha","21","Bhubaneswar",0.0
+1947,"2017-01-01","Tamil Nadu","33","Coimbatore",79.0
+1948,"2017-01-01","Jammu and Kashmir","1","Srinagar",0.0
+1949,"2017-01-01","Uttar Pradesh","9","Varanasi",0.0
+1950,"2017-01-01","Karnataka","29","Mangalore",59.0
+1951,"2017-01-01","Punjab","3","Amritsar",78.0
+1952,"2017-01-01","Tamil Nadu","33","Trichy",556.0
+1953,"2017-01-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1954,"2017-01-01","Manipur","14","Imphal",0.0
+1955,"2017-01-01","Andhra Pradesh","28","Vijayawada",0.0
+1956,"2017-01-01","Andhra Pradesh","28","Tirupati",0.0
+1957,"2017-01-01","Delhi","7","Delhi",46427.0
+1958,"2017-01-01","Maharashtra","27","Mumbai",46969.0
+1959,"2017-01-01","Karnataka","29","Bangalore",15585.0
+1960,"2017-01-01","Telangana","36","Hyderabad",5410.0
+1961,"2017-01-01","Kerala","32","Cochin",4872.0
+1962,"2017-01-01","Maharashtra","27","Nagpur",49.0
+1963,"2017-01-01","Maharashtra","27","Pune",0.0
+1964,"2017-01-01","Andhra Pradesh","28","Visakhapatnam",0.0
+1965,"2017-01-01","Bihar","10","Patna",0.0
+1966,"2017-01-01","Chandigarh","4","Chandigarh",0.0
+1967,"2017-01-01","West Bengal","19","Bagdogra",0.0
+1968,"2017-01-01","Tamil Nadu","33","Madurai",0.0
+1969,"2017-01-01","Maharashtra","27","Aurangabad",0.0
+1970,"2017-01-01","Bihar","10","Gaya",0.0
+1971,"2017-02-01","Tamil Nadu","33","Chennai",21135.0
+1972,"2017-02-01","West Bengal","19","Kolkata",4429.0
+1973,"2017-02-01","Gujarat","24","Ahmedabad",2616.0
+1974,"2017-02-01","Goa","30","Goa",51.0
+1975,"2017-02-01","Uttar Pradesh","9","Lucknow",172.0
+1976,"2017-02-01","Kerala","32","Trivandrum",2186.0
+1977,"2017-02-01","Assam","18","Guwahati",0.0
+1978,"2017-02-01","Rajasthan","8","Jaipur",245.0
+1979,"2017-02-01","Kerala","32","Calicut",1086.0
+1980,"2017-02-01","Odisha","21","Bhubaneswar",0.0
+1981,"2017-02-01","Tamil Nadu","33","Coimbatore",88.0
+1982,"2017-02-01","Jammu and Kashmir","1","Srinagar",0.0
+1983,"2017-02-01","Uttar Pradesh","9","Varanasi",0.0
+1984,"2017-02-01","Karnataka","29","Mangalore",78.0
+1985,"2017-02-01","Punjab","3","Amritsar",83.0
+1986,"2017-02-01","Tamil Nadu","33","Trichy",525.0
+1987,"2017-02-01","Andaman and Nicobar Islands","35","Portblair",0.0
+1988,"2017-02-01","Manipur","14","Imphal",0.0
+1989,"2017-02-01","Andhra Pradesh","28","Vijayawada",0.0
+1990,"2017-02-01","Andhra Pradesh","28","Tirupati",0.0
+1991,"2017-02-01","Delhi","7","Delhi",44853.0
+1992,"2017-02-01","Maharashtra","27","Mumbai",45350.0
+1993,"2017-02-01","Karnataka","29","Bangalore",15959.0
+1994,"2017-02-01","Telangana","36","Hyderabad",5180.0
+1995,"2017-02-01","Kerala","32","Cochin",4700.0
+1996,"2017-02-01","Maharashtra","27","Nagpur",47.0
+1997,"2017-02-01","Maharashtra","27","Pune",0.0
+1998,"2017-02-01","Andhra Pradesh","28","Visakhapatnam",0.0
+1999,"2017-02-01","Bihar","10","Patna",0.0
+2000,"2017-02-01","Chandigarh","4","Chandigarh",0.0
+2001,"2017-02-01","West Bengal","19","Bagdogra",0.0
+2002,"2017-02-01","Tamil Nadu","33","Madurai",0.0
+2003,"2017-02-01","Maharashtra","27","Aurangabad",0.0
+2004,"2017-02-01","Bihar","10","Gaya",0.0
+2005,"2017-03-01","Tamil Nadu","33","Chennai",27960.0
+2006,"2017-03-01","West Bengal","19","Kolkata",5984.0
+2007,"2017-03-01","Gujarat","24","Ahmedabad",3457.0
+2008,"2017-03-01","Goa","30","Goa",85.0
+2009,"2017-03-01","Uttar Pradesh","9","Lucknow",240.0
+2010,"2017-03-01","Kerala","32","Trivandrum",2581.0
+2011,"2017-03-01","Assam","18","Guwahati",1.0
+2012,"2017-03-01","Rajasthan","8","Jaipur",244.0
+2013,"2017-03-01","Kerala","32","Calicut",1384.0
+2014,"2017-03-01","Odisha","21","Bhubaneswar",0.0
+2015,"2017-03-01","Tamil Nadu","33","Coimbatore",93.0
+2016,"2017-03-01","Jammu and Kashmir","1","Srinagar",0.0
+2017,"2017-03-01","Uttar Pradesh","9","Varanasi",0.0
+2018,"2017-03-01","Karnataka","29","Mangalore",120.0
+2019,"2017-03-01","Punjab","3","Amritsar",74.0
+2020,"2017-03-01","Tamil Nadu","33","Trichy",596.0
+2021,"2017-03-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2022,"2017-03-01","Manipur","14","Imphal",0.0
+2023,"2017-03-01","Andhra Pradesh","28","Vijayawada",0.0
+2024,"2017-03-01","Andhra Pradesh","28","Tirupati",0.0
+2025,"2017-03-01","Delhi","7","Delhi",57064.0
+2026,"2017-03-01","Maharashtra","27","Mumbai",59361.0
+2027,"2017-03-01","Karnataka","29","Bangalore",19457.0
+2028,"2017-03-01","Telangana","36","Hyderabad",7192.0
+2029,"2017-03-01","Kerala","32","Cochin",5833.0
+2030,"2017-03-01","Maharashtra","27","Nagpur",32.0
+2031,"2017-03-01","Maharashtra","27","Pune",0.0
+2032,"2017-03-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2033,"2017-03-01","Bihar","10","Patna",0.0
+2034,"2017-03-01","Chandigarh","4","Chandigarh",0.0
+2035,"2017-03-01","West Bengal","19","Bagdogra",0.0
+2036,"2017-03-01","Tamil Nadu","33","Madurai",0.0
+2037,"2017-03-01","Maharashtra","27","Aurangabad",0.0
+2038,"2017-03-01","Bihar","10","Gaya",0.0
+2039,"2017-04-01","Tamil Nadu","33","Chennai",24366.0
+2040,"2017-04-01","West Bengal","19","Kolkata",4891.0
+2041,"2017-04-01","Gujarat","24","Ahmedabad",3110.0
+2042,"2017-04-01","Goa","30","Goa",123.0
+2043,"2017-04-01","Uttar Pradesh","9","Lucknow",183.0
+2044,"2017-04-01","Kerala","32","Trivandrum",2387.0
+2045,"2017-04-01","Assam","18","Guwahati",0.0
+2046,"2017-04-01","Rajasthan","8","Jaipur",233.0
+2047,"2017-04-01","Kerala","32","Calicut",1558.0
+2048,"2017-04-01","Odisha","21","Bhubaneswar",0.0
+2049,"2017-04-01","Tamil Nadu","33","Coimbatore",67.0
+2050,"2017-04-01","Jammu and Kashmir","1","Srinagar",0.0
+2051,"2017-04-01","Uttar Pradesh","9","Varanasi",0.0
+2052,"2017-04-01","Karnataka","29","Mangalore",142.0
+2053,"2017-04-01","Punjab","3","Amritsar",106.0
+2054,"2017-04-01","Tamil Nadu","33","Trichy",622.0
+2055,"2017-04-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2056,"2017-04-01","Manipur","14","Imphal",0.0
+2057,"2017-04-01","Andhra Pradesh","28","Vijayawada",0.0
+2058,"2017-04-01","Andhra Pradesh","28","Tirupati",0.0
+2059,"2017-04-01","Delhi","7","Delhi",55131.0
+2060,"2017-04-01","Maharashtra","27","Mumbai",52581.0
+2061,"2017-04-01","Karnataka","29","Bangalore",17259.0
+2062,"2017-04-01","Telangana","36","Hyderabad",6170.0
+2063,"2017-04-01","Kerala","32","Cochin",5940.0
+2064,"2017-04-01","Maharashtra","27","Nagpur",31.0
+2065,"2017-04-01","Maharashtra","27","Pune",0.0
+2066,"2017-04-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2067,"2017-04-01","Bihar","10","Patna",0.0
+2068,"2017-04-01","Chandigarh","4","Chandigarh",0.0
+2069,"2017-04-01","West Bengal","19","Bagdogra",0.0
+2070,"2017-04-01","Tamil Nadu","33","Madurai",1.0
+2071,"2017-04-01","Maharashtra","27","Aurangabad",0.0
+2072,"2017-04-01","Bihar","10","Gaya",0.0
+2073,"2017-05-01","Tamil Nadu","33","Chennai",25605.0
+2074,"2017-05-01","West Bengal","19","Kolkata",6027.0
+2075,"2017-05-01","Gujarat","24","Ahmedabad",3800.0
+2076,"2017-05-01","Goa","30","Goa",104.0
+2077,"2017-05-01","Uttar Pradesh","9","Lucknow",391.0
+2078,"2017-05-01","Kerala","32","Trivandrum",2336.0
+2079,"2017-05-01","Assam","18","Guwahati",1.0
+2080,"2017-05-01","Rajasthan","8","Jaipur",252.0
+2081,"2017-05-01","Kerala","32","Calicut",1544.0
+2082,"2017-05-01","Odisha","21","Bhubaneswar",0.0
+2083,"2017-05-01","Tamil Nadu","33","Coimbatore",91.0
+2084,"2017-05-01","Jammu and Kashmir","1","Srinagar",0.0
+2085,"2017-05-01","Uttar Pradesh","9","Varanasi",0.0
+2086,"2017-05-01","Karnataka","29","Mangalore",165.0
+2087,"2017-05-01","Punjab","3","Amritsar",79.0
+2088,"2017-05-01","Tamil Nadu","33","Trichy",547.0
+2089,"2017-05-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2090,"2017-05-01","Manipur","14","Imphal",0.0
+2091,"2017-05-01","Andhra Pradesh","28","Vijayawada",0.0
+2092,"2017-05-01","Andhra Pradesh","28","Tirupati",0.0
+2093,"2017-05-01","Delhi","7","Delhi",57772.0
+2094,"2017-05-01","Maharashtra","27","Mumbai",54615.0
+2095,"2017-05-01","Karnataka","29","Bangalore",17994.0
+2096,"2017-05-01","Telangana","36","Hyderabad",6748.0
+2097,"2017-05-01","Kerala","32","Cochin",6405.0
+2098,"2017-05-01","Maharashtra","27","Nagpur",13.0
+2099,"2017-05-01","Maharashtra","27","Pune",0.0
+2100,"2017-05-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2101,"2017-05-01","Bihar","10","Patna",0.0
+2102,"2017-05-01","Chandigarh","4","Chandigarh",0.0
+2103,"2017-05-01","West Bengal","19","Bagdogra",0.0
+2104,"2017-05-01","Tamil Nadu","33","Madurai",0.0
+2105,"2017-05-01","Maharashtra","27","Aurangabad",0.0
+2106,"2017-05-01","Bihar","10","Gaya",0.0
+2107,"2017-06-01","Tamil Nadu","33","Chennai",26597.0
+2108,"2017-06-01","West Bengal","19","Kolkata",5061.0
+2109,"2017-06-01","Gujarat","24","Ahmedabad",3637.0
+2110,"2017-06-01","Goa","30","Goa",139.0
+2111,"2017-06-01","Uttar Pradesh","9","Lucknow",344.0
+2112,"2017-06-01","Kerala","32","Trivandrum",2314.0
+2113,"2017-06-01","Assam","18","Guwahati",0.0
+2114,"2017-06-01","Rajasthan","8","Jaipur",258.0
+2115,"2017-06-01","Kerala","32","Calicut",1611.0
+2116,"2017-06-01","Odisha","21","Bhubaneswar",0.0
+2117,"2017-06-01","Tamil Nadu","33","Coimbatore",93.0
+2118,"2017-06-01","Jammu and Kashmir","1","Srinagar",0.0
+2119,"2017-06-01","Uttar Pradesh","9","Varanasi",0.0
+2120,"2017-06-01","Karnataka","29","Mangalore",216.0
+2121,"2017-06-01","Punjab","3","Amritsar",112.0
+2122,"2017-06-01","Tamil Nadu","33","Trichy",526.0
+2123,"2017-06-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2124,"2017-06-01","Manipur","14","Imphal",0.0
+2125,"2017-06-01","Andhra Pradesh","28","Vijayawada",0.0
+2126,"2017-06-01","Andhra Pradesh","28","Tirupati",0.0
+2127,"2017-06-01","Delhi","7","Delhi",54653.0
+2128,"2017-06-01","Maharashtra","27","Mumbai",52446.0
+2129,"2017-06-01","Karnataka","29","Bangalore",18330.0
+2130,"2017-06-01","Telangana","36","Hyderabad",6644.0
+2131,"2017-06-01","Kerala","32","Cochin",5751.0
+2132,"2017-06-01","Maharashtra","27","Nagpur",36.0
+2133,"2017-06-01","Maharashtra","27","Pune",0.0
+2134,"2017-06-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2135,"2017-06-01","Bihar","10","Patna",0.0
+2136,"2017-06-01","Chandigarh","4","Chandigarh",0.0
+2137,"2017-06-01","West Bengal","19","Bagdogra",0.0
+2138,"2017-06-01","Tamil Nadu","33","Madurai",0.0
+2139,"2017-06-01","Maharashtra","27","Aurangabad",0.0
+2140,"2017-06-01","Bihar","10","Gaya",0.0
+2141,"2017-07-01","Tamil Nadu","33","Chennai",28085.0
+2142,"2017-07-01","West Bengal","19","Kolkata",5075.0
+2143,"2017-07-01","Gujarat","24","Ahmedabad",3628.0
+2144,"2017-07-01","Goa","30","Goa",201.0
+2145,"2017-07-01","Uttar Pradesh","9","Lucknow",214.0
+2146,"2017-07-01","Kerala","32","Trivandrum",2358.0
+2147,"2017-07-01","Assam","18","Guwahati",0.0
+2148,"2017-07-01","Rajasthan","8","Jaipur",242.0
+2149,"2017-07-01","Kerala","32","Calicut",1683.0
+2150,"2017-07-01","Odisha","21","Bhubaneswar",0.0
+2151,"2017-07-01","Tamil Nadu","33","Coimbatore",118.0
+2152,"2017-07-01","Jammu and Kashmir","1","Srinagar",9.0
+2153,"2017-07-01","Uttar Pradesh","9","Varanasi",0.0
+2154,"2017-07-01","Karnataka","29","Mangalore",205.0
+2155,"2017-07-01","Punjab","3","Amritsar",103.0
+2156,"2017-07-01","Tamil Nadu","33","Trichy",472.0
+2157,"2017-07-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2158,"2017-07-01","Manipur","14","Imphal",0.0
+2159,"2017-07-01","Andhra Pradesh","28","Vijayawada",0.0
+2160,"2017-07-01","Andhra Pradesh","28","Tirupati",0.0
+2161,"2017-07-01","Delhi","7","Delhi",51228.0
+2162,"2017-07-01","Maharashtra","27","Mumbai",48784.0
+2163,"2017-07-01","Karnataka","29","Bangalore",18804.0
+2164,"2017-07-01","Telangana","36","Hyderabad",6316.0
+2165,"2017-07-01","Kerala","32","Cochin",5629.0
+2166,"2017-07-01","Maharashtra","27","Nagpur",45.0
+2167,"2017-07-01","Maharashtra","27","Pune",2.0
+2168,"2017-07-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2169,"2017-07-01","Bihar","10","Patna",0.0
+2170,"2017-07-01","Chandigarh","4","Chandigarh",0.0
+2171,"2017-07-01","West Bengal","19","Bagdogra",0.0
+2172,"2017-07-01","Tamil Nadu","33","Madurai",0.0
+2173,"2017-07-01","Maharashtra","27","Aurangabad",0.0
+2174,"2017-07-01","Bihar","10","Gaya",0.0
+2175,"2017-08-01","Tamil Nadu","33","Chennai",27113.0
+2176,"2017-08-01","West Bengal","19","Kolkata",5420.0
+2177,"2017-08-01","Gujarat","24","Ahmedabad",3329.0
+2178,"2017-08-01","Goa","30","Goa",217.0
+2179,"2017-08-01","Uttar Pradesh","9","Lucknow",274.0
+2180,"2017-08-01","Kerala","32","Trivandrum",3636.0
+2181,"2017-08-01","Assam","18","Guwahati",1.0
+2182,"2017-08-01","Rajasthan","8","Jaipur",321.0
+2183,"2017-08-01","Kerala","32","Calicut",1603.0
+2184,"2017-08-01","Odisha","21","Bhubaneswar",0.0
+2185,"2017-08-01","Tamil Nadu","33","Coimbatore",135.0
+2186,"2017-08-01","Jammu and Kashmir","1","Srinagar",2.0
+2187,"2017-08-01","Uttar Pradesh","9","Varanasi",0.0
+2188,"2017-08-01","Karnataka","29","Mangalore",245.0
+2189,"2017-08-01","Punjab","3","Amritsar",121.0
+2190,"2017-08-01","Tamil Nadu","33","Trichy",628.0
+2191,"2017-08-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2192,"2017-08-01","Manipur","14","Imphal",0.0
+2193,"2017-08-01","Andhra Pradesh","28","Vijayawada",0.0
+2194,"2017-08-01","Andhra Pradesh","28","Tirupati",0.0
+2195,"2017-08-01","Delhi","7","Delhi",55181.0
+2196,"2017-08-01","Maharashtra","27","Mumbai",51080.0
+2197,"2017-08-01","Karnataka","29","Bangalore",18844.0
+2198,"2017-08-01","Telangana","36","Hyderabad",7348.0
+2199,"2017-08-01","Kerala","32","Cochin",5677.0
+2200,"2017-08-01","Maharashtra","27","Nagpur",85.0
+2201,"2017-08-01","Maharashtra","27","Pune",1.0
+2202,"2017-08-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2203,"2017-08-01","Bihar","10","Patna",0.0
+2204,"2017-08-01","Chandigarh","4","Chandigarh",0.0
+2205,"2017-08-01","West Bengal","19","Bagdogra",0.0
+2206,"2017-08-01","Tamil Nadu","33","Madurai",4.0
+2207,"2017-08-01","Maharashtra","27","Aurangabad",0.0
+2208,"2017-08-01","Bihar","10","Gaya",0.0
+2209,"2017-09-01","Tamil Nadu","33","Chennai",26421.0
+2210,"2017-09-01","West Bengal","19","Kolkata",4995.0
+2211,"2017-09-01","Gujarat","24","Ahmedabad",3929.0
+2212,"2017-09-01","Goa","30","Goa",155.0
+2213,"2017-09-01","Uttar Pradesh","9","Lucknow",236.0
+2214,"2017-09-01","Kerala","32","Trivandrum",2116.0
+2215,"2017-09-01","Assam","18","Guwahati",0.0
+2216,"2017-09-01","Rajasthan","8","Jaipur",342.0
+2217,"2017-09-01","Kerala","32","Calicut",1413.0
+2218,"2017-09-01","Odisha","21","Bhubaneswar",0.0
+2219,"2017-09-01","Tamil Nadu","33","Coimbatore",123.0
+2220,"2017-09-01","Jammu and Kashmir","1","Srinagar",0.0
+2221,"2017-09-01","Uttar Pradesh","9","Varanasi",0.0
+2222,"2017-09-01","Karnataka","29","Mangalore",178.0
+2223,"2017-09-01","Punjab","3","Amritsar",120.0
+2224,"2017-09-01","Tamil Nadu","33","Trichy",499.0
+2225,"2017-09-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2226,"2017-09-01","Manipur","14","Imphal",0.0
+2227,"2017-09-01","Andhra Pradesh","28","Vijayawada",0.0
+2228,"2017-09-01","Andhra Pradesh","28","Tirupati",0.0
+2229,"2017-09-01","Delhi","7","Delhi",56371.0
+2230,"2017-09-01","Maharashtra","27","Mumbai",52031.0
+2231,"2017-09-01","Karnataka","29","Bangalore",18012.0
+2232,"2017-09-01","Telangana","36","Hyderabad",6593.0
+2233,"2017-09-01","Kerala","32","Cochin",5025.0
+2234,"2017-09-01","Maharashtra","27","Nagpur",82.0
+2235,"2017-09-01","Maharashtra","27","Pune",1.0
+2236,"2017-09-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2237,"2017-09-01","Bihar","10","Patna",0.0
+2238,"2017-09-01","Chandigarh","4","Chandigarh",0.0
+2239,"2017-09-01","West Bengal","19","Bagdogra",0.0
+2240,"2017-09-01","Tamil Nadu","33","Madurai",0.0
+2241,"2017-09-01","Maharashtra","27","Aurangabad",0.0
+2242,"2017-09-01","Bihar","10","Gaya",0.0
+2243,"2017-10-01","Tamil Nadu","33","Chennai",26134.0
+2244,"2017-10-01","West Bengal","19","Kolkata",5120.0
+2245,"2017-10-01","Gujarat","24","Ahmedabad",3275.0
+2246,"2017-10-01","Goa","30","Goa",127.0
+2247,"2017-10-01","Uttar Pradesh","9","Lucknow",189.0
+2248,"2017-10-01","Kerala","32","Trivandrum",2170.0
+2249,"2017-10-01","Assam","18","Guwahati",0.0
+2250,"2017-10-01","Rajasthan","8","Jaipur",270.0
+2251,"2017-10-01","Kerala","32","Calicut",1505.0
+2252,"2017-10-01","Odisha","21","Bhubaneswar",0.0
+2253,"2017-10-01","Tamil Nadu","33","Coimbatore",107.0
+2254,"2017-10-01","Jammu and Kashmir","1","Srinagar",0.0
+2255,"2017-10-01","Uttar Pradesh","9","Varanasi",0.0
+2256,"2017-10-01","Karnataka","29","Mangalore",204.0
+2257,"2017-10-01","Punjab","3","Amritsar",109.0
+2258,"2017-10-01","Tamil Nadu","33","Trichy",500.0
+2259,"2017-10-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2260,"2017-10-01","Manipur","14","Imphal",0.0
+2261,"2017-10-01","Andhra Pradesh","28","Vijayawada",0.0
+2262,"2017-10-01","Andhra Pradesh","28","Tirupati",0.0
+2263,"2017-10-01","Delhi","7","Delhi",55955.0
+2264,"2017-10-01","Maharashtra","27","Mumbai",52599.0
+2265,"2017-10-01","Karnataka","29","Bangalore",17836.0
+2266,"2017-10-01","Telangana","36","Hyderabad",6405.0
+2267,"2017-10-01","Kerala","32","Cochin",4931.0
+2268,"2017-10-01","Maharashtra","27","Nagpur",80.0
+2269,"2017-10-01","Maharashtra","27","Pune",6.0
+2270,"2017-10-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2271,"2017-10-01","Bihar","10","Patna",0.0
+2272,"2017-10-01","Chandigarh","4","Chandigarh",0.0
+2273,"2017-10-01","West Bengal","19","Bagdogra",0.0
+2274,"2017-10-01","Tamil Nadu","33","Madurai",1.0
+2275,"2017-10-01","Maharashtra","27","Aurangabad",0.0
+2276,"2017-10-01","Bihar","10","Gaya",0.0
+2277,"2017-11-01","Tamil Nadu","33","Chennai",25976.0
+2278,"2017-11-01","West Bengal","19","Kolkata",5542.0
+2279,"2017-11-01","Gujarat","24","Ahmedabad",3446.0
+2280,"2017-11-01","Goa","30","Goa",121.0
+2281,"2017-11-01","Uttar Pradesh","9","Lucknow",240.0
+2282,"2017-11-01","Kerala","32","Trivandrum",1938.0
+2283,"2017-11-01","Assam","18","Guwahati",0.0
+2284,"2017-11-01","Rajasthan","8","Jaipur",298.0
+2285,"2017-11-01","Kerala","32","Calicut",1344.0
+2286,"2017-11-01","Odisha","21","Bhubaneswar",0.0
+2287,"2017-11-01","Tamil Nadu","33","Coimbatore",136.0
+2288,"2017-11-01","Jammu and Kashmir","1","Srinagar",0.0
+2289,"2017-11-01","Uttar Pradesh","9","Varanasi",0.0
+2290,"2017-11-01","Karnataka","29","Mangalore",134.0
+2291,"2017-11-01","Punjab","3","Amritsar",28.0
+2292,"2017-11-01","Tamil Nadu","33","Trichy",491.0
+2293,"2017-11-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2294,"2017-11-01","Manipur","14","Imphal",0.0
+2295,"2017-11-01","Andhra Pradesh","28","Vijayawada",0.0
+2296,"2017-11-01","Andhra Pradesh","28","Tirupati",0.0
+2297,"2017-11-01","Delhi","7","Delhi",54634.0
+2298,"2017-11-01","Maharashtra","27","Mumbai",56683.0
+2299,"2017-11-01","Karnataka","29","Bangalore",18358.0
+2300,"2017-11-01","Telangana","36","Hyderabad",6014.0
+2301,"2017-11-01","Kerala","32","Cochin",5135.0
+2302,"2017-11-01","Maharashtra","27","Nagpur",130.0
+2303,"2017-11-01","Maharashtra","27","Pune",8.0
+2304,"2017-11-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2305,"2017-11-01","Bihar","10","Patna",0.0
+2306,"2017-11-01","Chandigarh","4","Chandigarh",0.0
+2307,"2017-11-01","West Bengal","19","Bagdogra",0.0
+2308,"2017-11-01","Tamil Nadu","33","Madurai",1.0
+2309,"2017-11-01","Maharashtra","27","Aurangabad",0.0
+2310,"2017-11-01","Bihar","10","Gaya",0.0
+2311,"2017-12-01","Tamil Nadu","33","Chennai",24743.0
+2312,"2017-12-01","West Bengal","19","Kolkata",5161.0
+2313,"2017-12-01","Gujarat","24","Ahmedabad",3535.0
+2314,"2017-12-01","Goa","30","Goa",81.0
+2315,"2017-12-01","Uttar Pradesh","9","Lucknow",240.0
+2316,"2017-12-01","Kerala","32","Trivandrum",1725.0
+2317,"2017-12-01","Assam","18","Guwahati",0.0
+2318,"2017-12-01","Rajasthan","8","Jaipur",278.0
+2319,"2017-12-01","Kerala","32","Calicut",1400.0
+2320,"2017-12-01","Odisha","21","Bhubaneswar",0.0
+2321,"2017-12-01","Tamil Nadu","33","Coimbatore",190.0
+2322,"2017-12-01","Jammu and Kashmir","1","Srinagar",0.0
+2323,"2017-12-01","Uttar Pradesh","9","Varanasi",0.0
+2324,"2017-12-01","Karnataka","29","Mangalore",115.0
+2325,"2017-12-01","Punjab","3","Amritsar",34.0
+2326,"2017-12-01","Tamil Nadu","33","Trichy",498.0
+2327,"2017-12-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2328,"2017-12-01","Manipur","14","Imphal",0.0
+2329,"2017-12-01","Andhra Pradesh","28","Vijayawada",0.0
+2330,"2017-12-01","Andhra Pradesh","28","Tirupati",0.0
+2331,"2017-12-01","Delhi","7","Delhi",54903.0
+2332,"2017-12-01","Maharashtra","27","Mumbai",56028.0
+2333,"2017-12-01","Karnataka","29","Bangalore",18837.0
+2334,"2017-12-01","Telangana","36","Hyderabad",6760.0
+2335,"2017-12-01","Kerala","32","Cochin",4615.0
+2336,"2017-12-01","Maharashtra","27","Nagpur",94.0
+2337,"2017-12-01","Maharashtra","27","Pune",10.0
+2338,"2017-12-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2339,"2017-12-01","Bihar","10","Patna",0.0
+2340,"2017-12-01","Chandigarh","4","Chandigarh",0.0
+2341,"2017-12-01","West Bengal","19","Bagdogra",0.0
+2342,"2017-12-01","Tamil Nadu","33","Madurai",1.0
+2343,"2017-12-01","Maharashtra","27","Aurangabad",0.0
+2344,"2017-12-01","Bihar","10","Gaya",0.0
+2345,"2023-04-01","Tamil Nadu","33","Chennai",21123.0
+2346,"2023-04-01","West Bengal","19","Kolkata",3128.0
+2347,"2023-04-01","Goa","30","Goa",256.0
+2348,"2023-04-01","Jammu and Kashmir","1","Srinagar",11.0
+2349,"2023-04-01","Odisha","21","Bhubaneswar",0.0
+2350,"2023-04-01","Kerala","32","Calicut",1491.0
+2351,"2023-04-01","Tamil Nadu","33","Coimbatore",69.0
+2352,"2023-04-01","Uttar Pradesh","9","Varanasi",29.0
+2353,"2023-04-01","Punjab","3","Amritsar",71.0
+2354,"2023-04-01","Tamil Nadu","33","Trichy",525.0
+2355,"2023-04-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2356,"2023-04-01","Manipur","14","Imphal",0.0
+2357,"2023-04-01","Andhra Pradesh","28","Vijayawada",0.0
+2358,"2023-04-01","Andhra Pradesh","28","Tirupati",0.0
+2359,"2023-04-01","Uttar Pradesh","9","Kushinagar",0.0
+2360,"2023-04-01","Gujarat","24","Ahmedabad",4158.0
+2361,"2023-04-01","Uttar Pradesh","9","Lucknow",295.0
+2362,"2023-04-01","Assam","18","Guwahati",0.0
+2363,"2023-04-01","Rajasthan","8","Jaipur",61.0
+2364,"2023-04-01","Kerala","32","Trivandrum",1477.0
+2365,"2023-04-01","Karnataka","29","Mangalore",5.0
+2366,"2023-04-01","Delhi","7","Delhi",47841.0
+2367,"2023-04-01","Maharashtra","27","Mumbai",45638.0
+2368,"2023-04-01","Karnataka","29","Bangalore",20678.0
+2369,"2023-04-01","Telangana","36","Hyderabad",6022.0
+2370,"2023-04-01","Kerala","32","Cochin",3428.0
+2371,"2023-04-01","Maharashtra","27","Nagpur",1.0
+2372,"2023-04-01","Kerala","32","Kannur",378.0
+2373,"2023-04-01","Maharashtra","27","Shirdi",0.0
+2374,"2023-04-01","Goa","30","Goa",0.0
+2375,"2023-04-01","Maharashtra","27","Pune",0.0
+2376,"2023-04-01","Bihar","10","Patna",0.0
+2377,"2023-04-01","Punjab","3","Chandigarh",0.0
+2378,"2023-04-01","Madhya Pradesh","23","Indore",0.0
+2379,"2023-04-01","West Bengal","19","Bagdogra",0.0
+2380,"2023-04-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2381,"2023-04-01","Gujarat","24","Surat",0.0
+2382,"2023-04-01","Tamil Nadu","33","Madurai",60.0
+2383,"2023-04-01","Maharashtra","27","Aurangabad",0.0
+2384,"2023-04-01","Bihar","10","Gaya",0.0
+2385,"2022-08-01","West Bengal","19","Kolkata",3928.0
+2386,"2022-08-01","Tamil Nadu","33","Chennai",21755.0
+2387,"2022-08-01","Goa","30","Goa",173.0
+2388,"2022-08-01","Jammu and Kashmir","1","Srinagar",0.0
+2389,"2022-08-01","Odisha","21","Bhubaneswar",0.0
+2390,"2022-08-01","Uttar Pradesh","9","Varanasi",81.0
+2391,"2022-08-01","Kerala","32","Calicut",1167.0
+2392,"2022-08-01","Punjab","3","Amritsar",63.0
+2393,"2022-08-01","Tamil Nadu","33","Coimbatore",68.0
+2394,"2022-08-01","Manipur","14","Imphal",0.0
+2395,"2022-08-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2396,"2022-08-01","Andhra Pradesh","28","Vijayawada",0.0
+2397,"2022-08-01","Andhra Pradesh","28","Tirupati",0.0
+2398,"2022-08-01","Tamil Nadu","33","Trichy",655.0
+2399,"2022-08-01","Uttar Pradesh","9","Kushinagar",0.0
+2400,"2022-08-01","Gujarat","24","Ahmedabad",3047.0
+2401,"2022-08-01","Uttar Pradesh","9","Lucknow",343.0
+2402,"2022-08-01","Assam","18","Guwahati",0.0
+2403,"2022-08-01","Rajasthan","8","Jaipur",115.0
+2404,"2022-08-01","Kerala","32","Trivandrum",1477.0
+2405,"2022-08-01","Karnataka","29","Mangalore",243.0
+2406,"2022-08-01","Delhi","7","Delhi",45412.0
+2407,"2022-08-01","Maharashtra","27","Mumbai",42548.0
+2408,"2022-08-01","Karnataka","29","Bangalore",22042.0
+2409,"2022-08-01","Telangana","36","Hyderabad",5776.0
+2410,"2022-08-01","Kerala","32","Cochin",4206.0
+2411,"2022-08-01","Maharashtra","27","Nagpur",9.0
+2412,"2022-08-01","Kerala","32","Kannur",418.0
+2413,"2022-08-01","Maharashtra","27","Shirdi",0.0
+2414,"2022-08-01","Maharashtra","27","Pune",1.0
+2415,"2022-08-01","Bihar","10","Patna",0.0
+2416,"2022-08-01","Punjab","3","Chandigarh",0.0
+2417,"2022-08-01","West Bengal","19","Bagdogra",0.0
+2418,"2022-08-01","Madhya Pradesh","23","Indore",9.0
+2419,"2022-08-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2420,"2022-08-01","Gujarat","24","Surat",0.0
+2421,"2022-08-01","Tamil Nadu","33","Madurai",67.0
+2422,"2022-08-01","Maharashtra","27","Aurangabad",0.0
+2423,"2022-08-01","Bihar","10","Gaya",0.0
+2424,"2022-12-01","West Bengal","19","Kolkata",3469.0
+2425,"2022-12-01","Tamil Nadu","33","Chennai",20792.0
+2426,"2022-12-01","Goa","30","Goa",266.0
+2427,"2022-12-01","Jammu and Kashmir","1","Srinagar",0.0
+2428,"2022-12-01","Odisha","21","Bhubaneswar",0.0
+2429,"2022-12-01","Uttar Pradesh","9","Varanasi",79.0
+2430,"2022-12-01","Kerala","32","Calicut",1494.0
+2431,"2022-12-01","Punjab","3","Amritsar",71.0
+2432,"2022-12-01","Tamil Nadu","33","Coimbatore",61.0
+2433,"2022-12-01","Manipur","14","Imphal",0.0
+2434,"2022-12-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2435,"2022-12-01","Andhra Pradesh","28","Vijayawada",0.0
+2436,"2022-12-01","Andhra Pradesh","28","Tirupati",0.0
+2437,"2022-12-01","Tamil Nadu","33","Trichy",518.0
+2438,"2022-12-01","Uttar Pradesh","9","Kushinagar",0.0
+2439,"2022-12-01","Gujarat","24","Ahmedabad",3772.0
+2440,"2022-12-01","Uttar Pradesh","9","Lucknow",242.0
+2441,"2022-12-01","Assam","18","Guwahati",0.0
+2442,"2022-12-01","Rajasthan","8","Jaipur",114.0
+2443,"2022-12-01","Kerala","32","Trivandrum",1065.0
+2444,"2022-12-01","Karnataka","29","Mangalore",105.0
+2445,"2022-12-01","Delhi","7","Delhi",44662.0
+2446,"2022-12-01","Maharashtra","27","Mumbai",45679.0
+2447,"2022-12-01","Karnataka","29","Bangalore",21639.0
+2448,"2022-12-01","Telangana","36","Hyderabad",6669.0
+2449,"2022-12-01","Kerala","32","Cochin",2881.0
+2450,"2022-12-01","Maharashtra","27","Nagpur",3.0
+2451,"2022-12-01","Kerala","32","Kannur",236.0
+2452,"2022-12-01","Maharashtra","27","Shirdi",0.0
+2453,"2022-12-01","Maharashtra","27","Pune",19.0
+2454,"2022-12-01","Bihar","10","Patna",0.0
+2455,"2022-12-01","Punjab","3","Chandigarh",0.0
+2456,"2022-12-01","West Bengal","19","Bagdogra",0.0
+2457,"2022-12-01","Madhya Pradesh","23","Indore",25.0
+2458,"2022-12-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2459,"2022-12-01","Gujarat","24","Surat",0.0
+2460,"2022-12-01","Tamil Nadu","33","Madurai",59.0
+2461,"2022-12-01","Maharashtra","27","Aurangabad",0.0
+2462,"2022-12-01","Bihar","10","Gaya",0.0
+2463,"2023-02-01","West Bengal","19","Kolkata",4035.0
+2464,"2023-02-01","Tamil Nadu","33","Chennai",19117.0
+2465,"2023-02-01","Goa","30","Goa",290.0
+2466,"2023-02-01","Jammu and Kashmir","1","Srinagar",0.0
+2467,"2023-02-01","Odisha","21","Bhubaneswar",0.0
+2468,"2023-02-01","Uttar Pradesh","9","Varanasi",4.0
+2469,"2023-02-01","Kerala","32","Calicut",1198.0
+2470,"2023-02-01","Punjab","3","Amritsar",49.0
+2471,"2023-02-01","Tamil Nadu","33","Coimbatore",61.0
+2472,"2023-02-01","Manipur","14","Imphal",0.0
+2473,"2023-02-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2474,"2023-02-01","Andhra Pradesh","28","Vijayawada",0.0
+2475,"2023-02-01","Andhra Pradesh","28","Tirupati",0.0
+2476,"2023-02-01","Tamil Nadu","33","Trichy",463.0
+2477,"2023-02-01","Uttar Pradesh","9","Kushinagar",0.0
+2478,"2023-02-01","Gujarat","24","Ahmedabad",3165.0
+2479,"2023-02-01","Uttar Pradesh","9","Lucknow",238.0
+2480,"2023-02-01","Assam","18","Guwahati",0.0
+2481,"2023-02-01","Rajasthan","8","Jaipur",107.0
+2482,"2023-02-01","Kerala","32","Trivandrum",1127.0
+2483,"2023-02-01","Karnataka","29","Mangalore",155.0
+2484,"2023-02-01","Delhi","7","Delhi",41250.0
+2485,"2023-02-01","Maharashtra","27","Mumbai",42189.0
+2486,"2023-02-01","Karnataka","29","Bangalore",19134.0
+2487,"2023-02-01","Telangana","36","Hyderabad",6631.0
+2488,"2023-02-01","Kerala","32","Cochin",2962.0
+2489,"2023-02-01","Maharashtra","27","Nagpur",10.0
+2490,"2023-02-01","Kerala","32","Kannur",297.0
+2491,"2023-02-01","Maharashtra","27","Shirdi",0.0
+2492,"2023-02-01","Goa","30","Goa",0.0
+2493,"2023-02-01","Maharashtra","27","Pune",0.0
+2494,"2023-02-01","Bihar","10","Patna",0.0
+2495,"2023-02-01","Punjab","3","Chandigarh",0.0
+2496,"2023-02-01","West Bengal","19","Bagdogra",0.0
+2497,"2023-02-01","Madhya Pradesh","23","Indore",0.0
+2498,"2023-02-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2499,"2023-02-01","Gujarat","24","Surat",0.0
+2500,"2023-02-01","Tamil Nadu","33","Madurai",58.0
+2501,"2023-02-01","Maharashtra","27","Aurangabad",0.0
+2502,"2023-02-01","Bihar","10","Gaya",0.0
+2503,"2023-01-01","West Bengal","19","Kolkata",3652.0
+2504,"2023-01-01","Tamil Nadu","33","Chennai",17595.0
+2505,"2023-01-01","Goa","30","Goa",258.0
+2506,"2023-01-01","Jammu and Kashmir","1","Srinagar",0.0
+2507,"2023-01-01","Odisha","21","Bhubaneswar",0.0
+2508,"2023-01-01","Uttar Pradesh","9","Varanasi",42.0
+2509,"2023-01-01","Kerala","32","Calicut",1362.0
+2510,"2023-01-01","Punjab","3","Amritsar",49.0
+2511,"2023-01-01","Tamil Nadu","33","Coimbatore",65.0
+2512,"2023-01-01","Manipur","14","Imphal",0.0
+2513,"2023-01-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2514,"2023-01-01","Andhra Pradesh","28","Vijayawada",0.0
+2515,"2023-01-01","Andhra Pradesh","28","Tirupati",0.0
+2516,"2023-01-01","Tamil Nadu","33","Trichy",530.0
+2517,"2023-01-01","Uttar Pradesh","9","Kushinagar",0.0
+2518,"2023-01-01","Gujarat","24","Ahmedabad",3546.0
+2519,"2023-01-01","Uttar Pradesh","9","Lucknow",267.0
+2520,"2023-01-01","Assam","18","Guwahati",0.0
+2521,"2023-01-01","Rajasthan","8","Jaipur",157.0
+2522,"2023-01-01","Kerala","32","Trivandrum",1081.0
+2523,"2023-01-01","Karnataka","29","Mangalore",136.0
+2524,"2023-01-01","Delhi","7","Delhi",41421.0
+2525,"2023-01-01","Maharashtra","27","Mumbai",41377.0
+2526,"2023-01-01","Karnataka","29","Bangalore",19439.0
+2527,"2023-01-01","Telangana","36","Hyderabad",5609.0
+2528,"2023-01-01","Kerala","32","Cochin",3035.0
+2529,"2023-01-01","Maharashtra","27","Nagpur",5.0
+2530,"2023-01-01","Kerala","32","Kannur",302.0
+2531,"2023-01-01","Maharashtra","27","Shirdi",0.0
+2532,"2023-01-01","Goa","30","Goa",0.0
+2533,"2023-01-01","Maharashtra","27","Pune",0.0
+2534,"2023-01-01","Bihar","10","Patna",0.0
+2535,"2023-01-01","Punjab","3","Chandigarh",0.0
+2536,"2023-01-01","West Bengal","19","Bagdogra",0.0
+2537,"2023-01-01","Madhya Pradesh","23","Indore",0.0
+2538,"2023-01-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2539,"2023-01-01","Gujarat","24","Surat",0.0
+2540,"2023-01-01","Tamil Nadu","33","Madurai",67.0
+2541,"2023-01-01","Maharashtra","27","Aurangabad",0.0
+2542,"2023-01-01","Bihar","10","Gaya",0.0
+2543,"2022-07-01","West Bengal","19","Kolkata",3593.0
+2544,"2022-07-01","Tamil Nadu","33","Chennai",23554.0
+2545,"2022-07-01","Goa","30","Goa",194.0
+2546,"2022-07-01","Jammu and Kashmir","1","Srinagar",0.0
+2547,"2022-07-01","Odisha","21","Bhubaneswar",0.0
+2548,"2022-07-01","Uttar Pradesh","9","Varanasi",15.0
+2549,"2022-07-01","Kerala","32","Calicut",1233.0
+2550,"2022-07-01","Punjab","3","Amritsar",59.0
+2551,"2022-07-01","Tamil Nadu","33","Coimbatore",101.0
+2552,"2022-07-01","Manipur","14","Imphal",0.0
+2553,"2022-07-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2554,"2022-07-01","Andhra Pradesh","28","Vijayawada",0.0
+2555,"2022-07-01","Andhra Pradesh","28","Tirupati",0.0
+2556,"2022-07-01","Tamil Nadu","33","Trichy",518.0
+2557,"2022-07-01","Uttar Pradesh","9","Kushinagar",0.0
+2558,"2022-07-01","Gujarat","24","Ahmedabad",3689.0
+2559,"2022-07-01","Uttar Pradesh","9","Lucknow",279.0
+2560,"2022-07-01","Assam","18","Guwahati",0.0
+2561,"2022-07-01","Rajasthan","8","Jaipur",85.0
+2562,"2022-07-01","Kerala","32","Trivandrum",1259.0
+2563,"2022-07-01","Karnataka","29","Mangalore",141.0
+2564,"2022-07-01","Delhi","7","Delhi",46013.0
+2565,"2022-07-01","Maharashtra","27","Mumbai",45139.0
+2566,"2022-07-01","Karnataka","29","Bangalore",23215.0
+2567,"2022-07-01","Telangana","36","Hyderabad",6294.0
+2568,"2022-07-01","Kerala","32","Cochin",3634.0
+2569,"2022-07-01","Maharashtra","27","Nagpur",59.0
+2570,"2022-07-01","Kerala","32","Kannur",373.0
+2571,"2022-07-01","Maharashtra","27","Shirdi",0.0
+2572,"2022-07-01","Maharashtra","27","Pune",0.0
+2573,"2022-07-01","Bihar","10","Patna",0.0
+2574,"2022-07-01","Punjab","3","Chandigarh",0.0
+2575,"2022-07-01","West Bengal","19","Bagdogra",0.0
+2576,"2022-07-01","Madhya Pradesh","23","Indore",0.0
+2577,"2022-07-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2578,"2022-07-01","Gujarat","24","Surat",0.0
+2579,"2022-07-01","Tamil Nadu","33","Madurai",70.0
+2580,"2022-07-01","Maharashtra","27","Aurangabad",0.0
+2581,"2022-07-01","Bihar","10","Gaya",0.0
+2582,"2023-07-01","Tamil Nadu","33","Chennai",20997.0
+2583,"2023-07-01","West Bengal","19","Kolkata",3612.0
+2584,"2023-07-01","Goa","30","Goa",133.0
+2585,"2023-07-01","Jammu and Kashmir","1","Srinagar",0.0
+2586,"2023-07-01","Odisha","21","Bhubaneswar",0.0
+2587,"2023-07-01","Kerala","32","Calicut",1499.0
+2588,"2023-07-01","Tamil Nadu","33","Coimbatore",82.0
+2589,"2023-07-01","Uttar Pradesh","9","Varanasi",52.0
+2590,"2023-07-01","Punjab","3","Amritsar",68.0
+2591,"2023-07-01","Tamil Nadu","33","Trichy",533.0
+2592,"2023-07-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2593,"2023-07-01","Manipur","14","Imphal",0.0
+2594,"2023-07-01","Andhra Pradesh","28","Vijayawada",0.0
+2595,"2023-07-01","Andhra Pradesh","28","Tirupati",0.0
+2596,"2023-07-01","Uttar Pradesh","9","Kushinagar",0.0
+2597,"2023-07-01","Gujarat","24","Ahmedabad",3397.0
+2598,"2023-07-01","Uttar Pradesh","9","Lucknow",244.0
+2599,"2023-07-01","Assam","18","Guwahati",0.0
+2600,"2023-07-01","Rajasthan","8","Jaipur",59.0
+2601,"2023-07-01","Kerala","32","Trivandrum",1329.0
+2602,"2023-07-01","Karnataka","29","Mangalore",124.0
+2603,"2023-07-01","Delhi","7","Delhi",50955.0
+2604,"2023-07-01","Maharashtra","27","Mumbai",46204.0
+2605,"2023-07-01","Karnataka","29","Bangalore",21629.0
+2606,"2023-07-01","Telangana","36","Hyderabad",6139.0
+2607,"2023-07-01","Kerala","32","Cochin",3664.0
+2608,"2023-07-01","Maharashtra","27","Nagpur",0.0
+2609,"2023-07-01","Kerala","32","Kannur",261.0
+2610,"2023-07-01","Maharashtra","27","Shirdi",0.0
+2611,"2023-07-01","Goa","30","Goa",0.0
+2612,"2023-07-01","Maharashtra","27","Pune",0.0
+2613,"2023-07-01","Bihar","10","Patna",0.0
+2614,"2023-07-01","Punjab","3","Chandigarh",0.0
+2615,"2023-07-01","Madhya Pradesh","23","Indore",0.0
+2616,"2023-07-01","West Bengal","19","Bagdogra",0.0
+2617,"2023-07-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2618,"2023-07-01","Gujarat","24","Surat",0.0
+2619,"2023-07-01","Tamil Nadu","33","Madurai",80.0
+2620,"2023-07-01","Maharashtra","27","Aurangabad",0.0
+2621,"2023-07-01","Bihar","10","Gaya",0.0
+2622,"2022-06-01","West Bengal","19","Kolkata",3307.0
+2623,"2022-06-01","Tamil Nadu","33","Chennai",22969.0
+2624,"2022-06-01","Goa","30","Goa",220.0
+2625,"2022-06-01","Jammu and Kashmir","1","Srinagar",12.0
+2626,"2022-06-01","Odisha","21","Bhubaneswar",0.0
+2627,"2022-06-01","Uttar Pradesh","9","Varanasi",39.0
+2628,"2022-06-01","Kerala","32","Calicut",1164.0
+2629,"2022-06-01","Punjab","3","Amritsar",128.0
+2630,"2022-06-01","Tamil Nadu","33","Coimbatore",100.0
+2631,"2022-06-01","Manipur","14","Imphal",0.0
+2632,"2022-06-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2633,"2022-06-01","Andhra Pradesh","28","Vijayawada",0.0
+2634,"2022-06-01","Andhra Pradesh","28","Tirupati",0.0
+2635,"2022-06-01","Tamil Nadu","33","Trichy",513.0
+2636,"2022-06-01","Uttar Pradesh","9","Kushinagar",0.0
+2637,"2022-06-01","Gujarat","24","Ahmedabad",3824.0
+2638,"2022-06-01","Uttar Pradesh","9","Lucknow",397.0
+2639,"2022-06-01","Assam","18","Guwahati",0.0
+2640,"2022-06-01","Rajasthan","8","Jaipur",43.0
+2641,"2022-06-01","Kerala","32","Trivandrum",1176.0
+2642,"2022-06-01","Karnataka","29","Mangalore",143.0
+2643,"2022-06-01","Delhi","7","Delhi",44599.0
+2644,"2022-06-01","Maharashtra","27","Mumbai",47652.0
+2645,"2022-06-01","Karnataka","29","Bangalore",21229.0
+2646,"2022-06-01","Telangana","36","Hyderabad",6534.0
+2647,"2022-06-01","Kerala","32","Cochin",3537.0
+2648,"2022-06-01","Maharashtra","27","Nagpur",29.0
+2649,"2022-06-01","Kerala","32","Kannur",338.0
+2650,"2022-06-01","Maharashtra","27","Shirdi",0.0
+2651,"2022-06-01","Maharashtra","27","Pune",2.0
+2652,"2022-06-01","Bihar","10","Patna",0.0
+2653,"2022-06-01","Punjab","3","Chandigarh",0.0
+2654,"2022-06-01","West Bengal","19","Bagdogra",0.0
+2655,"2022-06-01","Madhya Pradesh","23","Indore",0.0
+2656,"2022-06-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2657,"2022-06-01","Gujarat","24","Surat",0.0
+2658,"2022-06-01","Tamil Nadu","33","Madurai",196.0
+2659,"2022-06-01","Maharashtra","27","Aurangabad",0.0
+2660,"2022-06-01","Bihar","10","Gaya",0.0
+2661,"2023-06-01","Tamil Nadu","33","Chennai",20677.0
+2662,"2023-06-01","West Bengal","19","Kolkata",3299.0
+2663,"2023-06-01","Goa","30","Goa",160.0
+2664,"2023-06-01","Jammu and Kashmir","1","Srinagar",0.0
+2665,"2023-06-01","Odisha","21","Bhubaneswar",0.0
+2666,"2023-06-01","Kerala","32","Calicut",1289.0
+2667,"2023-06-01","Tamil Nadu","33","Coimbatore",68.0
+2668,"2023-06-01","Uttar Pradesh","9","Varanasi",89.0
+2669,"2023-06-01","Punjab","3","Amritsar",114.0
+2670,"2023-06-01","Tamil Nadu","33","Trichy",494.0
+2671,"2023-06-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2672,"2023-06-01","Manipur","14","Imphal",0.0
+2673,"2023-06-01","Andhra Pradesh","28","Vijayawada",0.0
+2674,"2023-06-01","Andhra Pradesh","28","Tirupati",0.0
+2675,"2023-06-01","Uttar Pradesh","9","Kushinagar",0.0
+2676,"2023-06-01","Gujarat","24","Ahmedabad",3575.0
+2677,"2023-06-01","Uttar Pradesh","9","Lucknow",421.0
+2678,"2023-06-01","Assam","18","Guwahati",0.0
+2679,"2023-06-01","Rajasthan","8","Jaipur",158.0
+2680,"2023-06-01","Kerala","32","Trivandrum",1208.0
+2681,"2023-06-01","Karnataka","29","Mangalore",157.0
+2682,"2023-06-01","Delhi","7","Delhi",48642.0
+2683,"2023-06-01","Maharashtra","27","Mumbai",49550.0
+2684,"2023-06-01","Karnataka","29","Bangalore",21778.0
+2685,"2023-06-01","Telangana","36","Hyderabad",6916.0
+2686,"2023-06-01","Kerala","32","Cochin",3458.0
+2687,"2023-06-01","Maharashtra","27","Nagpur",6.0
+2688,"2023-06-01","Kerala","32","Kannur",246.0
+2689,"2023-06-01","Maharashtra","27","Shirdi",0.0
+2690,"2023-06-01","Goa","30","Goa",0.0
+2691,"2023-06-01","Maharashtra","27","Pune",0.0
+2692,"2023-06-01","Bihar","10","Patna",0.0
+2693,"2023-06-01","Punjab","3","Chandigarh",0.0
+2694,"2023-06-01","Madhya Pradesh","23","Indore",0.0
+2695,"2023-06-01","West Bengal","19","Bagdogra",0.0
+2696,"2023-06-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2697,"2023-06-01","Gujarat","24","Surat",0.0
+2698,"2023-06-01","Tamil Nadu","33","Madurai",64.0
+2699,"2023-06-01","Maharashtra","27","Aurangabad",0.0
+2700,"2023-06-01","Bihar","10","Gaya",0.0
+2701,"2023-03-01","West Bengal","19","Kolkata",4618.0
+2702,"2023-03-01","Tamil Nadu","33","Chennai",24588.0
+2703,"2023-03-01","Goa","30","Goa",319.0
+2704,"2023-03-01","Jammu and Kashmir","1","Srinagar",0.0
+2705,"2023-03-01","Odisha","21","Bhubaneswar",0.0
+2706,"2023-03-01","Uttar Pradesh","9","Varanasi",33.0
+2707,"2023-03-01","Kerala","32","Calicut",1520.0
+2708,"2023-03-01","Punjab","3","Amritsar",92.0
+2709,"2023-03-01","Tamil Nadu","33","Coimbatore",68.0
+2710,"2023-03-01","Manipur","14","Imphal",0.0
+2711,"2023-03-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2712,"2023-03-01","Andhra Pradesh","28","Vijayawada",0.0
+2713,"2023-03-01","Andhra Pradesh","28","Tirupati",0.0
+2714,"2023-03-01","Tamil Nadu","33","Trichy",473.0
+2715,"2023-03-01","Uttar Pradesh","9","Kushinagar",0.0
+2716,"2023-03-01","Gujarat","24","Ahmedabad",4039.0
+2717,"2023-03-01","Uttar Pradesh","9","Lucknow",380.0
+2718,"2023-03-01","Assam","18","Guwahati",0.0
+2719,"2023-03-01","Rajasthan","8","Jaipur",90.0
+2720,"2023-03-01","Kerala","32","Trivandrum",1390.0
+2721,"2023-03-01","Karnataka","29","Mangalore",158.0
+2722,"2023-03-01","Delhi","7","Delhi",52244.0
+2723,"2023-03-01","Maharashtra","27","Mumbai",50141.0
+2724,"2023-03-01","Karnataka","29","Bangalore",23416.0
+2725,"2023-03-01","Telangana","36","Hyderabad",7134.0
+2726,"2023-03-01","Kerala","32","Cochin",3792.0
+2727,"2023-03-01","Maharashtra","27","Nagpur",4.0
+2728,"2023-03-01","Kerala","32","Kannur",377.0
+2729,"2023-03-01","Maharashtra","27","Shirdi",0.0
+2730,"2023-03-01","Goa","30","Goa",0.0
+2731,"2023-03-01","Maharashtra","27","Pune",0.0
+2732,"2023-03-01","Bihar","10","Patna",0.0
+2733,"2023-03-01","Punjab","3","Chandigarh",0.0
+2734,"2023-03-01","West Bengal","19","Bagdogra",0.0
+2735,"2023-03-01","Madhya Pradesh","23","Indore",0.0
+2736,"2023-03-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2737,"2023-03-01","Gujarat","24","Surat",0.0
+2738,"2023-03-01","Tamil Nadu","33","Madurai",51.0
+2739,"2023-03-01","Maharashtra","27","Aurangabad",0.0
+2740,"2023-03-01","Bihar","10","Gaya",0.0
+2741,"2023-05-01","Tamil Nadu","33","Chennai",21511.0
+2742,"2023-05-01","West Bengal","19","Kolkata",3198.0
+2743,"2023-05-01","Goa","30","Goa",204.0
+2744,"2023-05-01","Jammu and Kashmir","1","Srinagar",0.0
+2745,"2023-05-01","Odisha","21","Bhubaneswar",0.0
+2746,"2023-05-01","Kerala","32","Calicut",1512.0
+2747,"2023-05-01","Tamil Nadu","33","Coimbatore",75.0
+2748,"2023-05-01","Uttar Pradesh","9","Varanasi",41.0
+2749,"2023-05-01","Punjab","3","Amritsar",54.0
+2750,"2023-05-01","Tamil Nadu","33","Trichy",556.0
+2751,"2023-05-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2752,"2023-05-01","Manipur","14","Imphal",0.0
+2753,"2023-05-01","Andhra Pradesh","28","Vijayawada",0.0
+2754,"2023-05-01","Andhra Pradesh","28","Tirupati",0.0
+2755,"2023-05-01","Uttar Pradesh","9","Kushinagar",0.0
+2756,"2023-05-01","Gujarat","24","Ahmedabad",3783.0
+2757,"2023-05-01","Uttar Pradesh","9","Lucknow",264.0
+2758,"2023-05-01","Assam","18","Guwahati",0.0
+2759,"2023-05-01","Rajasthan","8","Jaipur",125.0
+2760,"2023-05-01","Kerala","32","Trivandrum",1447.0
+2761,"2023-05-01","Karnataka","29","Mangalore",142.0
+2762,"2023-05-01","Delhi","7","Delhi",47600.0
+2763,"2023-05-01","Maharashtra","27","Mumbai",49230.0
+2764,"2023-05-01","Karnataka","29","Bangalore",20545.0
+2765,"2023-05-01","Telangana","36","Hyderabad",6275.0
+2766,"2023-05-01","Kerala","32","Cochin",3927.0
+2767,"2023-05-01","Maharashtra","27","Nagpur",0.0
+2768,"2023-05-01","Kerala","32","Kannur",304.0
+2769,"2023-05-01","Maharashtra","27","Shirdi",0.0
+2770,"2023-05-01","Goa","30","Goa",0.0
+2771,"2023-05-01","Maharashtra","27","Pune",0.0
+2772,"2023-05-01","Bihar","10","Patna",0.0
+2773,"2023-05-01","Punjab","3","Chandigarh",0.0
+2774,"2023-05-01","Madhya Pradesh","23","Indore",0.0
+2775,"2023-05-01","West Bengal","19","Bagdogra",0.0
+2776,"2023-05-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2777,"2023-05-01","Gujarat","24","Surat",0.0
+2778,"2023-05-01","Tamil Nadu","33","Madurai",51.0
+2779,"2023-05-01","Maharashtra","27","Aurangabad",0.0
+2780,"2023-05-01","Bihar","10","Gaya",0.0
+2781,"2022-11-01","West Bengal","19","Kolkata",3591.0
+2782,"2022-11-01","Tamil Nadu","33","Chennai",20005.0
+2783,"2022-11-01","Goa","30","Goa",162.0
+2784,"2022-11-01","Jammu and Kashmir","1","Srinagar",0.0
+2785,"2022-11-01","Odisha","21","Bhubaneswar",0.0
+2786,"2022-11-01","Uttar Pradesh","9","Varanasi",83.0
+2787,"2022-11-01","Kerala","32","Calicut",1254.0
+2788,"2022-11-01","Punjab","3","Amritsar",147.0
+2789,"2022-11-01","Tamil Nadu","33","Coimbatore",57.0
+2790,"2022-11-01","Manipur","14","Imphal",0.0
+2791,"2022-11-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2792,"2022-11-01","Andhra Pradesh","28","Vijayawada",0.0
+2793,"2022-11-01","Andhra Pradesh","28","Tirupati",0.0
+2794,"2022-11-01","Tamil Nadu","33","Trichy",529.0
+2795,"2022-11-01","Uttar Pradesh","9","Kushinagar",0.0
+2796,"2022-11-01","Gujarat","24","Ahmedabad",3692.0
+2797,"2022-11-01","Uttar Pradesh","9","Lucknow",252.0
+2798,"2022-11-01","Assam","18","Guwahati",0.0
+2799,"2022-11-01","Rajasthan","8","Jaipur",79.0
+2800,"2022-11-01","Kerala","32","Trivandrum",1250.0
+2801,"2022-11-01","Karnataka","29","Mangalore",142.0
+2802,"2022-11-01","Delhi","7","Delhi",44187.0
+2803,"2022-11-01","Maharashtra","27","Mumbai",44015.0
+2804,"2022-11-01","Karnataka","29","Bangalore",20770.0
+2805,"2022-11-01","Telangana","36","Hyderabad",6247.0
+2806,"2022-11-01","Kerala","32","Cochin",2965.0
+2807,"2022-11-01","Maharashtra","27","Nagpur",8.0
+2808,"2022-11-01","Kerala","32","Kannur",198.0
+2809,"2022-11-01","Maharashtra","27","Shirdi",0.0
+2810,"2022-11-01","Maharashtra","27","Pune",15.0
+2811,"2022-11-01","Bihar","10","Patna",0.0
+2812,"2022-11-01","Punjab","3","Chandigarh",0.0
+2813,"2022-11-01","West Bengal","19","Bagdogra",0.0
+2814,"2022-11-01","Madhya Pradesh","23","Indore",0.0
+2815,"2022-11-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2816,"2022-11-01","Gujarat","24","Surat",0.0
+2817,"2022-11-01","Tamil Nadu","33","Madurai",65.0
+2818,"2022-11-01","Maharashtra","27","Aurangabad",0.0
+2819,"2022-11-01","Bihar","10","Gaya",0.0
+2820,"2022-10-01","West Bengal","19","Kolkata",3140.0
+2821,"2022-10-01","Tamil Nadu","33","Chennai",19974.0
+2822,"2022-10-01","Goa","30","Goa",134.0
+2823,"2022-10-01","Jammu and Kashmir","1","Srinagar",0.0
+2824,"2022-10-01","Odisha","21","Bhubaneswar",0.0
+2825,"2022-10-01","Uttar Pradesh","9","Varanasi",92.0
+2826,"2022-10-01","Kerala","32","Calicut",894.0
+2827,"2022-10-01","Punjab","3","Amritsar",102.0
+2828,"2022-10-01","Tamil Nadu","33","Coimbatore",72.0
+2829,"2022-10-01","Manipur","14","Imphal",0.0
+2830,"2022-10-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2831,"2022-10-01","Andhra Pradesh","28","Vijayawada",0.0
+2832,"2022-10-01","Andhra Pradesh","28","Tirupati",0.0
+2833,"2022-10-01","Tamil Nadu","33","Trichy",582.0
+2834,"2022-10-01","Uttar Pradesh","9","Kushinagar",0.0
+2835,"2022-10-01","Gujarat","24","Ahmedabad",3728.0
+2836,"2022-10-01","Uttar Pradesh","9","Lucknow",262.0
+2837,"2022-10-01","Assam","18","Guwahati",0.0
+2838,"2022-10-01","Rajasthan","8","Jaipur",76.0
+2839,"2022-10-01","Kerala","32","Trivandrum",1354.0
+2840,"2022-10-01","Karnataka","29","Mangalore",143.0
+2841,"2022-10-01","Delhi","7","Delhi",44408.0
+2842,"2022-10-01","Maharashtra","27","Mumbai",43825.0
+2843,"2022-10-01","Karnataka","29","Bangalore",20843.0
+2844,"2022-10-01","Telangana","36","Hyderabad",5785.0
+2845,"2022-10-01","Kerala","32","Cochin",3639.0
+2846,"2022-10-01","Maharashtra","27","Nagpur",26.0
+2847,"2022-10-01","Kerala","32","Kannur",302.0
+2848,"2022-10-01","Maharashtra","27","Shirdi",0.0
+2849,"2022-10-01","Maharashtra","27","Pune",5.0
+2850,"2022-10-01","Bihar","10","Patna",0.0
+2851,"2022-10-01","Punjab","3","Chandigarh",0.0
+2852,"2022-10-01","West Bengal","19","Bagdogra",0.0
+2853,"2022-10-01","Madhya Pradesh","23","Indore",0.0
+2854,"2022-10-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2855,"2022-10-01","Gujarat","24","Surat",0.0
+2856,"2022-10-01","Tamil Nadu","33","Madurai",96.0
+2857,"2022-10-01","Maharashtra","27","Aurangabad",0.0
+2858,"2022-10-01","Bihar","10","Gaya",0.0
+2859,"2022-09-01","West Bengal","19","Kolkata",3759.0
+2860,"2022-09-01","Tamil Nadu","33","Chennai",22130.0
+2861,"2022-09-01","Goa","30","Goa",177.0
+2862,"2022-09-01","Jammu and Kashmir","1","Srinagar",0.0
+2863,"2022-09-01","Odisha","21","Bhubaneswar",0.0
+2864,"2022-09-01","Uttar Pradesh","9","Varanasi",86.0
+2865,"2022-09-01","Kerala","32","Calicut",1004.0
+2866,"2022-09-01","Punjab","3","Amritsar",67.0
+2867,"2022-09-01","Tamil Nadu","33","Coimbatore",66.0
+2868,"2022-09-01","Manipur","14","Imphal",0.0
+2869,"2022-09-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2870,"2022-09-01","Andhra Pradesh","28","Vijayawada",0.0
+2871,"2022-09-01","Andhra Pradesh","28","Tirupati",0.0
+2872,"2022-09-01","Tamil Nadu","33","Trichy",551.0
+2873,"2022-09-01","Uttar Pradesh","9","Kushinagar",0.0
+2874,"2022-09-01","Gujarat","24","Ahmedabad",3909.0
+2875,"2022-09-01","Uttar Pradesh","9","Lucknow",287.0
+2876,"2022-09-01","Assam","18","Guwahati",0.0
+2877,"2022-09-01","Rajasthan","8","Jaipur",117.0
+2878,"2022-09-01","Kerala","32","Trivandrum",1394.0
+2879,"2022-09-01","Karnataka","29","Mangalore",248.0
+2880,"2022-09-01","Delhi","7","Delhi",49355.0
+2881,"2022-09-01","Maharashtra","27","Mumbai",45008.0
+2882,"2022-09-01","Karnataka","29","Bangalore",22664.0
+2883,"2022-09-01","Telangana","36","Hyderabad",6006.0
+2884,"2022-09-01","Kerala","32","Cochin",4052.0
+2885,"2022-09-01","Maharashtra","27","Nagpur",36.0
+2886,"2022-09-01","Kerala","32","Kannur",366.0
+2887,"2022-09-01","Maharashtra","27","Shirdi",0.0
+2888,"2022-09-01","Maharashtra","27","Pune",4.0
+2889,"2022-09-01","Bihar","10","Patna",0.0
+2890,"2022-09-01","Punjab","3","Chandigarh",0.0
+2891,"2022-09-01","West Bengal","19","Bagdogra",0.0
+2892,"2022-09-01","Madhya Pradesh","23","Indore",0.0
+2893,"2022-09-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2894,"2022-09-01","Gujarat","24","Surat",0.0
+2895,"2022-09-01","Tamil Nadu","33","Madurai",109.0
+2896,"2022-09-01","Maharashtra","27","Aurangabad",0.0
+2897,"2022-09-01","Bihar","10","Gaya",0.0
+2898,"2023-08-01","Tamil Nadu","33","Chennai",20468.0
+2899,"2023-08-01","West Bengal","19","Kolkata",3962.0
+2900,"2023-08-01","Goa","30","Goa",66.0
+2901,"2023-08-01","Jammu and Kashmir","1","Srinagar",0.0
+2902,"2023-08-01","Odisha","21","Bhubaneswar",0.0
+2903,"2023-08-01","Kerala","32","Calicut",1592.0
+2904,"2023-08-01","Tamil Nadu","33","Coimbatore",74.0
+2905,"2023-08-01","Uttar Pradesh","9","Varanasi",91.0
+2906,"2023-08-01","Punjab","3","Amritsar",83.0
+2907,"2023-08-01","Tamil Nadu","33","Trichy",599.0
+2908,"2023-08-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2909,"2023-08-01","Manipur","14","Imphal",0.0
+2910,"2023-08-01","Andhra Pradesh","28","Vijayawada",0.0
+2911,"2023-08-01","Andhra Pradesh","28","Tirupati",0.0
+2912,"2023-08-01","Uttar Pradesh","9","Kushinagar",0.0
+2913,"2023-08-01","Gujarat","24","Ahmedabad",3592.0
+2914,"2023-08-01","Uttar Pradesh","9","Lucknow",325.0
+2915,"2023-08-01","Assam","18","Guwahati",0.0
+2916,"2023-08-01","Rajasthan","8","Jaipur",126.0
+2917,"2023-08-01","Kerala","32","Trivandrum",1527.0
+2918,"2023-08-01","Karnataka","29","Mangalore",171.0
+2919,"2023-08-01","Delhi","7","Delhi",53562.0
+2920,"2023-08-01","Maharashtra","27","Mumbai",45952.0
+2921,"2023-08-01","Karnataka","29","Bangalore",21423.0
+2922,"2023-08-01","Telangana","36","Hyderabad",6571.0
+2923,"2023-08-01","Kerala","32","Cochin",4362.0
+2924,"2023-08-01","Maharashtra","27","Nagpur",25.0
+2925,"2023-08-01","Kerala","32","Kannur",345.0
+2926,"2023-08-01","Maharashtra","27","Shirdi",0.0
+2927,"2023-08-01","Goa","30","Goa",0.0
+2928,"2023-08-01","Maharashtra","27","Pune",0.0
+2929,"2023-08-01","Bihar","10","Patna",0.0
+2930,"2023-08-01","Chandigarh","4","Chandigarh",0.0
+2931,"2023-08-01","Punjab","3","Chandigarh",0.0
+2932,"2023-08-01","Madhya Pradesh","23","Indore",0.0
+2933,"2023-08-01","West Bengal","19","Bagdogra",0.0
+2934,"2023-08-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2935,"2023-08-01","Gujarat","24","Surat",0.0
+2936,"2023-08-01","Tamil Nadu","33","Madurai",104.0
+2937,"2023-08-01","Maharashtra","27","Aurangabad",0.0
+2938,"2023-08-01","Bihar","10","Gaya",0.0
+2939,"2023-12-01","Tamil Nadu","33","Chennai",21062.0
+2940,"2023-12-01","West Bengal","19","Kolkata",4025.0
+2941,"2023-12-01","Goa","30","Goa",146.0
+2942,"2023-12-01","Jammu and Kashmir","1","Srinagar",10.0
+2943,"2023-12-01","Odisha","21","Bhubaneswar",0.0
+2944,"2023-12-01","Kerala","32","Calicut",1501.0
+2945,"2023-12-01","Tamil Nadu","33","Coimbatore",60.0
+2946,"2023-12-01","Uttar Pradesh","9","Varanasi",94.0
+2947,"2023-12-01","Punjab","3","Amritsar",116.0
+2948,"2023-12-01","Tamil Nadu","33","Trichy",542.0
+2949,"2023-12-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2950,"2023-12-01","Manipur","14","Imphal",0.0
+2951,"2023-12-01","Andhra Pradesh","28","Vijayawada",0.0
+2952,"2023-12-01","Andhra Pradesh","28","Tirupati",0.0
+2953,"2023-12-01","Uttar Pradesh","9","Kushinagar",0.0
+2954,"2023-12-01","Gujarat","24","Ahmedabad",3956.0
+2955,"2023-12-01","Uttar Pradesh","9","Lucknow",322.0
+2956,"2023-12-01","Assam","18","Guwahati",0.0
+2957,"2023-12-01","Rajasthan","8","Jaipur",108.0
+2958,"2023-12-01","Kerala","32","Trivandrum",919.0
+2959,"2023-12-01","Karnataka","29","Mangalore",132.0
+2960,"2023-12-01","Delhi","7","Delhi",54573.0
+2961,"2023-12-01","Maharashtra","27","Mumbai",51760.0
+2962,"2023-12-01","Karnataka","29","Bangalore",22352.0
+2963,"2023-12-01","Telangana","36","Hyderabad",6674.0
+2964,"2023-12-01","Kerala","32","Cochin",3750.0
+2965,"2023-12-01","Maharashtra","27","Nagpur",6.0
+2966,"2023-12-01","Kerala","32","Kannur",199.0
+2967,"2023-12-01","Maharashtra","27","Shirdi",0.0
+2968,"2023-12-01","Goa","30","Goa",171.0
+2969,"2023-12-01","Maharashtra","27","Pune",0.0
+2970,"2023-12-01","Bihar","10","Patna",0.0
+2971,"2023-12-01","Chandigarh","4","Chandigarh",0.0
+2972,"2023-12-01","Punjab","3","Chandigarh",0.0
+2973,"2023-12-01","Madhya Pradesh","23","Indore",0.0
+2974,"2023-12-01","West Bengal","19","Bagdogra",0.0
+2975,"2023-12-01","Andhra Pradesh","28","Visakhapatnam",0.0
+2976,"2023-12-01","Gujarat","24","Surat",0.0
+2977,"2023-12-01","Tamil Nadu","33","Madurai",128.0
+2978,"2023-12-01","Maharashtra","27","Aurangabad",0.0
+2979,"2023-12-01","Bihar","10","Gaya",0.0
+2980,"2023-11-01","Tamil Nadu","33","Chennai",20429.0
+2981,"2023-11-01","West Bengal","19","Kolkata",4095.0
+2982,"2023-11-01","Goa","30","Goa",157.0
+2983,"2023-11-01","Jammu and Kashmir","1","Srinagar",0.0
+2984,"2023-11-01","Odisha","21","Bhubaneswar",17.0
+2985,"2023-11-01","Kerala","32","Calicut",1357.0
+2986,"2023-11-01","Tamil Nadu","33","Coimbatore",75.0
+2987,"2023-11-01","Uttar Pradesh","9","Varanasi",124.0
+2988,"2023-11-01","Punjab","3","Amritsar",154.0
+2989,"2023-11-01","Tamil Nadu","33","Trichy",535.0
+2990,"2023-11-01","Andaman and Nicobar Islands","35","Portblair",0.0
+2991,"2023-11-01","Manipur","14","Imphal",0.0
+2992,"2023-11-01","Andhra Pradesh","28","Vijayawada",0.0
+2993,"2023-11-01","Andhra Pradesh","28","Tirupati",0.0
+2994,"2023-11-01","Uttar Pradesh","9","Kushinagar",0.0
+2995,"2023-11-01","Gujarat","24","Ahmedabad",3374.0
+2996,"2023-11-01","Uttar Pradesh","9","Lucknow",318.0
+2997,"2023-11-01","Assam","18","Guwahati",0.0
+2998,"2023-11-01","Rajasthan","8","Jaipur",102.0
+2999,"2023-11-01","Kerala","32","Trivandrum",1110.0
+3000,"2023-11-01","Karnataka","29","Mangalore",122.0
+3001,"2023-11-01","Delhi","7","Delhi",49624.0
+3002,"2023-11-01","Maharashtra","27","Mumbai",44198.0
+3003,"2023-11-01","Karnataka","29","Bangalore",21214.0
+3004,"2023-11-01","Telangana","36","Hyderabad",5805.0
+3005,"2023-11-01","Kerala","32","Cochin",3487.0
+3006,"2023-11-01","Maharashtra","27","Nagpur",7.0
+3007,"2023-11-01","Kerala","32","Kannur",215.0
+3008,"2023-11-01","Maharashtra","27","Shirdi",0.0
+3009,"2023-11-01","Goa","30","Goa",146.0
+3010,"2023-11-01","Maharashtra","27","Pune",0.0
+3011,"2023-11-01","Bihar","10","Patna",0.0
+3012,"2023-11-01","Chandigarh","4","Chandigarh",0.0
+3013,"2023-11-01","Punjab","3","Chandigarh",0.0
+3014,"2023-11-01","Madhya Pradesh","23","Indore",0.0
+3015,"2023-11-01","West Bengal","19","Bagdogra",0.0
+3016,"2023-11-01","Andhra Pradesh","28","Visakhapatnam",0.0
+3017,"2023-11-01","Gujarat","24","Surat",0.0
+3018,"2023-11-01","Tamil Nadu","33","Madurai",390.0
+3019,"2023-11-01","Maharashtra","27","Aurangabad",0.0
+3020,"2023-11-01","Bihar","10","Gaya",0.0
+3021,"2023-10-01","Tamil Nadu","33","Chennai",20862.0
+3022,"2023-10-01","West Bengal","19","Kolkata",4274.0
+3023,"2023-10-01","Goa","30","Goa",89.0
+3024,"2023-10-01","Jammu and Kashmir","1","Srinagar",0.0
+3025,"2023-10-01","Odisha","21","Bhubaneswar",0.0
+3026,"2023-10-01","Kerala","32","Calicut",1489.0
+3027,"2023-10-01","Tamil Nadu","33","Coimbatore",85.0
+3028,"2023-10-01","Uttar Pradesh","9","Varanasi",67.0
+3029,"2023-10-01","Punjab","3","Amritsar",157.0
+3030,"2023-10-01","Tamil Nadu","33","Trichy",560.0
+3031,"2023-10-01","Andaman and Nicobar Islands","35","Portblair",0.0
+3032,"2023-10-01","Manipur","14","Imphal",0.0
+3033,"2023-10-01","Andhra Pradesh","28","Vijayawada",0.0
+3034,"2023-10-01","Andhra Pradesh","28","Tirupati",0.0
+3035,"2023-10-01","Uttar Pradesh","9","Kushinagar",0.0
+3036,"2023-10-01","Gujarat","24","Ahmedabad",4269.0
+3037,"2023-10-01","Uttar Pradesh","9","Lucknow",363.0
+3038,"2023-10-01","Assam","18","Guwahati",0.0
+3039,"2023-10-01","Rajasthan","8","Jaipur",65.0
+3040,"2023-10-01","Kerala","32","Trivandrum",1383.0
+3041,"2023-10-01","Karnataka","29","Mangalore",173.0
+3042,"2023-10-01","Delhi","7","Delhi",56026.0
+3043,"2023-10-01","Maharashtra","27","Mumbai",48653.0
+3044,"2023-10-01","Karnataka","29","Bangalore",21587.0
+3045,"2023-10-01","Telangana","36","Hyderabad",7095.0
+3046,"2023-10-01","Kerala","32","Cochin",4041.0
+3047,"2023-10-01","Maharashtra","27","Nagpur",12.0
+3048,"2023-10-01","Kerala","32","Kannur",263.0
+3049,"2023-10-01","Maharashtra","27","Shirdi",0.0
+3050,"2023-10-01","Goa","30","Goa",148.0
+3051,"2023-10-01","Maharashtra","27","Pune",0.0
+3052,"2023-10-01","Bihar","10","Patna",0.0
+3053,"2023-10-01","Chandigarh","4","Chandigarh",0.0
+3054,"2023-10-01","Punjab","3","Chandigarh",0.0
+3055,"2023-10-01","Madhya Pradesh","23","Indore",0.0
+3056,"2023-10-01","West Bengal","19","Bagdogra",0.0
+3057,"2023-10-01","Andhra Pradesh","28","Visakhapatnam",0.0
+3058,"2023-10-01","Gujarat","24","Surat",0.0
+3059,"2023-10-01","Tamil Nadu","33","Madurai",181.0
+3060,"2023-10-01","Maharashtra","27","Aurangabad",0.0
+3061,"2023-10-01","Bihar","10","Gaya",0.0
+3062,"2023-09-01","Tamil Nadu","33","Chennai",20889.0
+3063,"2023-09-01","West Bengal","19","Kolkata",4188.0
+3064,"2023-09-01","Goa","30","Goa",42.0
+3065,"2023-09-01","Jammu and Kashmir","1","Srinagar",0.0
+3066,"2023-09-01","Odisha","21","Bhubaneswar",0.0
+3067,"2023-09-01","Kerala","32","Calicut",1515.0
+3068,"2023-09-01","Tamil Nadu","33","Coimbatore",95.0
+3069,"2023-09-01","Uttar Pradesh","9","Varanasi",99.0
+3070,"2023-09-01","Punjab","3","Amritsar",117.0
+3071,"2023-09-01","Tamil Nadu","33","Trichy",529.0
+3072,"2023-09-01","Andaman and Nicobar Islands","35","Portblair",0.0
+3073,"2023-09-01","Manipur","14","Imphal",0.0
+3074,"2023-09-01","Andhra Pradesh","28","Vijayawada",0.0
+3075,"2023-09-01","Andhra Pradesh","28","Tirupati",0.0
+3076,"2023-09-01","Uttar Pradesh","9","Kushinagar",0.0
+3077,"2023-09-01","Gujarat","24","Ahmedabad",3863.0
+3078,"2023-09-01","Uttar Pradesh","9","Lucknow",348.0
+3079,"2023-09-01","Assam","18","Guwahati",0.0
+3080,"2023-09-01","Rajasthan","8","Jaipur",168.0
+3081,"2023-09-01","Kerala","32","Trivandrum",1394.0
+3082,"2023-09-01","Karnataka","29","Mangalore",164.0
+3083,"2023-09-01","Delhi","7","Delhi",54445.0
+3084,"2023-09-01","Maharashtra","27","Mumbai",45512.0
+3085,"2023-09-01","Karnataka","29","Bangalore",21481.0
+3086,"2023-09-01","Telangana","36","Hyderabad",6519.0
+3087,"2023-09-01","Kerala","32","Cochin",3876.0
+3088,"2023-09-01","Maharashtra","27","Nagpur",0.0
+3089,"2023-09-01","Kerala","32","Kannur",303.0
+3090,"2023-09-01","Maharashtra","27","Shirdi",0.0
+3091,"2023-09-01","Goa","30","Goa",104.0
+3092,"2023-09-01","Maharashtra","27","Pune",0.0
+3093,"2023-09-01","Bihar","10","Patna",0.0
+3094,"2023-09-01","Chandigarh","4","Chandigarh",0.0
+3095,"2023-09-01","Punjab","3","Chandigarh",0.0
+3096,"2023-09-01","Madhya Pradesh","23","Indore",0.0
+3097,"2023-09-01","West Bengal","19","Bagdogra",0.0
+3098,"2023-09-01","Andhra Pradesh","28","Visakhapatnam",0.0
+3099,"2023-09-01","Gujarat","24","Surat",0.0
+3100,"2023-09-01","Tamil Nadu","33","Madurai",104.0
+3101,"2023-09-01","Maharashtra","27","Aurangabad",0.0
+3102,"2023-09-01","Bihar","10","Gaya",0.0
