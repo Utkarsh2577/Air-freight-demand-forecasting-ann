@@ -76,7 +76,7 @@ The model successfully captured:
 Example:
 ![Actual vs Predicted](outputs/forecast.png)
 
-👉 The model predictions closely follow actual demand trends, showing strong generalization ability. :contentReference[oaicite:3]{index=3}  
+👉 The model predictions closely follow actual demand trends, showing strong generalization ability.
 
 ---
 
